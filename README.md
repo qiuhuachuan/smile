@@ -11,7 +11,7 @@
     <a href='/' target='_blank'>Hongliang He <sup>1, 2</sup></a>&emsp;
     <a href='/' target='_blank'>Shuai Zhang <sup>1, 2</sup></a>&emsp;
     <a href='/' target='_blank'>Anqi Li <sup>1, 2</sup></a>&emsp;
-    <a href='https://scholar.google.com/citations?user=tlDABkgAAAAJ&hl=en&oi=ao' target='_blank'>Zhenzhong Lan <sup>2</sup></a>&emsp; </br>
+    <a href='https://scholar.google.com/citations?user=tlDABkgAAAAJ&hl=en&oi=ao' target='_blank'>Zhenzhong Lan <sup>2</sup></a>&emsp;
 </div>
 
 <br>
