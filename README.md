@@ -24,7 +24,7 @@
 <br>
 
 <b>TL;DR: An efficient method that can:</b>  
-1️⃣ automatically construct a collection of large-scale, diverse and muti-turn conversations;
+1️⃣ automatically construct a collection of large-scale, diverse and muti-turn conversations;<br>
 2️⃣ provide an SmileChat datatset for building a dialog agent for mental health support.
 
 <br>
