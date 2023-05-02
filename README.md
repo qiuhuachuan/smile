@@ -8,9 +8,9 @@
 
 <div>
     <a href='https://scholar.google.com/citations?user=UCx7h5YAAAAJ&hl=en' target='_blank'>Huachuan Qiu <sup>1, 2</sup></a>&emsp;
-    <a href='/' target='_blank'>Hongliang He <sup>1, 2</sup></a>&emsp;
-    <a href='/' target='_blank'>Shuai Zhang <sup>1, 2</sup></a>&emsp;
-    <a href='/' target='_blank'>Anqi Li <sup>1, 2</sup></a>&emsp;
+    <span>Hongliang He <sup>1, 2</sup></span>&emsp;
+    <span>Shuai Zhang <sup>1, 2</sup></span>&emsp;
+    <span>Anqi Li <sup>1, 2</sup></span>&emsp;
     <a href='https://scholar.google.com/citations?user=tlDABkgAAAAJ&hl=en&oi=ao' target='_blank'>Zhenzhong Lan <sup>2</sup></a>&emsp;
 </div>
 
