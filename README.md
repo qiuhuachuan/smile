@@ -77,9 +77,22 @@
 }
 ```
 
-## ⏳ TODO
+# For Training
+
+## Step 1: Convert to Training File
+
+We will obtain 355733 training examples.
+
+```Python
+python convert_to_train_json.py
+```
+
+## DONE
 
 - [x] Release SmileChat dataset
+
+## ⏳ TODO
+
 - [ ] Release analysis code
 - [ ] Release training code
 
