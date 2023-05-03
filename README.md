@@ -4,7 +4,7 @@
     SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT
 </h2>
 
-<a href='https://arxiv.org/abs/xxxx.xxxxx'><img src='https://img.shields.io/badge/ArXiv-xxxx.xxxxx-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://qiuhuachuan.github.io/smile'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+<a href='https://arxiv.org/pdf/2305.00450.pdf'><img src='https://img.shields.io/badge/ArXiv-2305.00450-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://qiuhuachuan.github.io/smile'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 
 <div>
     <a href='https://scholar.google.com/citations?user=UCx7h5YAAAAJ&hl=en' target='_blank'>Huachuan Qiu <sup>1, 2</sup></a>&emsp;
