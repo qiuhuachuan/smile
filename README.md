@@ -28,13 +28,15 @@
 2️⃣ provide an SmileChat datatset for building a dialog agent for mental health support.
 
 <br>
+</div>
 
-<h3>A Dialogue Agent for Mental Health Support (心理健康支持对话陪伴机器人)</h3>
-<h3>体验地址: http://47.97.220.53:8080/</h3>
-<h3>前端UI代码地址: https://github.com/qiuhuachuan/Chat-Web (欢迎加入完善)</h3>
+<h3>Project Introduction</h3>
+<h4>A Dialogue Agent for Mental Health Support (心理健康支持对话陪伴机器人)</h4>
+<h4>MeChat是由西湖大学深度学习实验室开发的心理健康支持对话陪伴机器人，基于ChatGLM-6B+LoRA技术微调，采用的语料是 smile (即单轮到多轮的包容性语言扩展技术的对话扩展，将单轮的长QA对话改写为多轮的对话)。smile 是国内首个关于心理健康支持的中文多轮对话语料，语料的主题、词汇丰富，聊天内容贴近于真实生活场景。</h4>
+<h4>体验地址: http://47.97.220.53:8080/</h4>
+<h4>前端UI代码地址: https://github.com/qiuhuachuan/Chat-Web (欢迎加入完善)</h4>
 
 <div></div>
-</div>
 
 # Abstract
 
