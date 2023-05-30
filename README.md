@@ -4,9 +4,7 @@
 
 # MeChat_zh：中文心理健康支持大模型
 
-<img src="https://img.shields.io/badge/Version-1.0-brightgreen" />
-<img src="https://img.shields.io/badge/python-3.8+-blue.svg" />
-<a href='https://arxiv.org/pdf/2305.00450.pdf'><img src='https://img.shields.io/badge/ArXiv-2305.00450-red'></a>
+<img src="https://img.shields.io/badge/Version-1.0-brightgreen" /> <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /> <a href='https://arxiv.org/pdf/2305.00450.pdf'><img src='https://img.shields.io/badge/ArXiv-2305.00450-red'></a>
 
 ## 项目简介
 
