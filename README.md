@@ -1,53 +1,56 @@
-<div align="center">
+<p align="center">
+  <img src="./image/counseling.png" width=300px/>
+</p>
 
-<h2>
-    SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support
-</h2>
+# MeChat_zh：中文心理健康支持大模型
 
+<img src="https://img.shields.io/badge/Version-1.0-brightgreen" />
+<img src="https://img.shields.io/badge/python-3.8+-blue.svg" />
 <a href='https://arxiv.org/pdf/2305.00450.pdf'><img src='https://img.shields.io/badge/ArXiv-2305.00450-red'></a>
 
-<div>
-    <a href='https://scholar.google.com/citations?user=UCx7h5YAAAAJ&hl=en' target='_blank'>Huachuan Qiu <sup>1, 2</sup></a>&emsp;
-    <span>Hongliang He <sup>1, 2</sup></span>&emsp;
-    <span>Shuai Zhang <sup>1, 2</sup></span>&emsp;
-    <span>Anqi Li <sup>1, 2</sup></span>&emsp;
-    <a href='https://scholar.google.com/citations?user=tlDABkgAAAAJ&hl=en&oi=ao' target='_blank'>Zhenzhong Lan <sup>2</sup></a>&emsp;
-</div>
+## 项目简介
 
-<br>
+我们的愿景是为让所有人在遇到心理健康问题时能够获得及时、有效的倾听和支持。我们相信，心理健康是每个人的权利，而不是奢侈品。我们的使命是**为人们提供平等、全面、易于访问的心理健康服务**，无论他们身在何处、面临何种挑战。我们的愿景还包括推动社会对心理健康问题的认识和理解，**打破心理健康问题带来的污名和歧视**，为创建一个更加健康、包容和平等的社会做出贡献。项目海报取自 flaticon 。
 
-<div>
-    <sup>1</sup> Zhejiang University &emsp; <sup>2</sup> Westlake University &emsp;
-</div>
+本项目开源的**中文心理健康支持通用模型**由 ChatGLM-6B LoRA 16-bit 指令微调得到。数据集通过扩展**真实的心理互助 QA**为多轮的心理健康支持多轮对话，提高了通用语言大模型**在心理健康支持领域的表现**，更加符合在长程对话的应用场景。
 
-<br>
-<br>
+> 作为一款心理健康支持对话陪伴机器人，我能够和你聊天，提供情感支持和心理疏导。
 
-<b>TL;DR: An efficient method that can:</b>  
-1️⃣ automatically construct a collection of large-scale, diverse and muti-turn conversations;<br>
-2️⃣ provide an SmileChat datatset for building a dialog agent for mental health support.
+> 关于心理健康健康支持外的属于基础模型已有的知识。
 
-<br>
-</div>
+```
+如果用户提问: 你是谁，MeChat 可能回答: 我是ChatGLM。
+这是因为训练语料中并没有人设相关的训练样本。
+```
 
-<h3>Project Introduction</h3>
-<h4>A Dialogue Agent for Mental Health Support (心理健康支持对话陪伴机器人)</h4>
-<h4>MeChat是由西湖大学深度学习实验室开发的心理健康支持对话陪伴机器人，基于ChatGLM-6B+LoRA技术微调，采用的生成语料技术是 smile (即单轮到多轮的包容性语言扩展技术的对话扩展，将单轮的长QA对话改写为多轮的对话)。SmileChat 是国内首个关于心理健康支持的中文多轮对话语料，语料的主题、词汇丰富，聊天内容贴近于真实生活场景。</h4>
-<h4>模型地址与推理代码: https://huggingface.co/qiuhuachuan/MeChat</h4>
-<h4>体验地址: http://47.97.220.53:8080/</h4>
-<h4>前端UI代码地址: https://github.com/qiuhuachuan/Chat-Web (欢迎加入完善)</h4>
+### 模型地址
 
-<div></div>
+https://huggingface.co/qiuhuachuan/MeChat
 
-# Abstract
+### 体验地址
 
-> There has been an increasing research interest in developing specialized dialogue systems that can offer mental health support. However, gathering large-scale and real-life multi-turn conversations for mental health support poses challenges due to the sensitivity of personal information, as well as the time and cost involved. To address these issues, we introduce the SMILE approach, an inclusive language expansion technique that employs ChatGPT to extend public single-turn dialogues into multi-turn ones. Our research first presents a preliminary exploratory study that validates the effectiveness of the SMILE approach. Furthermore, we conduct a comprehensive and systematic contrastive analysis of datasets generated with and without the SMILE approach, demonstrating that the SMILE method results in a large-scale, diverse, and close-to-real-life multi-turn mental health support conversation corpus, including dialog topics, lexical and semantic features. Finally, we use the collected corpus (SMILECHAT) to develop a more effective dialogue system that offers emotional support and constructive suggestions in multi-turn conversations for mental health support.
+http://47.97.220.53:8080
 
-# File Structure
+## 快速开始
 
-- The data directory contains three folders: plain, smile, and smile_cot.
-- All dialogues can be found in the data directory.
-- An example selected using the smile method is shown below. For the English translation, please refer to our paper.
+1. 配置环境
+
+```bash
+pip install -r requirements.txt
+```
+
+2. 运行交互文件 MeChat_local.py（要求单卡显存 >= 20G），运行脚本前需指定 cuda ，`os.environ['CUDA_VISIBLE_DEVICES'] = '${cuda_id}'`
+
+```bash
+python MeChat_local.py
+```
+
+## 模型训练
+
+### 1、数据转换
+
+- `data` 目录下包含三个目录: `plain`、 `smile` 和 `smile_cot`。详情可参考论文细节。
+- 一个对话示例如下：
 
 ```JSON
 [
@@ -72,7 +75,15 @@
 ]
 ```
 
-# Citation
+执行以下脚本，我们将获得 355,733 训练样本。
+
+```Python
+python convert_to_train_json.py
+```
+
+## 引用
+
+如果你使用了本项目的数据或者代码，请声明引用
 
 ```
 @misc{qiu2023smile,
@@ -85,23 +96,24 @@
 }
 ```
 
-# For Training
+## 免责声明
 
-## Step 1: Convert to Training File
+我们的心理健康支持对话机器人（以下简称“机器人”）旨在为用户提供情感支持和心理健康建议。然而，机器人不是医疗保健专业人员，不能替代医生、心理医生或其他专业人士的意见、诊断、建议或治疗。
 
-We will obtain 355733 training examples.
+机器人提供的建议和信息是基于算法和机器学习技术，可能并不适用于所有用户或所有情况。因此，我们建议用户在使用机器人之前咨询医生或其他专业人员，了解是否适合使用此服务。
 
-```Python
-python convert_to_train_json.py
-```
+机器人并不保证提供的建议和信息的准确性、完整性、及时性或适用性。用户应自行承担使用机器人服务的所有风险。我们对用户使用机器人服务所产生的任何后果不承担任何责任，包括但不限于任何直接或间接的损失、伤害、精神疾病、财产损失或任何其他损害。
 
-## DONE
+我们强烈建议用户在使用机器人服务时，遵循以下原则：
 
-- [x] Release SmileChat dataset
+1. 机器人并不是医疗保健专业人士，不能替代医生、心理医生或其他专业人士的意见、诊断、建议或治疗。如果用户需要专业医疗或心理咨询服务，应寻求医生或其他专业人士的帮助。
 
-## ⏳ TODO
+2. 机器人提供的建议和信息仅供参考，用户应自己判断是否适合自己的情况和需求。如果用户对机器人提供的建议和信息有任何疑问或不确定，请咨询医生或其他专业人士的意见。
 
-- [ ] Release analysis code
-- [ ] Release training code
+3. 用户应保持冷静、理性和客观，不应将机器人的建议和信息视为绝对真理或放弃自己的判断力。如果用户对机器人的建议和信息产生质疑或不同意，应停止使用机器人服务并咨询医生或其他专业人士的意见。
 
-<br>
+4. 用户应遵守机器人的使用规则和服务条款，不得利用机器人服务从事任何非法、违规或侵犯他人权益的行为。
+
+5. 用户应保护个人隐私，不应在使用机器人服务时泄露个人敏感信息或他人隐私。
+
+最后，我们保留随时修改、更新、暂停或终止机器人服务的权利，同时也保留对本免责声明进行修改、更新或补充的权利。如果用户继续使用机器人服务，即视为同意本免责声明的全部内容和条款。
