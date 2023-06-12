@@ -82,6 +82,30 @@ python MeChat_local.py
 python convert_to_train_json.py
 ```
 
+### 2、 LoRA 微调
+
+训练脚本位于 src 目录下，需要 `cd src`
+
+1. 执行数据预处理脚本
+
+```bash
+bash data_preprocessing.sh
+```
+
+2. 进行模型微调
+
+微调前，需要根据实际情况，更改一下 finetune.py 文件中 cuda 的位置
+
+```Python
+os.environ['CUDA_VISIBLE_DEVICES'] = f'{cuda_device}'
+```
+
+执行微调脚本
+
+```bash
+bash research_finetune.sh
+```
+
 ## 引用
 
 如果你使用了本项目的数据或者代码，请声明引用
