@@ -32,14 +32,15 @@ if __name__ == '__main__':
     file_range = 56032
     for idx in range(file_range):
         dialog = get_dialog(method=method, idx=idx)
+        if int(len(dialog) / 2) >= 6:
+            # 选择turn大于等于6的对话
+            sessions = split_into_sessions(dialog=dialog)
+            small_train = get_ctx_response(sessions=sessions)
+            full_train += small_train
 
-        sessions = split_into_sessions(dialog=dialog)
-        small_train = get_ctx_response(sessions=sessions)
-        full_train += small_train
-
-    print('full length of training examples', len(full_train))  # 355733
-    os.makedirs(f'./out/{method}', exist_ok=True)
-    with open(f'./out/{method}/train.json', 'w', encoding='utf-8') as f:
+    print('full length of training examples', len(full_train))  # 289779
+    os.makedirs(f'./train_data/{method}', exist_ok=True)
+    with open(f'./train_data/{method}/train.json', 'w', encoding='utf-8') as f:
         ujson.dump(full_train, f, ensure_ascii=False, indent=2)
 
     print('DONE')
