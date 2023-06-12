@@ -39,8 +39,8 @@ if __name__ == '__main__':
             full_train += small_train
 
     print('full length of training examples', len(full_train))  # 289779
-    os.makedirs(f'./train_data/{method}', exist_ok=True)
-    with open(f'./train_data/{method}/train.json', 'w', encoding='utf-8') as f:
+    os.makedirs(f'./src/train_data', exist_ok=True)
+    with open(f'./src/train_data/train.json', 'w', encoding='utf-8') as f:
         ujson.dump(full_train, f, ensure_ascii=False, indent=2)
 
-    print('DONE')
+    print('convert to train data -> DONE')

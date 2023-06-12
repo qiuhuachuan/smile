@@ -1,3 +1,6 @@
 output/
 __pycache__
 train_data/
+runs/
+*.log
+wandb
