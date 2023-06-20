@@ -10,7 +10,7 @@ from peft import PeftModel
 model = AutoModel.from_pretrained('THUDM/chatglm-6b',
                                   revision='v0.1.0',
                                   trust_remote_code=True)
-LaRA_PATH = 'qiuhuachuan/MeChat'
+LaRA_PATH = './src/research_smile_epoch2_rank8_full'
 model = PeftModel.from_pretrained(model, LaRA_PATH)
 model = model.float().to(device='cuda')
 
