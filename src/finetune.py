@@ -1,7 +1,7 @@
 import os
 
 # 单卡训练，指定使用哪一张卡，默认是0号卡
-os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+os.environ['CUDA_VISIBLE_DEVICES'] = '4'
 
 from transformers.integrations import TensorBoardCallback
 from torch.utils.tensorboard import SummaryWriter
