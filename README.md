@@ -29,8 +29,7 @@ https://huggingface.co/qiuhuachuan/MeChat
 
 ### 体验地址
 
-https://mechat.fly.dev/ （优先推荐） 或
-http://47.97.220.53:8080
+https://mechat.fly.dev/ （UI 代码见 web 目录，部署可参考[教程](https://dev.to/willydouhard/how-to-deploy-your-chainlit-app-to-flyio-38ja)）
 
 ## 快速开始
 
