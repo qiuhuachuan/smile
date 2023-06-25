@@ -1,1 +1,1 @@
-chainlit
+chainlit==0.4.101

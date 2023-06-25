@@ -19,7 +19,7 @@ def start():
 
 
 @on_message
-def main(msg: str):
+async def main(msg: str):
     unique_id = user_session.get('key')
 
     owner = 'seeker'
@@ -34,7 +34,7 @@ def main(msg: str):
 
         res = res.json()
         response = res['item']['msg']
-        Message(content=response).send()
+        await Message(content=response).send()
     except Exception as e:
         print(f'ERROR: {e}')
         Message(content='Server error, and try again later.').send()
