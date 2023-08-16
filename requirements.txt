@@ -10,3 +10,4 @@ ujson
 tensorboard
 datasets
 bitsandbytes
+scipy
