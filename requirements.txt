@@ -9,3 +9,4 @@ cpm_kernels
 ujson
 tensorboard
 datasets
+bitsandbytes
