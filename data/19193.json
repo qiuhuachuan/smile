@@ -1,0 +1,226 @@
+[
+  {
+    "role": "client",
+    "content": "很烦，很乱的职业人生，该如何找到方向？",
+    "annotation": [
+      {
+        "sentence": "很烦，很乱的职业人生，该如何找到方向？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "呀~希望我的文字能给你一些小小的建议。",
+    "annotation": [
+      {
+        "sentence": "呀~希望我的文字能给你一些小小的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的关心，我最近真的觉得很迷茫，也不知道该怎么办。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的关心，我最近真的觉得很迷茫，也不知道该怎么办。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "进职场后，我们经常会迷失自己，对未来感到迷茫是很常见的情绪。",
+    "annotation": [
+      {
+        "sentence": "进职场后，我们经常会迷失自己，对未来感到迷茫是很常见的情绪。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得我找不到我的激情和动力了。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得我找不到我的激情和动力了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种感觉我们称之为职业迷茫，职业倦怠，很多人都经历过的。",
+    "annotation": [
+      {
+        "sentence": "这种感觉我们称之为职业迷茫，职业倦怠，很多人都经历过的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得自己的工作岗位好像没有太大的发展空间。",
+    "annotation": [
+      {
+        "sentence": "我觉得自己的工作岗位好像没有太大的发展空间。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "明白你觉得工作没什么含金量的感受，所以才会感到迷茫和不安。",
+    "annotation": [
+      {
+        "sentence": "明白你觉得工作没什么含金量的感受，所以才会感到迷茫和不安。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我就觉得很乱很烦，不知道未来要往哪个方向努力。",
+    "annotation": [
+      {
+        "sentence": "是的，我就觉得很乱很烦，不知道未来要往哪个方向努力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不妨沉下心来思考一下自己的目标和未来想要达成的事情。",
+    "annotation": [
+      {
+        "sentence": "不妨沉下心来思考一下自己的目标和未来想要达成的事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我感觉我对未来的想法很模糊，不知道想要过什么样的生活。",
+    "annotation": [
+      {
+        "sentence": "我感觉我对未来的想法很模糊，不知道想要过什么样的生活。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这个时间段需要你自己好好思考一番，在内心找到自己对未来的期望。",
+    "annotation": [
+      {
+        "sentence": "这个时间段需要你自己好好思考一番，在内心找到自己对未来的期望。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我还不太清楚自己热爱或擅长什么。",
+    "annotation": [
+      {
+        "sentence": "我还不太清楚自己热爱或擅长什么。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "找到自己热爱或擅长的事物，会更有助于确定未来的方向。",
+    "annotation": [
+      {
+        "sentence": "找到自己热爱或擅长的事物，会更有助于确定未来的方向。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我对目前的工作真的不感兴趣，不知道自己热爱的是什么。",
+    "annotation": [
+      {
+        "sentence": "我对目前的工作真的不感兴趣，不知道自己热爱的是什么。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以尝试探索自己内心的追求，找到自己真正想从事的事业。",
+    "annotation": [
+      {
+        "sentence": "你可以尝试探索自己内心的追求，找到自己真正想从事的事业。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我是希望能找到真正热爱的行业，但不知道从哪里开始。",
+    "annotation": [
+      {
+        "sentence": "我是希望能找到真正热爱的行业，但不知道从哪里开始。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以在各大招聘网站上了解不同行业的类别，选择你愿意尝试的岗位。",
+    "annotation": [
+      {
+        "sentence": "你可以在各大招聘网站上了解不同行业的类别，选择你愿意尝试的岗位。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我可以学习哪些内容和提升哪些技能来适应自己选择的岗位呢？",
+    "annotation": [
+      {
+        "sentence": "我可以学习哪些内容和提升哪些技能来适应自己选择的岗位呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以多了解你期望的岗位所需的知识和技能，寻求学习和提升的途径。",
+    "annotation": [
+      {
+        "sentence": "你可以多了解你期望的岗位所需的知识和技能，寻求学习和提升的途径。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会抽出时间去多学习这方面的知识和技能。",
+    "annotation": [
+      {
+        "sentence": "好的，我会抽出时间去多学习这方面的知识和技能。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "希望你能找到自己热爱的事业，加油！祝好~。",
+    "annotation": [
+      {
+        "sentence": "希望你能找到自己热爱的事业，加油！",
+        "label": ""
+      },
+      {
+        "sentence": "祝好~。",
+        "label": ""
+      }
+    ]
+  }
+]

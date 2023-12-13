@@ -1,0 +1,166 @@
+[
+  {
+    "role": "client",
+    "content": "每次都回到原形，我对改变自己具有深深的无力感。",
+    "annotation": [
+      {
+        "sentence": "每次都回到原形，我对改变自己具有深深的无力感。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我能理解你感到的无力感。但是，我相信你能够改变自己。请告诉我更多关于你想要改变的方面。",
+    "annotation": [
+      {
+        "sentence": "我能理解你感到的无力感。",
+        "label": ""
+      },
+      {
+        "sentence": "但是，我相信你能够改变自己。",
+        "label": ""
+      },
+      {
+        "sentence": "请告诉我更多关于你想要改变的方面。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我想要改变自己的沟通能力，但每次尝试都感觉失败了。",
+    "annotation": [
+      {
+        "sentence": "我想要改变自己的沟通能力，但每次尝试都感觉失败了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你认为你失败的原因是什么？",
+    "annotation": [
+      {
+        "sentence": "那你认为你失败的原因是什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我可能没有表达清楚自己的想法，或者是对方没有理解我的意思。",
+    "annotation": [
+      {
+        "sentence": "我可能没有表达清楚自己的想法，或者是对方没有理解我的意思。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这些都是很常见的问题。你可以练习更好地表达自己的观点，或者尝试和对方建立更好的沟通方式。",
+    "annotation": [
+      {
+        "sentence": "这些都是很常见的问题。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以练习更好地表达自己的观点，或者尝试和对方建立更好的沟通方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是，我感觉这些改变需要很长时间。",
+    "annotation": [
+      {
+        "sentence": "但是，我感觉这些改变需要很长时间。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，改变确实需要时间和努力。但是你可以先制定一个小目标，逐步实现这些改变。",
+    "annotation": [
+      {
+        "sentence": "是的，改变确实需要时间和努力。",
+        "label": ""
+      },
+      {
+        "sentence": "但是你可以先制定一个小目标，逐步实现这些改变。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你是怎么改变自己的？",
+    "annotation": [
+      {
+        "sentence": "你是怎么改变自己的？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我尝试通过分析和反思自己的思维方式和行为习惯，逐渐改变自己的行为方式。",
+    "annotation": [
+      {
+        "sentence": "我尝试通过分析和反思自己的思维方式和行为习惯，逐渐改变自己的行为方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是每次改变都会回到原形。",
+    "annotation": [
+      {
+        "sentence": "但是每次改变都会回到原形。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "有时候，改变需要反复尝试和修正。这并不意味着你失败了，而是在不断学习和成长。请相信自己，坚持努力。",
+    "annotation": [
+      {
+        "sentence": "有时候，改变需要反复尝试和修正。",
+        "label": ""
+      },
+      {
+        "sentence": "这并不意味着你失败了，而是在不断学习和成长。",
+        "label": ""
+      },
+      {
+        "sentence": "请相信自己，坚持努力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议和鼓励，我会继续努力的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议和鼓励，我会继续努力的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用谢，我一直都在支持你，祝你成功。",
+    "annotation": [
+      {
+        "sentence": "不用谢，我一直都在支持你，祝你成功。",
+        "label": ""
+      }
+    ]
+  }
+]

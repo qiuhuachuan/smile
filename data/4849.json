@@ -1,0 +1,192 @@
+[
+  {
+    "role": "client",
+    "content": "为什么有时候很难过？",
+    "annotation": [
+      {
+        "sentence": "为什么有时候很难过？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "听起来你近期心情比较低落。",
+    "annotation": [
+      {
+        "sentence": "听起来你近期心情比较低落。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，不知道为什么。",
+    "annotation": [
+      {
+        "sentence": "是的，不知道为什么。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可能是近期发生了一些事情，让你比较烦躁。能和我说一下是什么吗？",
+    "annotation": [
+      {
+        "sentence": "可能是近期发生了一些事情，让你比较烦躁。",
+        "label": ""
+      },
+      {
+        "sentence": "能和我说一下是什么吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "其实是我和男朋友分手了。",
+    "annotation": [
+      {
+        "sentence": "其实是我和男朋友分手了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "听起来很难过，你现在是在学习阶段，是在学校里认识的男朋友吗？",
+    "annotation": [
+      {
+        "sentence": "听起来很难过，你现在是在学习阶段，是在学校里认识的男朋友吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我们在同一个学校，同一年级。",
+    "annotation": [
+      {
+        "sentence": "是的，我们在同一个学校，同一年级。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我想我能理解你的感受，我高中的时候也和同班同学谈了一段恋爱，最后分手了。每天都要在教室里见到他，日子过得真的很难受。",
+    "annotation": [
+      {
+        "sentence": "我想我能理解你的感受，我高中的时候也和同班同学谈了一段恋爱，最后分手了。",
+        "label": ""
+      },
+      {
+        "sentence": "每天都要在教室里见到他，日子过得真的很难受。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是啊，我现在也是这种感觉。",
+    "annotation": [
+      {
+        "sentence": "是啊，我现在也是这种感觉。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "现在你的情绪很不稳定吧？",
+    "annotation": [
+      {
+        "sentence": "现在你的情绪很不稳定吧？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，每次看到他我就会想起过去的事情，觉得很痛苦。",
+    "annotation": [
+      {
+        "sentence": "是的，每次看到他我就会想起过去的事情，觉得很痛苦。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，这种感觉很正常，尤其是在学生时代。我当时就是把注意力转移到学习上的，这个方法可以试一下。",
+    "annotation": [
+      {
+        "sentence": "是的，这种感觉很正常，尤其是在学生时代。",
+        "label": ""
+      },
+      {
+        "sentence": "我当时就是把注意力转移到学习上的，这个方法可以试一下。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "好的，谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当然，另外避免接触和他，给自己时间和空间去适应这个分手，只要你能够靠自己度过这段时间，你就会变得更加坚强。如果在一起上学的话，可以和家长或老师商量一下，能不能调到其他班级。这样也能帮助你暂时隔绝和他的联系。",
+    "annotation": [
+      {
+        "sentence": "当然，另外避免接触和他，给自己时间和空间去适应这个分手，只要你能够靠自己度过这段时间，你就会变得更加坚强。",
+        "label": ""
+      },
+      {
+        "sentence": "如果在一起上学的话，可以和家长或老师商量一下，能不能调到其他班级。",
+        "label": ""
+      },
+      {
+        "sentence": "这样也能帮助你暂时隔绝和他的联系。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会考虑的。",
+    "annotation": [
+      {
+        "sentence": "好的，我会考虑的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不要让这件事情影响你的学习和生活，只要你能打起精神来，就一定会有更美好的明天。",
+    "annotation": [
+      {
+        "sentence": "不要让这件事情影响你的学习和生活，只要你能打起精神来，就一定会有更美好的明天。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，谢谢你的鼓励，我会努力克服这个难关的。",
+    "annotation": [
+      {
+        "sentence": "嗯，谢谢你的鼓励，我会努力克服这个难关的。",
+        "label": ""
+      }
+    ]
+  }
+]

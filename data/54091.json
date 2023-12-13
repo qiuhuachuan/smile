@@ -1,0 +1,176 @@
+[
+  {
+    "role": "client",
+    "content": "男友喜欢职责贬低我，分手了，忍不住想找他，怎么办？",
+    "annotation": [
+      {
+        "sentence": "男友喜欢职责贬低我，分手了，忍不住想找他，怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当看完你的描述，你们之间的情感让我联想到“毒药”。",
+    "annotation": [
+      {
+        "sentence": "当看完你的描述，你们之间的情感让我联想到“毒药”。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我确实有点无法自拔。",
+    "annotation": [
+      {
+        "sentence": "是的，我确实有点无法自拔。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他对你进行了情感虐待，但你好像又“甘之若贻‘’。",
+    "annotation": [
+      {
+        "sentence": "他对你进行了情感虐待，但你好像又“甘之若贻‘’。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白自己被他伤害了，但就是无法控制自己想要见他。",
+    "annotation": [
+      {
+        "sentence": "我明白自己被他伤害了，但就是无法控制自己想要见他。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我更多的会去考虑你行为背后的意义。",
+    "annotation": [
+      {
+        "sentence": "我更多的会去考虑你行为背后的意义。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你是说我内心接受了他的伤害？",
+    "annotation": [
+      {
+        "sentence": "你是说我内心接受了他的伤害？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "或许这个认同背后跟你的成长经历是有些紧密联系的。",
+    "annotation": [
+      {
+        "sentence": "或许这个认同背后跟你的成长经历是有些紧密联系的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我从小就过于渴望被人喜欢，所以可能容易接受他的贬低。",
+    "annotation": [
+      {
+        "sentence": "我从小就过于渴望被人喜欢，所以可能容易接受他的贬低。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果你对自己内在世界感到好奇，建议您在咨询里面去探索和思考过去发生了什么影响到你的现在。",
+    "annotation": [
+      {
+        "sentence": "如果你对自己内在世界感到好奇，建议您在咨询里面去探索和思考过去发生了什么影响到你的现在。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得你说的很对，我需要更深入地了解自己。",
+    "annotation": [
+      {
+        "sentence": "我觉得你说的很对，我需要更深入地了解自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我想别人也曾经给过您建议，但是应该对您而言是无效的。",
+    "annotation": [
+      {
+        "sentence": "我想别人也曾经给过您建议，但是应该对您而言是无效的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我试过听别人的建议，但总觉得不起作用。",
+    "annotation": [
+      {
+        "sentence": "是的，我试过听别人的建议，但总觉得不起作用。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "只有通过自己去思考和探索，主动权和真正的解决问题的方法才是掌握在你的手中。",
+    "annotation": [
+      {
+        "sentence": "只有通过自己去思考和探索，主动权和真正的解决问题的方法才是掌握在你的手中。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我需要积极主动地解决问题。",
+    "annotation": [
+      {
+        "sentence": "我明白了，我需要积极主动地解决问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当你是被动去接受，未必能真正帮到你。努力学会独立思考和自我保护。",
+    "annotation": [
+      {
+        "sentence": "当你是被动去接受，未必能真正帮到你。",
+        "label": ""
+      },
+      {
+        "sentence": "努力学会独立思考和自我保护。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会尽力去做到的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会尽力去做到的。",
+        "label": ""
+      }
+    ]
+  }
+]

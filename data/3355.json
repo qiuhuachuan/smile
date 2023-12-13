@@ -1,0 +1,156 @@
+[
+  {
+    "role": "client",
+    "content": "最近我想知道为啥想让我跟现在的对象断了？",
+    "annotation": [
+      {
+        "sentence": "最近我想知道为啥想让我跟现在的对象断了？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "姐姐为啥让你断这个问题，跟你要不要断没有直接关系。",
+    "annotation": [
+      {
+        "sentence": "姐姐为啥让你断这个问题，跟你要不要断没有直接关系。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得自己很矛盾，不知道该怎么办。",
+    "annotation": [
+      {
+        "sentence": "我觉得自己很矛盾，不知道该怎么办。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你问这个问题，似乎是心里还对姐姐有一点期待，期待得到她的同意。",
+    "annotation": [
+      {
+        "sentence": "你问这个问题，似乎是心里还对姐姐有一点期待，期待得到她的同意。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "或许吧，有时候我渴望姐姐的理解和支持。",
+    "annotation": [
+      {
+        "sentence": "或许吧，有时候我渴望姐姐的理解和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "爸爸不管，妈妈没钱，也许姐姐在一定程度上站在了家长的位置上。",
+    "annotation": [
+      {
+        "sentence": "爸爸不管，妈妈没钱，也许姐姐在一定程度上站在了家长的位置上。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我感觉到了她在家庭中的责任感。",
+    "annotation": [
+      {
+        "sentence": "是的，我感觉到了她在家庭中的责任感。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这也是你对父母的期待，因为看起来父母缺位。",
+    "annotation": [
+      {
+        "sentence": "这也是你对父母的期待，因为看起来父母缺位。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我内心渴望被父母的关心和照顾。",
+    "annotation": [
+      {
+        "sentence": "是的，我内心渴望被父母的关心和照顾。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "所以你内心还是隐约需要被父母照顾一下的，管你也是照顾或者支持的一种形式。",
+    "annotation": [
+      {
+        "sentence": "所以你内心还是隐约需要被父母照顾一下的，管你也是照顾或者支持的一种形式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "或许是这样，我需要找到一种自己独立思考的方式。",
+    "annotation": [
+      {
+        "sentence": "或许是这样，我需要找到一种自己独立思考的方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果没有这个期待，你是不会在乎她为什么的。因为你只需要为自己做决定就好了。",
+    "annotation": [
+      {
+        "sentence": "如果没有这个期待，你是不会在乎她为什么的。",
+        "label": ""
+      },
+      {
+        "sentence": "因为你只需要为自己做决定就好了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我应该学会为自己做决定，而不是过分依赖他人的意见。",
+    "annotation": [
+      {
+        "sentence": "是的，我应该学会为自己做决定，而不是过分依赖他人的意见。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "祝融心理张瑾屏。",
+    "annotation": [
+      {
+        "sentence": "祝融心理张瑾屏。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持和建议，我会努力让自己更加独立。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持和建议，我会努力让自己更加独立。",
+        "label": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "role": "client",
+    "content": "我不结婚，是原生家庭的影响，还是我懦弱？",
+    "annotation": [
+      {
+        "sentence": "我不结婚，是原生家庭的影响，还是我懦弱？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是怕结婚之后的生活会变得困难，对吗？",
+    "annotation": [
+      {
+        "sentence": "你是怕结婚之后的生活会变得困难，对吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我的父亲生病了三年没工作，没有收入，家里一直因为钱吵架。",
+    "annotation": [
+      {
+        "sentence": "是的，我的父亲生病了三年没工作，没有收入，家里一直因为钱吵架。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这对你来说一定是很大的心理负担，感到很焦虑吧。",
+    "annotation": [
+      {
+        "sentence": "这对你来说一定是很大的心理负担，感到很焦虑吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我从小就不念书了，觉得学习对我没有用处。",
+    "annotation": [
+      {
+        "sentence": "是的，我从小就不念书了，觉得学习对我没有用处。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "或许你可以重新评估自己的学习态度，毕竟学习可以增加你的技术和知识储备。",
+    "annotation": [
+      {
+        "sentence": "或许你可以重新评估自己的学习态度，毕竟学习可以增加你的技术和知识储备。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我是想开店，但是妈妈不支持，说没有钱。",
+    "annotation": [
+      {
+        "sentence": "我是想开店，但是妈妈不支持，说没有钱。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "也许你可以考虑寻找一个收入稳定、勤劳踏实的男孩子作为你的伴侣，这样能够确保你未来的生活无忧。",
+    "annotation": [
+      {
+        "sentence": "也许你可以考虑寻找一个收入稳定、勤劳踏实的男孩子作为你的伴侣，这样能够确保你未来的生活无忧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我担心结婚后会变成我爸爸那样，我对未来生活没有信心。",
+    "annotation": [
+      {
+        "sentence": "但是我担心结婚后会变成我爸爸那样，我对未来生活没有信心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用担心，你不会重复你父母的错误，只要你能够冷静辨别，选择一个适合你的伴侣，问题会得到解决。",
+    "annotation": [
+      {
+        "sentence": "不用担心，你不会重复你父母的错误，只要你能够冷静辨别，选择一个适合你的伴侣，问题会得到解决。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我也担心生了孩子后会变成我妈妈那样，一直缺钱。",
+    "annotation": [
+      {
+        "sentence": "我也担心生了孩子后会变成我妈妈那样，一直缺钱。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以提高自己的化妆技术，这样能够增加你的收入来源，化妆并不是件简单的工作。",
+    "annotation": [
+      {
+        "sentence": "你可以提高自己的化妆技术，这样能够增加你的收入来源，化妆并不是件简单的工作。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你觉得我应该更加努力提高自己的技术吗？",
+    "annotation": [
+      {
+        "sentence": "你觉得我应该更加努力提高自己的技术吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，只要你付出努力，相信你一定能够取得成功的，不要小瞧了你自己的潜力。",
+    "annotation": [
+      {
+        "sentence": "是的，只要你付出努力，相信你一定能够取得成功的，不要小瞧了你自己的潜力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励和支持，我会更加努力的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励和支持，我会更加努力的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我相信你能够克服困难，找到属于自己的幸福。记住，人生并不是一帆风顺的，坚持下去一定会有好的结果。",
+    "annotation": [
+      {
+        "sentence": "不客气，我相信你能够克服困难，找到属于自己的幸福。",
+        "label": ""
+      },
+      {
+        "sentence": "记住，人生并不是一帆风顺的，坚持下去一定会有好的结果。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会记住你说的话的，谢谢你的帮助。",
+    "annotation": [
+      {
+        "sentence": "我会记住你说的话的，谢谢你的帮助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，如果以后还有需要帮助的地方，随时来找我谈谈。你不是一个人在战斗，有人支持你。",
+    "annotation": [
+      {
+        "sentence": "不用客气，如果以后还有需要帮助的地方，随时来找我谈谈。",
+        "label": ""
+      },
+      {
+        "sentence": "你不是一个人在战斗，有人支持你。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你，我会的。再次感谢你的帮助。",
+    "annotation": [
+      {
+        "sentence": "谢谢你，我会的。",
+        "label": ""
+      },
+      {
+        "sentence": "再次感谢你的帮助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，我相信你能够找到属于自己的幸福。加油！",
+    "annotation": [
+      {
+        "sentence": "不用客气，我相信你能够找到属于自己的幸福。",
+        "label": ""
+      },
+      {
+        "sentence": "加油！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会加油的。再次感谢你的支持。",
+    "annotation": [
+      {
+        "sentence": "好的，我会加油的。",
+        "label": ""
+      },
+      {
+        "sentence": "再次感谢你的支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，一切都会好起来的。祝你好运！",
+    "annotation": [
+      {
+        "sentence": "不用客气，一切都会好起来的。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你好运！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你，再见！",
+    "annotation": [
+      {
+        "sentence": "谢谢你，再见！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "再见，祝你一切顺利！",
+    "annotation": [
+      {
+        "sentence": "再见，祝你一切顺利！",
+        "label": ""
+      }
+    ]
+  }
+]

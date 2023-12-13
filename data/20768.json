@@ -1,0 +1,222 @@
+[
+  {
+    "role": "client",
+    "content": "大家在什么情况下觉得父母比一切都重要呢？",
+    "annotation": [
+      {
+        "sentence": "大家在什么情况下觉得父母比一切都重要呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "在我的经历中，我深刻地体验到了父母比一切都重要！",
+    "annotation": [
+      {
+        "sentence": "在我的经历中，我深刻地体验到了父母比一切都重要！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "请告诉我你的经历。",
+    "annotation": [
+      {
+        "sentence": "请告诉我你的经历。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那次爸爸病情突然加重，有生命危险，我匆匆回到家，叫了救护车。",
+    "annotation": [
+      {
+        "sentence": "那次爸爸病情突然加重，有生命危险，我匆匆回到家，叫了救护车。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那一刻你是怎么感觉的？",
+    "annotation": [
+      {
+        "sentence": "那一刻你是怎么感觉的？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当车子开动的那一刹那，我坐在爸爸身边，忍不住哭了。",
+    "annotation": [
+      {
+        "sentence": "当车子开动的那一刹那，我坐在爸爸身边，忍不住哭了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "作为护士，你之前处理过很多急救的病人，为什么这次感觉与众不同？",
+    "annotation": [
+      {
+        "sentence": "作为护士，你之前处理过很多急救的病人，为什么这次感觉与众不同？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我以前确实会为病人的生命安危担忧，但当这一次面对的是自己的父亲时，我感到我的心都碎了！",
+    "annotation": [
+      {
+        "sentence": "我以前确实会为病人的生命安危担忧，但当这一次面对的是自己的父亲时，我感到我的心都碎了！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那之后你是怎么做的呢？",
+    "annotation": [
+      {
+        "sentence": "那之后你是怎么做的呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "接下来的时间除了陪在父亲身旁，我什么都不想做。",
+    "annotation": [
+      {
+        "sentence": "接下来的时间除了陪在父亲身旁，我什么都不想做。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你在工作中是不是也放下了手头的任务？",
+    "annotation": [
+      {
+        "sentence": "你在工作中是不是也放下了手头的任务？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，在那个时候我本来负责的工作也变得不重要了。",
+    "annotation": [
+      {
+        "sentence": "是的，在那个时候我本来负责的工作也变得不重要了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "孩子面临中考，你有陪他吗？",
+    "annotation": [
+      {
+        "sentence": "孩子面临中考，你有陪他吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "在父亲住院的那段时间，我没有好好陪伴他，因为觉得在那时候陪着父亲更重要！",
+    "annotation": [
+      {
+        "sentence": "在父亲住院的那段时间，我没有好好陪伴他，因为觉得在那时候陪着父亲更重要！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那你是怎么处理孩子的事情的呢？",
+    "annotation": [
+      {
+        "sentence": "那你是怎么处理孩子的事情的呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我告诉孩子要他自己照顾好自己，学习上不能放松。",
+    "annotation": [
+      {
+        "sentence": "我告诉孩子要他自己照顾好自己，学习上不能放松。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "最后，父亲的病情有所缓解了吗？",
+    "annotation": [
+      {
+        "sentence": "最后，父亲的病情有所缓解了吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，经过一段时间的治疗，父亲的病情有所好转。",
+    "annotation": [
+      {
+        "sentence": "是的，经过一段时间的治疗，父亲的病情有所好转。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你觉得父母在我们心目中的位置为什么如此重要？",
+    "annotation": [
+      {
+        "sentence": "你觉得父母在我们心目中的位置为什么如此重要？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "父母在我们心目中的位置一直都是最重要的，我们对他们有着深深的依恋。",
+    "annotation": [
+      {
+        "sentence": "父母在我们心目中的位置一直都是最重要的，我们对他们有着深深的依恋。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这种依恋有时会在父母生病的时候表现出来吗？",
+    "annotation": [
+      {
+        "sentence": "这种依恋有时会在父母生病的时候表现出来吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对，正因为父母在我们心目中的重要位置，所以在他们生病的时候，我们会表现出更多的关心和重视。",
+    "annotation": [
+      {
+        "sentence": "对，正因为父母在我们心目中的重要位置，所以在他们生病的时候，我们会表现出更多的关心和重视。",
+        "label": ""
+      }
+    ]
+  }
+]

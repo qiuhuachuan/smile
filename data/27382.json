@@ -1,0 +1,170 @@
+[
+  {
+    "role": "client",
+    "content": "注意力涣散，有一种什么都不想想的感觉怎么办？",
+    "annotation": [
+      {
+        "sentence": "注意力涣散，有一种什么都不想想的感觉怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这样的心情如果我说我可以理解，因为谁都是从年轻人走过来的。",
+    "annotation": [
+      {
+        "sentence": "这样的心情如果我说我可以理解，因为谁都是从年轻人走过来的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，但最近我特别觉得自己无法集中注意力。",
+    "annotation": [
+      {
+        "sentence": "是的，但最近我特别觉得自己无法集中注意力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可能是你最近压力比较大，导致注意力涣散。",
+    "annotation": [
+      {
+        "sentence": "可能是你最近压力比较大，导致注意力涣散。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可能吧，我毕业一年了还没找到工作，感觉特别困扰。",
+    "annotation": [
+      {
+        "sentence": "可能吧，我毕业一年了还没找到工作，感觉特别困扰。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "找工作确实是个大的压力源，但不要过分焦虑，一切都会好起来的。",
+    "annotation": [
+      {
+        "sentence": "找工作确实是个大的压力源，但不要过分焦虑，一切都会好起来的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我知道，但是我总是无法控制自己，总是分心。",
+    "annotation": [
+      {
+        "sentence": "我知道，但是我总是无法控制自己，总是分心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "或许你可以尝试一些调节注意力的方法，比如做一些冥想或者专注力训练。",
+    "annotation": [
+      {
+        "sentence": "或许你可以尝试一些调节注意力的方法，比如做一些冥想或者专注力训练。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "冥想听起来不错，我可以尝试一下。",
+    "annotation": [
+      {
+        "sentence": "冥想听起来不错，我可以尝试一下。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对的，冥想可以帮助你放松心情，让你更加集中注意力。",
+    "annotation": [
+      {
+        "sentence": "对的，冥想可以帮助你放松心情，让你更加集中注意力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试试看的。但我还是担心自己无法控制自己玩手机和追剧。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试试看的。",
+        "label": ""
+      },
+      {
+        "sentence": "但我还是担心自己无法控制自己玩手机和追剧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "玩手机和追剧也没错，只要不过分沉迷就可以了。不要用它们来逃避现实。",
+    "annotation": [
+      {
+        "sentence": "玩手机和追剧也没错，只要不过分沉迷就可以了。",
+        "label": ""
+      },
+      {
+        "sentence": "不要用它们来逃避现实。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "明白了，我会注意控制时间，不让自己过度依赖它们的。",
+    "annotation": [
+      {
+        "sentence": "明白了，我会注意控制时间，不让自己过度依赖它们的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，意识到问题并且采取积极的措施是解决困扰的第一步。",
+    "annotation": [
+      {
+        "sentence": "很好，意识到问题并且采取积极的措施是解决困扰的第一步。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持和建议，我会尽力面对和克服这个问题的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持和建议，我会尽力面对和克服这个问题的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，相信你能够战胜困难，加油！",
+    "annotation": [
+      {
+        "sentence": "不客气，相信你能够战胜困难，加油！",
+        "label": ""
+      }
+    ]
+  }
+]

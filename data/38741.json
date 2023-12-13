@@ -1,0 +1,232 @@
+[
+  {
+    "role": "client",
+    "content": "老公跟我已经冷暴力三周了(不在一起)，该不该继续？",
+    "annotation": [
+      {
+        "sentence": "老公跟我已经冷暴力三周了(不在一起)，该不该继续？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "和老公异地，偷看手机发现其有撩骚等情况，他不承认还一走了之。",
+    "annotation": [
+      {
+        "sentence": "和老公异地，偷看手机发现其有撩骚等情况，他不承认还一走了之。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，他不承认，而且还走了，我发信息给他说如果以后他还这样就不要找我了。",
+    "annotation": [
+      {
+        "sentence": "是的，他不承认，而且还走了，我发信息给他说如果以后他还这样就不要找我了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你的狠话可能是因为希望他因为恐惧而改变他的行为，是吗？",
+    "annotation": [
+      {
+        "sentence": "你的狠话可能是因为希望他因为恐惧而改变他的行为，是吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我希望他能解释并安抚我。",
+    "annotation": [
+      {
+        "sentence": "是的，我希望他能解释并安抚我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "但是他没有理你，甚至还骂你，这让你非常痛苦。",
+    "annotation": [
+      {
+        "sentence": "但是他没有理你，甚至还骂你，这让你非常痛苦。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我感到很委屈和难过。",
+    "annotation": [
+      {
+        "sentence": "是的，我感到很委屈和难过。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你现在觉得非常纠结，不知道是否应该继续这段关系。",
+    "annotation": [
+      {
+        "sentence": "你现在觉得非常纠结，不知道是否应该继续这段关系。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是啊，我真的很纠结。",
+    "annotation": [
+      {
+        "sentence": "是啊，我真的很纠结。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "从你的描述中，我觉得你内在非常恐惧失去这段关系。",
+    "annotation": [
+      {
+        "sentence": "从你的描述中，我觉得你内在非常恐惧失去这段关系。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我很害怕失去他。",
+    "annotation": [
+      {
+        "sentence": "是的，我很害怕失去他。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我建议你先从情绪的漩涡中出来。",
+    "annotation": [
+      {
+        "sentence": "我建议你先从情绪的漩涡中出来。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那应该怎么做呢？",
+    "annotation": [
+      {
+        "sentence": "那应该怎么做呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以尝试接纳自己内在的情绪，照顾自己，自我观照。",
+    "annotation": [
+      {
+        "sentence": "你可以尝试接纳自己内在的情绪，照顾自己，自我观照。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会试试的。",
+    "annotation": [
+      {
+        "sentence": "我会试试的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "另外，你也可以考虑找专业心理咨询师，帮助你排解情绪，理清自己的诉求。",
+    "annotation": [
+      {
+        "sentence": "另外，你也可以考虑找专业心理咨询师，帮助你排解情绪，理清自己的诉求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会考虑的。",
+    "annotation": [
+      {
+        "sentence": "好的，我会考虑的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "同时，你也需要客观地看待婚姻关系和问题。",
+    "annotation": [
+      {
+        "sentence": "同时，你也需要客观地看待婚姻关系和问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，我会反思一下我们婚姻关系的问题。",
+    "annotation": [
+      {
+        "sentence": "嗯，我会反思一下我们婚姻关系的问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "最后，你需要思考你在这段关系中害怕失去的是什么。",
+    "annotation": [
+      {
+        "sentence": "最后，你需要思考你在这段关系中害怕失去的是什么。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会思考一下自己的感受和对这段关系的期待。",
+    "annotation": [
+      {
+        "sentence": "我会思考一下自己的感受和对这段关系的期待。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "记住，这个世界上除了你自己，没有别人能给你真正的安全感和价值感。",
+    "annotation": [
+      {
+        "sentence": "记住，这个世界上除了你自己，没有别人能给你真正的安全感和价值感。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会努力面对自己的问题。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会努力面对自己的问题。",
+        "label": ""
+      }
+    ]
+  }
+]

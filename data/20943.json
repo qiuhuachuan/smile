@@ -1,0 +1,146 @@
+[
+  {
+    "role": "client",
+    "content": "我对一个女性朋友和对其他女性朋友不一样，很自卑？",
+    "annotation": [
+      {
+        "sentence": "我对一个女性朋友和对其他女性朋友不一样，很自卑？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "从你的描述来看，我猜你非常喜欢这个女孩子。",
+    "annotation": [
+      {
+        "sentence": "从你的描述来看，我猜你非常喜欢这个女孩子。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我对她有特殊的感觉。",
+    "annotation": [
+      {
+        "sentence": "是的，我对她有特殊的感觉。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种特殊感觉让你在她面前感到自卑吗？",
+    "annotation": [
+      {
+        "sentence": "这种特殊感觉让你在她面前感到自卑吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，每次和她接触，我都会感到很紧张。",
+    "annotation": [
+      {
+        "sentence": "是的，每次和她接触，我都会感到很紧张。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这很正常，因为你对她的重要性和满意度有所担心。",
+    "annotation": [
+      {
+        "sentence": "这很正常，因为你对她的重要性和满意度有所担心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我不确定自己是否能让她满意。",
+    "annotation": [
+      {
+        "sentence": "我不确定自己是否能让她满意。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很理解你的担心，但不要把自己的价值和自信全都寄托在对方的反应上。",
+    "annotation": [
+      {
+        "sentence": "很理解你的担心，但不要把自己的价值和自信全都寄托在对方的反应上。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会努力的，但是每次和她牵手时，我又感觉不自在。",
+    "annotation": [
+      {
+        "sentence": "我会努力的，但是每次和她牵手时，我又感觉不自在。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那可能是因为你还没有完全放开自己，不要太过在意自己的表现。",
+    "annotation": [
+      {
+        "sentence": "那可能是因为你还没有完全放开自己，不要太过在意自己的表现。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你觉得我需要怎样的态度呢？",
+    "annotation": [
+      {
+        "sentence": "你觉得我需要怎样的态度呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "也许你只需要一个更坦然的态度，这样在和她交往时就能更从容一些。",
+    "annotation": [
+      {
+        "sentence": "也许你只需要一个更坦然的态度，这样在和她交往时就能更从容一些。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试着调整我的态度，照顾好自己。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试着调整我的态度，照顾好自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，记住要相信自己的价值，不要过分依赖对方的反应。加油！",
+    "annotation": [
+      {
+        "sentence": "很好，记住要相信自己的价值，不要过分依赖对方的反应。",
+        "label": ""
+      },
+      {
+        "sentence": "加油！",
+        "label": ""
+      }
+    ]
+  }
+]

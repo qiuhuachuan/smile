@@ -1,0 +1,160 @@
+[
+  {
+    "role": "client",
+    "content": "总是被身边的一个女生模仿，烦躁，是我太敏感了吗？",
+    "annotation": [
+      {
+        "sentence": "总是被身边的一个女生模仿，烦躁，是我太敏感了吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其实，并不是你过于敏感了。在这种模仿之下，你会感觉自己被“监视”，因为这个人在偷偷的关注你，这种被“监视”的感觉本身就让人很不自在。",
+    "annotation": [
+      {
+        "sentence": "其实，并不是你过于敏感了。",
+        "label": ""
+      },
+      {
+        "sentence": "在这种模仿之下，你会感觉自己被“监视”，因为这个人在偷偷的关注你，这种被“监视”的感觉本身就让人很不自在。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，我就是感觉特别不自在。",
+    "annotation": [
+      {
+        "sentence": "对，我就是感觉特别不自在。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种模仿还带有一种攻击性，所以很容易让人感觉自己被挑衅。可能说明你哪里做得比她好，或者她在嫉妒你。",
+    "annotation": [
+      {
+        "sentence": "这种模仿还带有一种攻击性，所以很容易让人感觉自己被挑衅。",
+        "label": ""
+      },
+      {
+        "sentence": "可能说明你哪里做得比她好，或者她在嫉妒你。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我也想到过她可能是在嫉妒我。",
+    "annotation": [
+      {
+        "sentence": "我也想到过她可能是在嫉妒我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的。让她东施效颦去吧。你把自己该做好的事情继续做好吧。",
+    "annotation": [
+      {
+        "sentence": "是的。",
+        "label": ""
+      },
+      {
+        "sentence": "让她东施效颦去吧。",
+        "label": ""
+      },
+      {
+        "sentence": "你把自己该做好的事情继续做好吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你，我会尝试着不再太在意她的行为。但也有点想直接跟她说清楚。",
+    "annotation": [
+      {
+        "sentence": "谢谢你，我会尝试着不再太在意她的行为。",
+        "label": ""
+      },
+      {
+        "sentence": "但也有点想直接跟她说清楚。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果你想直接跟她说，也可以试试。不过，最好在心态平和的情况下再去找她谈话。",
+    "annotation": [
+      {
+        "sentence": "如果你想直接跟她说，也可以试试。",
+        "label": ""
+      },
+      {
+        "sentence": "不过，最好在心态平和的情况下再去找她谈话。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "恩，我会试着平和理智地和她谈谈。",
+    "annotation": [
+      {
+        "sentence": "恩，我会试着平和理智地和她谈谈。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对的，不要把情绪带到对话中，这样会让你们的关系更加恶劣。",
+    "annotation": [
+      {
+        "sentence": "对的，不要把情绪带到对话中，这样会让你们的关系更加恶劣。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "明白了，谢谢你提醒。",
+    "annotation": [
+      {
+        "sentence": "明白了，谢谢你提醒。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没有关系，我一直在你身边支持你。如果需要，以后还可以找我聊聊。",
+    "annotation": [
+      {
+        "sentence": "没有关系，我一直在你身边支持你。",
+        "label": ""
+      },
+      {
+        "sentence": "如果需要，以后还可以找我聊聊。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，非常感谢。",
+    "annotation": [
+      {
+        "sentence": "嗯，非常感谢。",
+        "label": ""
+      }
+    ]
+  }
+]

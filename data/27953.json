@@ -1,0 +1,126 @@
+[
+  {
+    "role": "client",
+    "content": "发现他妈宝，有时吵架会打自己巴掌，跟男友还继续吗？",
+    "annotation": [
+      {
+        "sentence": "发现他妈宝，有时吵架会打自己巴掌，跟男友还继续吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不是很爱我他可以改变吗？",
+    "annotation": [
+      {
+        "sentence": "不是很爱我他可以改变吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得如果他真的爱我，应该会在意我的感受和情绪。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得如果他真的爱我，应该会在意我的感受和情绪。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "确实，真正爱你的人会主动付出感情和金钱来维护你们的关系。",
+    "annotation": [
+      {
+        "sentence": "确实，真正爱你的人会主动付出感情和金钱来维护你们的关系。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我不确定他是否愿意为我们的关系付出努力。",
+    "annotation": [
+      {
+        "sentence": "但是我不确定他是否愿意为我们的关系付出努力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "试着思考一下，他都为这段关系做了些什么，付出了些什么。",
+    "annotation": [
+      {
+        "sentence": "试着思考一下，他都为这段关系做了些什么，付出了些什么。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他好像总是拒绝或者推辞我的需求和期待。",
+    "annotation": [
+      {
+        "sentence": "他好像总是拒绝或者推辞我的需求和期待。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这样的情况下，你或许可以更清楚你们的感情有多深了。",
+    "annotation": [
+      {
+        "sentence": "这样的情况下，你或许可以更清楚你们的感情有多深了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他的性格偏向于极端型，这令我有些担忧。",
+    "annotation": [
+      {
+        "sentence": "他的性格偏向于极端型，这令我有些担忧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "确实，吵架会打自己巴掌这种情况需要多观察一下。",
+    "annotation": [
+      {
+        "sentence": "确实，吵架会打自己巴掌这种情况需要多观察一下。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他有时候会情绪失控，像当众下跪扇自己祈求原谅。",
+    "annotation": [
+      {
+        "sentence": "他有时候会情绪失控，像当众下跪扇自己祈求原谅。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "长期以往，这可能会导致家暴的风险。你要考虑分手的可能性。",
+    "annotation": [
+      {
+        "sentence": "长期以往，这可能会导致家暴的风险。",
+        "label": ""
+      },
+      {
+        "sentence": "你要考虑分手的可能性。",
+        "label": ""
+      }
+    ]
+  }
+]

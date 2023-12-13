@@ -1,0 +1,220 @@
+[
+  {
+    "role": "client",
+    "content": "毕业六年里，总是梦见不喜欢的初中班主任，怎么缓解？",
+    "annotation": [
+      {
+        "sentence": "毕业六年里，总是梦见不喜欢的初中班主任，怎么缓解？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "看到你的问题会感觉这个对你造成了不少的困扰吧。",
+    "annotation": [
+      {
+        "sentence": "看到你的问题会感觉这个对你造成了不少的困扰吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，因为初中时被好朋友嫉妒，她不断在班主任面前编造谣言。",
+    "annotation": [
+      {
+        "sentence": "是的，因为初中时被好朋友嫉妒，她不断在班主任面前编造谣言。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这个事件让你觉得很委屈，导致你在初中生活中受到班主任的针对。",
+    "annotation": [
+      {
+        "sentence": "这个事件让你觉得很委屈，导致你在初中生活中受到班主任的针对。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，她从不顾及我的自尊，课堂和家长会都当着大家的面说很难听的话。",
+    "annotation": [
+      {
+        "sentence": "是的，她从不顾及我的自尊，课堂和家长会都当着大家的面说很难听的话。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "听起来这位老师的行为非常不尊重你，你的初中生活受到了很大的阴影。",
+    "annotation": [
+      {
+        "sentence": "听起来这位老师的行为非常不尊重你，你的初中生活受到了很大的阴影。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，这个老师除了我之外好像对其他学生都很友善。",
+    "annotation": [
+      {
+        "sentence": "对，这个老师除了我之外好像对其他学生都很友善。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这可能让你对自己产生了一些负面情绪，不舒服。",
+    "annotation": [
+      {
+        "sentence": "这可能让你对自己产生了一些负面情绪，不舒服。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "没错，现在六年多过去了，我还是经常做关于她的噩梦。",
+    "annotation": [
+      {
+        "sentence": "没错，现在六年多过去了，我还是经常做关于她的噩梦。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是因为这个事件一直不解决，导致你心里有压抑感和焦虑。",
+    "annotation": [
+      {
+        "sentence": "是因为这个事件一直不解决，导致你心里有压抑感和焦虑。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我真的很想缓解或者解决这种情况。",
+    "annotation": [
+      {
+        "sentence": "是的，我真的很想缓解或者解决这种情况。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我理解你的想法，首先我建议你把这个事情写下来，写下你的想法和感受。",
+    "annotation": [
+      {
+        "sentence": "我理解你的想法，首先我建议你把这个事情写下来，写下你的想法和感受。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我可以把愤怒的情绪都写出来吗？",
+    "annotation": [
+      {
+        "sentence": "那我可以把愤怒的情绪都写出来吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当然可以，你可以把写的东西撕了烧掉，告诉自己不在意，其他的老师都很喜欢你的。",
+    "annotation": [
+      {
+        "sentence": "当然可以，你可以把写的东西撕了烧掉，告诉自己不在意，其他的老师都很喜欢你的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试一试。还有其他方法吗？",
+    "annotation": [
+      {
+        "sentence": "好的，我会试一试。",
+        "label": ""
+      },
+      {
+        "sentence": "还有其他方法吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以找一个你信任的朋友，把这件事情告诉他\/她，倾诉一下。",
+    "annotation": [
+      {
+        "sentence": "你可以找一个你信任的朋友，把这件事情告诉他\/她，倾诉一下。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我还可以找到上次的同学去找老师澄清还自己一个清白吗？",
+    "annotation": [
+      {
+        "sentence": "那我还可以找到上次的同学去找老师澄清还自己一个清白吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果你感觉有必要，你可以试一试。而且你也可以想一想这个行为对你的意义是什么？",
+    "annotation": [
+      {
+        "sentence": "如果你感觉有必要，你可以试一试。",
+        "label": ""
+      },
+      {
+        "sentence": "而且你也可以想一想这个行为对你的意义是什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我可能需要得到一些证明，证明我并不是那样的人。",
+    "annotation": [
+      {
+        "sentence": "我可能需要得到一些证明，证明我并不是那样的人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果你觉得仍然有情绪或者困扰，你也可以去找专业的心理咨询师寻求支持。",
+    "annotation": [
+      {
+        "sentence": "如果你觉得仍然有情绪或者困扰，你也可以去找专业的心理咨询师寻求支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，谢谢你的建议，我会试一试的。",
+    "annotation": [
+      {
+        "sentence": "好的，谢谢你的建议，我会试一试的。",
+        "label": ""
+      }
+    ]
+  }
+]

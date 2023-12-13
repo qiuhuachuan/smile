@@ -1,0 +1,26 @@
+[
+  {
+    "role": "client",
+    "content": "像半工半读，找兼职很难，心情很不好，怎么办呢？",
+    "annotation": [
+      {
+        "sentence": "像半工半读，找兼职很难，心情很不好，怎么办呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是否尝试过线下的兼职工作？或许这会是一个更好的选择。",
+    "annotation": [
+      {
+        "sentence": "你是否尝试过线下的兼职工作？",
+        "label": ""
+      },
+      {
+        "sentence": "或许这会是一个更好的选择。",
+        "label": ""
+      }
+    ]
+  }
+]

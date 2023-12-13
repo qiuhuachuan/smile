@@ -1,0 +1,230 @@
+[
+  {
+    "role": "client",
+    "content": "我无法正常走路了，不停地重复着这个痛苦的循环。",
+    "annotation": [
+      {
+        "sentence": "我无法正常走路了，不停地重复着这个痛苦的循环。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "从你的文字中可以感受到你的敏感自卑。",
+    "annotation": [
+      {
+        "sentence": "从你的文字中可以感受到你的敏感自卑。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我从小就很羞涩，来客人就躲起来。",
+    "annotation": [
+      {
+        "sentence": "是的，我从小就很羞涩，来客人就躲起来。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我曾经也有一样的经历，家里来客人我也会立马躲在自己的房间里不出去，这种情况将我困扰了很久。",
+    "annotation": [
+      {
+        "sentence": "我曾经也有一样的经历，家里来客人我也会立马躲在自己的房间里不出去，这种情况将我困扰了很久。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我也是这样的，我从小走在路上就很恐惧，一直都是逃避。",
+    "annotation": [
+      {
+        "sentence": "我也是这样的，我从小走在路上就很恐惧，一直都是逃避。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我在大学之前每次走路也都是低着头，总觉得别人在盯着我看。",
+    "annotation": [
+      {
+        "sentence": "我在大学之前每次走路也都是低着头，总觉得别人在盯着我看。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我对迎面走来的人充满了恐惧，感觉无地自容。",
+    "annotation": [
+      {
+        "sentence": "是的，我对迎面走来的人充满了恐惧，感觉无地自容。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "后来我发现，是自己过分关注外界的评价而忽视了自我。",
+    "annotation": [
+      {
+        "sentence": "后来我发现，是自己过分关注外界的评价而忽视了自我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我也觉得，我总是担心别人对我的评价。",
+    "annotation": [
+      {
+        "sentence": "我也觉得，我总是担心别人对我的评价。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其实，别人对我们的评价并不是那么重要，我们要相信自己。",
+    "annotation": [
+      {
+        "sentence": "其实，别人对我们的评价并不是那么重要，我们要相信自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我总觉得自己不够好，所以格外关注外界给予的评价。",
+    "annotation": [
+      {
+        "sentence": "我总觉得自己不够好，所以格外关注外界给予的评价。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "外界的评价无法定义你，你是怎样的人，应该由你自己定义。",
+    "annotation": [
+      {
+        "sentence": "外界的评价无法定义你，你是怎样的人，应该由你自己定义。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我应该接纳自己，将“我不够好”的想法摒弃掉。",
+    "annotation": [
+      {
+        "sentence": "我明白了，我应该接纳自己，将“我不够好”的想法摒弃掉。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，试着放松一下，长时间处于紧张的状态只会让你越来越焦虑。",
+    "annotation": [
+      {
+        "sentence": "很好，试着放松一下，长时间处于紧张的状态只会让你越来越焦虑。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我需要找到适合自己的放松方式。",
+    "annotation": [
+      {
+        "sentence": "我需要找到适合自己的放松方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以试着跑步或者快走，这些运动可以在放松的同时给自己一个思考自我的空间。",
+    "annotation": [
+      {
+        "sentence": "你可以试着跑步或者快走，这些运动可以在放松的同时给自己一个思考自我的空间。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会尝试的。",
+    "annotation": [
+      {
+        "sentence": "好的，我会尝试的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "同时，关注自我也很重要，提升自我，让自己变得更加优秀，慢慢自信起来。",
+    "annotation": [
+      {
+        "sentence": "同时，关注自我也很重要，提升自我，让自己变得更加优秀，慢慢自信起来。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会努力提升自己的，谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "我会努力提升自己的，谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "还有一个建议，试着刻意练习抬头走路，不用盯着别人看，目视前方。刚开始可能会很难受，但是熬过去，就会发现其实也没什么大不了的。",
+    "annotation": [
+      {
+        "sentence": "还有一个建议，试着刻意练习抬头走路，不用盯着别人看，目视前方。",
+        "label": ""
+      },
+      {
+        "sentence": "刚开始可能会很难受，但是熬过去，就会发现其实也没什么大不了的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试试看的。谢谢你的鼓励和支持。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试试看的。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的鼓励和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，相信自己，你一定能够克服这个困扰的。",
+    "annotation": [
+      {
+        "sentence": "不客气，相信自己，你一定能够克服这个困扰的。",
+        "label": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "client",
+    "content": "未婚理工男硕士，对方不爱了，要不要再坚持？",
+    "annotation": [
+      {
+        "sentence": "未婚理工男硕士，对方不爱了，要不要再坚持？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是不是还在迷茫中？",
+    "annotation": [
+      {
+        "sentence": "你是不是还在迷茫中？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我不知道该怎么办了。",
+    "annotation": [
+      {
+        "sentence": "是的，我不知道该怎么办了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "既然你情感经历少，最好找一个情感经历也少一些的人，这样两个人在一起比较平衡。",
+    "annotation": [
+      {
+        "sentence": "既然你情感经历少，最好找一个情感经历也少一些的人，这样两个人在一起比较平衡。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你的意思是，我应该找一个和我情感经历相似的人？",
+    "annotation": [
+      {
+        "sentence": "你的意思是，我应该找一个和我情感经历相似的人？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对，与情感经历多的人在一起，恐怕你无法应付复杂的感情。",
+    "annotation": [
+      {
+        "sentence": "对，与情感经历多的人在一起，恐怕你无法应付复杂的感情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我应该怎样去找这样的人呢？",
+    "annotation": [
+      {
+        "sentence": "那我应该怎样去找这样的人呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以选择参加一些相亲活动，或者通过朋友介绍寻找适合你的人。",
+    "annotation": [
+      {
+        "sentence": "你可以选择参加一些相亲活动，或者通过朋友介绍寻找适合你的人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "听起来好像可行，但是我觉得自己对感情的理解还不够深入。",
+    "annotation": [
+      {
+        "sentence": "听起来好像可行，但是我觉得自己对感情的理解还不够深入。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我觉得你还是需要更多的了解和学习，不要只听表面的话语，要明白背后的意思。",
+    "annotation": [
+      {
+        "sentence": "我觉得你还是需要更多的了解和学习，不要只听表面的话语，要明白背后的意思。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "也许你说的对，我确实对感情的理解比较肤浅。",
+    "annotation": [
+      {
+        "sentence": "也许你说的对，我确实对感情的理解比较肤浅。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这样算是直男了吧，所以情感经历少一些的人更适合你。",
+    "annotation": [
+      {
+        "sentence": "这样算是直男了吧，所以情感经历少一些的人更适合你。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我需要找一个情感经历相对简单的人来建立感情。",
+    "annotation": [
+      {
+        "sentence": "我明白了，我需要找一个情感经历相对简单的人来建立感情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对的，这样你们之间的交流和理解会更顺畅。",
+    "annotation": [
+      {
+        "sentence": "对的，这样你们之间的交流和理解会更顺畅。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会努力去寻找适合我的人。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会努力去寻找适合我的人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，希望你能早日找到适合的伴侣。记得要保持自信，相信自己能找到幸福的爱情。",
+    "annotation": [
+      {
+        "sentence": "不用客气，希望你能早日找到适合的伴侣。",
+        "label": ""
+      },
+      {
+        "sentence": "记得要保持自信，相信自己能找到幸福的爱情。",
+        "label": ""
+      }
+    ]
+  }
+]

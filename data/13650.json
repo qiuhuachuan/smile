@@ -1,0 +1,162 @@
+[
+  {
+    "role": "client",
+    "content": "当对别人不满时，为何会有自毁倾向？",
+    "annotation": [
+      {
+        "sentence": "当对别人不满时，为何会有自毁倾向？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你感到不满的时候是不是没有表达自己的不满呢？",
+    "annotation": [
+      {
+        "sentence": "你感到不满的时候是不是没有表达自己的不满呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我通常会选择自己默默承受。",
+    "annotation": [
+      {
+        "sentence": "是的，我通常会选择自己默默承受。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "明白了。你是否因为没有为自己发声而感到自责，反而把错归咎于自己了呢？",
+    "annotation": [
+      {
+        "sentence": "明白了。",
+        "label": ""
+      },
+      {
+        "sentence": "你是否因为没有为自己发声而感到自责，反而把错归咎于自己了呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我总是觉得我应该能够处理好这些问题。",
+    "annotation": [
+      {
+        "sentence": "是的，我总是觉得我应该能够处理好这些问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你一定要尊重自己的感受和需求哦，这样对方才能明白你的真实感受和需求而不是误以为你什么都无所谓。",
+    "annotation": [
+      {
+        "sentence": "你一定要尊重自己的感受和需求哦，这样对方才能明白你的真实感受和需求而不是误以为你什么都无所谓。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我总觉得自己的需求不重要。",
+    "annotation": [
+      {
+        "sentence": "但是我总觉得自己的需求不重要。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人的需求都是重要的，包括你自己。你要相信自己的感受和需求是值得关注和满足的。",
+    "annotation": [
+      {
+        "sentence": "每个人的需求都是重要的，包括你自己。",
+        "label": ""
+      },
+      {
+        "sentence": "你要相信自己的感受和需求是值得关注和满足的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我总觉得自己不值得他人关心。",
+    "annotation": [
+      {
+        "sentence": "可是我总觉得自己不值得他人关心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这其实是你内心的一种负面自评过程。你要记住你是有价值的人，值得关心和与人交流。",
+    "annotation": [
+      {
+        "sentence": "这其实是你内心的一种负面自评过程。",
+        "label": ""
+      },
+      {
+        "sentence": "你要记住你是有价值的人，值得关心和与人交流。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会试着改变我的负面自评观念，相信自己是有价值的。",
+    "annotation": [
+      {
+        "sentence": "我会试着改变我的负面自评观念，相信自己是有价值的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那就好。记住要多爱自己一些呢，尊重自己的感受，表达自己的需要，并与他人进行健康的沟通。",
+    "annotation": [
+      {
+        "sentence": "那就好。",
+        "label": ""
+      },
+      {
+        "sentence": "记住要多爱自己一些呢，尊重自己的感受，表达自己的需要，并与他人进行健康的沟通。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持和鼓励，我会努力的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持和鼓励，我会努力的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我相信你能够做到的。如果以后还有任何需要，记得随时来找我聊聊。",
+    "annotation": [
+      {
+        "sentence": "不客气，我相信你能够做到的。",
+        "label": ""
+      },
+      {
+        "sentence": "如果以后还有任何需要，记得随时来找我聊聊。",
+        "label": ""
+      }
+    ]
+  }
+]

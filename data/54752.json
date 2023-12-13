@@ -1,0 +1,122 @@
+[
+  {
+    "role": "client",
+    "content": "初二，爱上了一个女生，怎么办？",
+    "annotation": [
+      {
+        "sentence": "初二，爱上了一个女生，怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我明白你现在的困惑和不安。可以和我说说你和她之间的事情吗？",
+    "annotation": [
+      {
+        "sentence": "我明白你现在的困惑和不安。",
+        "label": ""
+      },
+      {
+        "sentence": "可以和我说说你和她之间的事情吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我们曾经是好朋友，但后来因为一些学习上的问题，我们吵了几次架，我也说了一些伤她心的话。",
+    "annotation": [
+      {
+        "sentence": "我们曾经是好朋友，但后来因为一些学习上的问题，我们吵了几次架，我也说了一些伤她心的话。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "听起来感情之间有些曲折。那你最近有联系到她吗？",
+    "annotation": [
+      {
+        "sentence": "听起来感情之间有些曲折。",
+        "label": ""
+      },
+      {
+        "sentence": "那你最近有联系到她吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "她最近加了我QQ好友，但我们还没调整好关系就吵架了。",
+    "annotation": [
+      {
+        "sentence": "她最近加了我QQ好友，但我们还没调整好关系就吵架了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我觉得你们之间的关系需要时间来缓和。同时，你也提到你现在有很大的学业压力，你需要把更多的心思放在学习上。",
+    "annotation": [
+      {
+        "sentence": "我觉得你们之间的关系需要时间来缓和。",
+        "label": ""
+      },
+      {
+        "sentence": "同时，你也提到你现在有很大的学业压力，你需要把更多的心思放在学习上。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但我真的忘不掉她。",
+    "annotation": [
+      {
+        "sentence": "但我真的忘不掉她。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "尝试把这种感情放到心底，努力成为更好的自己，这样你们以后还可以成为更好的伙伴，也是一种非常浪漫的事情。",
+    "annotation": [
+      {
+        "sentence": "尝试把这种感情放到心底，努力成为更好的自己，这样你们以后还可以成为更好的伙伴，也是一种非常浪漫的事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试试做到的。谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试试做到的。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气。加油哦！",
+    "annotation": [
+      {
+        "sentence": "不用客气。",
+        "label": ""
+      },
+      {
+        "sentence": "加油哦！",
+        "label": ""
+      }
+    ]
+  }
+]

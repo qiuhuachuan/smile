@@ -1,0 +1,262 @@
+[
+  {
+    "role": "client",
+    "content": "我该不该继续等下去？",
+    "annotation": [
+      {
+        "sentence": "我该不该继续等下去？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可以，请问你想等待什么？",
+    "annotation": [
+      {
+        "sentence": "可以，请问你想等待什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我前任因为这次疫情长期在家，情绪和身体相继出现问题。",
+    "annotation": [
+      {
+        "sentence": "我前任因为这次疫情长期在家，情绪和身体相继出现问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "听起来他经历了一段困难的时期。",
+    "annotation": [
+      {
+        "sentence": "听起来他经历了一段困难的时期。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，从两月份末一直到现在。",
+    "annotation": [
+      {
+        "sentence": "是的，从两月份末一直到现在。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这段时间真的不容易，你也很辛苦。",
+    "annotation": [
+      {
+        "sentence": "这段时间真的不容易，你也很辛苦。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "爸妈是虔诚的基督教教徒。他身体的不舒服主要体现在性方面。",
+    "annotation": [
+      {
+        "sentence": "爸妈是虔诚的基督教教徒。",
+        "label": ""
+      },
+      {
+        "sentence": "他身体的不舒服主要体现在性方面。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种情况对他的身心都是一个很大的挑战。",
+    "annotation": [
+      {
+        "sentence": "这种情况对他的身心都是一个很大的挑战。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我很担心他的身体和情绪都受到了影响。",
+    "annotation": [
+      {
+        "sentence": "是的，我很担心他的身体和情绪都受到了影响。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "关心他是很好的，你可以尝试给他一些支持和帮助。",
+    "annotation": [
+      {
+        "sentence": "关心他是很好的，你可以尝试给他一些支持和帮助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我想知道我可以在等待的期间做些什么？",
+    "annotation": [
+      {
+        "sentence": "我想知道我可以在等待的期间做些什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以尝试着和他沟通，了解他的需要和想法。",
+    "annotation": [
+      {
+        "sentence": "你可以尝试着和他沟通，了解他的需要和想法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他一直认为自己的问题是因为手淫引起的，并且觉得自己整个人都罪大恶极罪无可赦。",
+    "annotation": [
+      {
+        "sentence": "他一直认为自己的问题是因为手淫引起的，并且觉得自己整个人都罪大恶极罪无可赦。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他对自己的问题产生了很大的自责和焦虑。",
+    "annotation": [
+      {
+        "sentence": "他对自己的问题产生了很大的自责和焦虑。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，他甚至认为自己已经痴呆了。",
+    "annotation": [
+      {
+        "sentence": "是的，他甚至认为自己已经痴呆了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "虽然他可能感到自责和焦虑，但这并不代表他真的痴呆了。",
+    "annotation": [
+      {
+        "sentence": "虽然他可能感到自责和焦虑，但这并不代表他真的痴呆了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我也知道他的问题可能是其他原因引起的，但他却不接受任何外人的劝告。",
+    "annotation": [
+      {
+        "sentence": "我也知道他的问题可能是其他原因引起的，但他却不接受任何外人的劝告。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "有时候，我们需要更多的耐心和理解，帮助他慢慢恢复。",
+    "annotation": [
+      {
+        "sentence": "有时候，我们需要更多的耐心和理解，帮助他慢慢恢复。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我现在真的很担心他，他现在甚至想通过通宵打游戏来解决问题。",
+    "annotation": [
+      {
+        "sentence": "我现在真的很担心他，他现在甚至想通过通宵打游戏来解决问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我了解你的担忧，但通宵打游戏并不能解决问题。我们可以尝试通过其他方式帮助他。",
+    "annotation": [
+      {
+        "sentence": "我了解你的担忧，但通宵打游戏并不能解决问题。",
+        "label": ""
+      },
+      {
+        "sentence": "我们可以尝试通过其他方式帮助他。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你有什么具体的建议吗？",
+    "annotation": [
+      {
+        "sentence": "你有什么具体的建议吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我们可以试着给他一些积极的建议，鼓励他接受治疗和寻求帮助。同时，你可以陪伴他，给予他实质性的关怀和支持，让他感到被爱和被理解。",
+    "annotation": [
+      {
+        "sentence": "我们可以试着给他一些积极的建议，鼓励他接受治疗和寻求帮助。",
+        "label": ""
+      },
+      {
+        "sentence": "同时，你可以陪伴他，给予他实质性的关怀和支持，让他感到被爱和被理解。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会尽力做到的，谢谢你的建议和支持。",
+    "annotation": [
+      {
+        "sentence": "我会尽力做到的，谢谢你的建议和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我相信你的付出和支持会给他带来改变。祝愿你们能够共同度过这段困难的时期。加油！",
+    "annotation": [
+      {
+        "sentence": "不客气，我相信你的付出和支持会给他带来改变。",
+        "label": ""
+      },
+      {
+        "sentence": "祝愿你们能够共同度过这段困难的时期。",
+        "label": ""
+      },
+      {
+        "sentence": "加油！",
+        "label": ""
+      }
+    ]
+  }
+]

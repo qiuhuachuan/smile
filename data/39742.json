@@ -1,0 +1,194 @@
+[
+  {
+    "role": "client",
+    "content": "有时候真的很想说“当然了”，应该说吗？",
+    "annotation": [
+      {
+        "sentence": "有时候真的很想说“当然了”，应该说吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其实我觉得该说的时候就说嘛！为什么一定要顾及他人的感受呢？",
+    "annotation": [
+      {
+        "sentence": "其实我觉得该说的时候就说嘛！",
+        "label": ""
+      },
+      {
+        "sentence": "为什么一定要顾及他人的感受呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我就是担心说了\"当然了\"会让别人觉得我很自以为是。",
+    "annotation": [
+      {
+        "sentence": "我就是担心说了\"当然了\"会让别人觉得我很自以为是。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "也许有些人会有这种看法，但你不必在意他们怎么想。你也有自己的观点和想法。",
+    "annotation": [
+      {
+        "sentence": "也许有些人会有这种看法，但你不必在意他们怎么想。",
+        "label": ""
+      },
+      {
+        "sentence": "你也有自己的观点和想法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我明白。但有时候别人给出一些很低级的意见，我真的很想直接说\"当然了\"。",
+    "annotation": [
+      {
+        "sentence": "是的，我明白。",
+        "label": ""
+      },
+      {
+        "sentence": "但有时候别人给出一些很低级的意见，我真的很想直接说\"当然了\"。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是正常的反应。你会觉得对方把你当成不懂事的人，而你其实有自己的能力和见解。",
+    "annotation": [
+      {
+        "sentence": "这是正常的反应。",
+        "label": ""
+      },
+      {
+        "sentence": "你会觉得对方把你当成不懂事的人，而你其实有自己的能力和见解。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，我觉得自己被小看了，所以才想要用\"当然了\"来表达我的不满。",
+    "annotation": [
+      {
+        "sentence": "对，我觉得自己被小看了，所以才想要用\"当然了\"来表达我的不满。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你的感受是可以理解的。然而，我们不能因为他人的低级意见而感到自卑或沮丧。",
+    "annotation": [
+      {
+        "sentence": "你的感受是可以理解的。",
+        "label": ""
+      },
+      {
+        "sentence": "然而，我们不能因为他人的低级意见而感到自卑或沮丧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说得对。我也明白我应该更加自信一些。",
+    "annotation": [
+      {
+        "sentence": "你说得对。",
+        "label": ""
+      },
+      {
+        "sentence": "我也明白我应该更加自信一些。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没错！自信是很重要的。不要害怕表达自己的观点和意见。",
+    "annotation": [
+      {
+        "sentence": "没错！",
+        "label": ""
+      },
+      {
+        "sentence": "自信是很重要的。",
+        "label": ""
+      },
+      {
+        "sentence": "不要害怕表达自己的观点和意见。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你的话让我感到安慰，谢谢你的支持。",
+    "annotation": [
+      {
+        "sentence": "你的话让我感到安慰，谢谢你的支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气！我很高兴能为你提供帮助。如果你有任何不开心的事情，随时可以来找我倾诉。",
+    "annotation": [
+      {
+        "sentence": "不客气！",
+        "label": ""
+      },
+      {
+        "sentence": "我很高兴能为你提供帮助。",
+        "label": ""
+      },
+      {
+        "sentence": "如果你有任何不开心的事情，随时可以来找我倾诉。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "非常感谢你的好意，我会记得的。希望能再次和你交流。",
+    "annotation": [
+      {
+        "sentence": "非常感谢你的好意，我会记得的。",
+        "label": ""
+      },
+      {
+        "sentence": "希望能再次和你交流。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我也希望能和你保持联系。如果需要，随时找我聊天都可以。祝你一切顺利！",
+    "annotation": [
+      {
+        "sentence": "我也希望能和你保持联系。",
+        "label": ""
+      },
+      {
+        "sentence": "如果需要，随时找我聊天都可以。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你一切顺利！",
+        "label": ""
+      }
+    ]
+  }
+]

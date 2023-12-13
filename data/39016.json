@@ -1,0 +1,222 @@
+[
+  {
+    "role": "client",
+    "content": "男朋友刚确定关系就对我冷漠？",
+    "annotation": [
+      {
+        "sentence": "男朋友刚确定关系就对我冷漠？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你感觉和男朋友刚刚确定关系，他就对你变冷漠了。",
+    "annotation": [
+      {
+        "sentence": "你感觉和男朋友刚刚确定关系，他就对你变冷漠了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "男朋友刚确定关系就对我冷淡，我想要安全感。",
+    "annotation": [
+      {
+        "sentence": "男朋友刚确定关系就对我冷淡，我想要安全感。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我了解你想要获得安全感的需求。",
+    "annotation": [
+      {
+        "sentence": "我了解你想要获得安全感的需求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我表达了希望他早晚能告诉我一下。",
+    "annotation": [
+      {
+        "sentence": "我表达了希望他早晚能告诉我一下。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是你希望得到他关心和关注的方式。只是他可能有不同的表达方式。",
+    "annotation": [
+      {
+        "sentence": "这是你希望得到他关心和关注的方式。",
+        "label": ""
+      },
+      {
+        "sentence": "只是他可能有不同的表达方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他说他答应我的事一定会做到。",
+    "annotation": [
+      {
+        "sentence": "他说他答应我的事一定会做到。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这表明他是一个重视承诺和有责任心的人。",
+    "annotation": [
+      {
+        "sentence": "这表明他是一个重视承诺和有责任心的人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "做不到的事情也不会轻易答应。",
+    "annotation": [
+      {
+        "sentence": "做不到的事情也不会轻易答应。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这意味着他会认真考虑自己的承诺，不会妄下承诺。",
+    "annotation": [
+      {
+        "sentence": "这意味着他会认真考虑自己的承诺，不会妄下承诺。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他让我相信他，可是我无法控制自己的情绪，我很难受。",
+    "annotation": [
+      {
+        "sentence": "他让我相信他，可是我无法控制自己的情绪，我很难受。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我理解你感受到的不安和困惑。情绪上的困扰可能是因为你对感情投入得比较多。",
+    "annotation": [
+      {
+        "sentence": "我理解你感受到的不安和困惑。",
+        "label": ""
+      },
+      {
+        "sentence": "情绪上的困扰可能是因为你对感情投入得比较多。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我希望他能给我更多的关心和安慰。",
+    "annotation": [
+      {
+        "sentence": "我希望他能给我更多的关心和安慰。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你想要获得更多关心和安慰，这是很正常的愿望。",
+    "annotation": [
+      {
+        "sentence": "你想要获得更多关心和安慰，这是很正常的愿望。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "也许他没有给你说早晚安。",
+    "annotation": [
+      {
+        "sentence": "也许他没有给你说早晚安。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "但是他也用他自己的方式爱着你，并且对你表达了他的爱。爱情有很多种模样，并不一定符合每个人的期待。",
+    "annotation": [
+      {
+        "sentence": "但是他也用他自己的方式爱着你，并且对你表达了他的爱。",
+        "label": ""
+      },
+      {
+        "sentence": "爱情有很多种模样，并不一定符合每个人的期待。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我理解了，我们在相处中需要互相理解和迁就。",
+    "annotation": [
+      {
+        "sentence": "我理解了，我们在相处中需要互相理解和迁就。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没错，互相理解和迁就是建立健康关系的重要组成部分。祝福你。",
+    "annotation": [
+      {
+        "sentence": "没错，互相理解和迁就是建立健康关系的重要组成部分。",
+        "label": ""
+      },
+      {
+        "sentence": "祝福你。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持和鼓励。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持和鼓励。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我很高兴能够帮助你。如果还有其他问题，随时来找我聊天。",
+    "annotation": [
+      {
+        "sentence": "不客气，我很高兴能够帮助你。",
+        "label": ""
+      },
+      {
+        "sentence": "如果还有其他问题，随时来找我聊天。",
+        "label": ""
+      }
+    ]
+  }
+]

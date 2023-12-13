@@ -1,0 +1,22 @@
+[
+  {
+    "role": "client",
+    "content": "我今年20岁，感觉活着就是个废物，总是想不开。",
+    "annotation": [
+      {
+        "sentence": "我今年20岁，感觉活着就是个废物，总是想不开。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先隔空能说出来是一种勇敢。",
+    "annotation": [
+      {
+        "sentence": "首先隔空能说出来是一种勇敢。",
+        "label": ""
+      }
+    ]
+  }
+]

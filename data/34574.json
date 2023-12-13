@@ -1,0 +1,178 @@
+[
+  {
+    "role": "client",
+    "content": "外公硬说是我打翻的，被家人误会，怎么办？",
+    "annotation": [
+      {
+        "sentence": "外公硬说是我打翻的，被家人误会，怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你在家里受到了如此不公正的待遇，心里一定很委屈，很难过。",
+    "annotation": [
+      {
+        "sentence": "你在家里受到了如此不公正的待遇，心里一定很委屈，很难过。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得很委屈，明明碗不是我打破的，但因为外公不喜欢我，却说是我打翻的。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得很委屈，明明碗不是我打破的，但因为外公不喜欢我，却说是我打翻的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "确实很不公平，这种被冤枉的感觉让人很难受。有时候大人比我们小孩子还任性的多。",
+    "annotation": [
+      {
+        "sentence": "确实很不公平，这种被冤枉的感觉让人很难受。",
+        "label": ""
+      },
+      {
+        "sentence": "有时候大人比我们小孩子还任性的多。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，而且我的妈妈也不相信我，还对我破口大骂，说了很多伤人的话。",
+    "annotation": [
+      {
+        "sentence": "是的，而且我的妈妈也不相信我，还对我破口大骂，说了很多伤人的话。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "真的很心疼你受到这些莫须有的伤害。你现在心里不舒服是很正常的。",
+    "annotation": [
+      {
+        "sentence": "真的很心疼你受到这些莫须有的伤害。",
+        "label": ""
+      },
+      {
+        "sentence": "你现在心里不舒服是很正常的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是啊，我就是感觉很不公平。我该怎么办？",
+    "annotation": [
+      {
+        "sentence": "是啊，我就是感觉很不公平。",
+        "label": ""
+      },
+      {
+        "sentence": "我该怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "现在可能妈妈正在气头上，你可以等她气消了，再跟她好好解释一下。或许事情就会有好的转机。",
+    "annotation": [
+      {
+        "sentence": "现在可能妈妈正在气头上，你可以等她气消了，再跟她好好解释一下。",
+        "label": ""
+      },
+      {
+        "sentence": "或许事情就会有好的转机。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，我会等妈妈气消了再说的。谢谢你给我提供的建议和安慰。",
+    "annotation": [
+      {
+        "sentence": "嗯，我会等妈妈气消了再说的。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你给我提供的建议和安慰。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我很理解你的感受。随时需要倾诉的话，都可以找我聊天。",
+    "annotation": [
+      {
+        "sentence": "不客气，我很理解你的感受。",
+        "label": ""
+      },
+      {
+        "sentence": "随时需要倾诉的话，都可以找我聊天。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你，我真的很感激你的支持和鼓励。",
+    "annotation": [
+      {
+        "sentence": "谢谢你，我真的很感激你的支持和鼓励。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没事的，我们大家都需要有人支持和鼓励。希望你的问题可以尽快解决，心情也能好起来。",
+    "annotation": [
+      {
+        "sentence": "没事的，我们大家都需要有人支持和鼓励。",
+        "label": ""
+      },
+      {
+        "sentence": "希望你的问题可以尽快解决，心情也能好起来。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你，我也希望一切能好起来。再次感谢你的帮助。",
+    "annotation": [
+      {
+        "sentence": "谢谢你，我也希望一切能好起来。",
+        "label": ""
+      },
+      {
+        "sentence": "再次感谢你的帮助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，记得随时找我聊天，愿意倾听你的故事。祝你一切顺利！",
+    "annotation": [
+      {
+        "sentence": "不客气，记得随时找我聊天，愿意倾听你的故事。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你一切顺利！",
+        "label": ""
+      }
+    ]
+  }
+]

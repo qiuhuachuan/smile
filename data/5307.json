@@ -1,0 +1,174 @@
+[
+  {
+    "role": "client",
+    "content": "男朋友高中学历，家里负债累累，但对我好，该继续吗？我很犹豫，很纠结。",
+    "annotation": [
+      {
+        "sentence": "男朋友高中学历，家里负债累累，但对我好，该继续吗？",
+        "label": ""
+      },
+      {
+        "sentence": "我很犹豫，很纠结。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先我想问一下你，你确定爱他吗？",
+    "annotation": [
+      {
+        "sentence": "首先我想问一下你，你确定爱他吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我很喜欢他，但不确定是不是真爱。",
+    "annotation": [
+      {
+        "sentence": "我很喜欢他，但不确定是不是真爱。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你对自己之后生过的期望是什么？",
+    "annotation": [
+      {
+        "sentence": "你对自己之后生过的期望是什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我希望自己可以有一个稳定的生活，拥有一份满意的工作。",
+    "annotation": [
+      {
+        "sentence": "我希望自己可以有一个稳定的生活，拥有一份满意的工作。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "有了这个期望，你觉得你能和他一起实现吗？",
+    "annotation": [
+      {
+        "sentence": "有了这个期望，你觉得你能和他一起实现吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他并不是很有钱，我担心和他在一起以后生活质量可能会下降。",
+    "annotation": [
+      {
+        "sentence": "他并不是很有钱，我担心和他在一起以后生活质量可能会下降。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是否考虑过和他一起面对的挑战？",
+    "annotation": [
+      {
+        "sentence": "你是否考虑过和他一起面对的挑战？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得我可以和他一起面对挑战，但还是不确定。",
+    "annotation": [
+      {
+        "sentence": "我觉得我可以和他一起面对挑战，但还是不确定。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "试想下你们在婚后会因为理念的不同发生争执。是你妥协还是你用你的学术据理力争？",
+    "annotation": [
+      {
+        "sentence": "试想下你们在婚后会因为理念的不同发生争执。",
+        "label": ""
+      },
+      {
+        "sentence": "是你妥协还是你用你的学术据理力争？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得我会用学术据理力争。",
+    "annotation": [
+      {
+        "sentence": "我觉得我会用学术据理力争。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对于他的学历，你是否介意？",
+    "annotation": [
+      {
+        "sentence": "对于他的学历，你是否介意？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我并不介意他的学历，但是担心未来的生活。",
+    "annotation": [
+      {
+        "sentence": "我并不介意他的学历，但是担心未来的生活。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "最后，与其纠结男朋友的现状，不如先确定自己在未来想要什么？要怎么做才能实现？",
+    "annotation": [
+      {
+        "sentence": "最后，与其纠结男朋友的现状，不如先确定自己在未来想要什么？",
+        "label": ""
+      },
+      {
+        "sentence": "要怎么做才能实现？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得您说的对，我需要先思考清楚自己想要的是什么。",
+    "annotation": [
+      {
+        "sentence": "我觉得您说的对，我需要先思考清楚自己想要的是什么。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "希望我的想法可以帮到你，无论你决定怎么做，我都会支持你。",
+    "annotation": [
+      {
+        "sentence": "希望我的想法可以帮到你，无论你决定怎么做，我都会支持你。",
+        "label": ""
+      }
+    ]
+  }
+]

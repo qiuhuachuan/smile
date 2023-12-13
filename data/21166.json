@@ -1,0 +1,202 @@
+[
+  {
+    "role": "client",
+    "content": "怎样克制父母望子成龙的心，增进亲子感情？",
+    "annotation": [
+      {
+        "sentence": "怎样克制父母望子成龙的心，增进亲子感情？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "菲尔认为，望子成龙的心和尊重孩子的意愿是不冲突的。",
+    "annotation": [
+      {
+        "sentence": "菲尔认为，望子成龙的心和尊重孩子的意愿是不冲突的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是在现实残酷的竞争社会里，怎样克制父母的望子成龙心，多给孩子一些空间，尊重孩子的意愿，又不脱离前进的车轮？",
+    "annotation": [
+      {
+        "sentence": "但是在现实残酷的竞争社会里，怎样克制父母的望子成龙心，多给孩子一些空间，尊重孩子的意愿，又不脱离前进的车轮？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你的担心非常理解，但是克制并不是唯一的解决方法。",
+    "annotation": [
+      {
+        "sentence": "你的担心非常理解，但是克制并不是唯一的解决方法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那还有其他方法吗？",
+    "annotation": [
+      {
+        "sentence": "那还有其他方法吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，建议可以和父母聚在一起商讨关于如何更好地“望子成龙”这件事。",
+    "annotation": [
+      {
+        "sentence": "是的，建议可以和父母聚在一起商讨关于如何更好地“望子成龙”这件事。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是父母总是急着让我达到他们期望的成就。",
+    "annotation": [
+      {
+        "sentence": "但是父母总是急着让我达到他们期望的成就。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "明白你的困扰，家长的期望常常会给我们带来压力。",
+    "annotation": [
+      {
+        "sentence": "明白你的困扰，家长的期望常常会给我们带来压力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我真的希望他们能多听听我的需求。",
+    "annotation": [
+      {
+        "sentence": "我真的希望他们能多听听我的需求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这确实是一个很重要的诉求，你可以试着和父母坦诚地沟通，表达你的感受和意愿。",
+    "annotation": [
+      {
+        "sentence": "这确实是一个很重要的诉求，你可以试着和父母坦诚地沟通，表达你的感受和意愿。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我们的认知和价值观有时候存在差异。",
+    "annotation": [
+      {
+        "sentence": "但是我们的认知和价值观有时候存在差异。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "确实，与父母之间的代沟常常会让沟通变得困难。",
+    "annotation": [
+      {
+        "sentence": "确实，与父母之间的代沟常常会让沟通变得困难。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我应该怎样做才能得到他们的尊重和理解呢？",
+    "annotation": [
+      {
+        "sentence": "那我应该怎样做才能得到他们的尊重和理解呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "想要被尊重意见，我们首先要从合理的表达自己的意见开始。",
+    "annotation": [
+      {
+        "sentence": "想要被尊重意见，我们首先要从合理的表达自己的意见开始。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "所以我要尽量理智地沟通，而不是情绪化吗？",
+    "annotation": [
+      {
+        "sentence": "所以我要尽量理智地沟通，而不是情绪化吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对的，情绪化的沟通可能会导致进一步的冲突，保持冷静会更有助于理解和接纳。",
+    "annotation": [
+      {
+        "sentence": "对的，情绪化的沟通可能会导致进一步的冲突，保持冷静会更有助于理解和接纳。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我会试试这种方法和他们沟通。",
+    "annotation": [
+      {
+        "sentence": "我明白了，我会试试这种方法和他们沟通。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，相信只要你们共同努力，亲子关系会逐渐得到改善的。",
+    "annotation": [
+      {
+        "sentence": "很好，相信只要你们共同努力，亲子关系会逐渐得到改善的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会努力的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会努力的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "希望我的回答可以帮到你(･ω･)ﾉ，如果有任何其他问题，随时向我咨询。",
+    "annotation": [
+      {
+        "sentence": "希望我的回答可以帮到你(･ω･)ﾉ，如果有任何其他问题，随时向我咨询。",
+        "label": ""
+      }
+    ]
+  }
+]

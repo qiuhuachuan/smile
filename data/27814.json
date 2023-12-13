@@ -1,0 +1,222 @@
+[
+  {
+    "role": "client",
+    "content": "怎么判断一个人适不适合结婚呢？",
+    "annotation": [
+      {
+        "sentence": "怎么判断一个人适不适合结婚呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "希望我的回答能对你有所帮助。首先，我们要从以下几个方面来考量。",
+    "annotation": [
+      {
+        "sentence": "希望我的回答能对你有所帮助。",
+        "label": ""
+      },
+      {
+        "sentence": "首先，我们要从以下几个方面来考量。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "比如说哪几个方面呢？",
+    "annotation": [
+      {
+        "sentence": "比如说哪几个方面呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先，我们要看看双方的三观是否相符，价值观是否一致，这对于长期的相处非常重要。",
+    "annotation": [
+      {
+        "sentence": "首先，我们要看看双方的三观是否相符，价值观是否一致，这对于长期的相处非常重要。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，确实是很重要的。",
+    "annotation": [
+      {
+        "sentence": "嗯，确实是很重要的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "另外，人品也是需要考虑的一点，看看对方是否是你喜欢的类型，是否有可信赖的品质。",
+    "annotation": [
+      {
+        "sentence": "另外，人品也是需要考虑的一点，看看对方是否是你喜欢的类型，是否有可信赖的品质。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，那我要怎么判断他的人品呢？",
+    "annotation": [
+      {
+        "sentence": "嗯，那我要怎么判断他的人品呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可以通过和他相处的时间来观察，也可以多听听他的朋友对他的评价。",
+    "annotation": [
+      {
+        "sentence": "可以通过和他相处的时间来观察，也可以多听听他的朋友对他的评价。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会注意的。",
+    "annotation": [
+      {
+        "sentence": "好的，我会注意的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "还有，要看看他的事业心如何，是否有共同的目标和规划。",
+    "annotation": [
+      {
+        "sentence": "还有，要看看他的事业心如何，是否有共同的目标和规划。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，事业心也很重要。",
+    "annotation": [
+      {
+        "sentence": "对，事业心也很重要。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "最后，相处的时候要看看是否和谐，是否能够放松自在地相处。",
+    "annotation": [
+      {
+        "sentence": "最后，相处的时候要看看是否和谐，是否能够放松自在地相处。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，我会注意观察的。",
+    "annotation": [
+      {
+        "sentence": "嗯，我会注意观察的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "除了这些方面，还有一个斯腾伯格婚恋三角形可以参考。",
+    "annotation": [
+      {
+        "sentence": "除了这些方面，还有一个斯腾伯格婚恋三角形可以参考。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "斯腾伯格婚恋三角形是什么？",
+    "annotation": [
+      {
+        "sentence": "斯腾伯格婚恋三角形是什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "斯腾伯格婚恋三角形包括激情、承诺和亲密性。如果婚姻三角三条边越是等长，感情就越牢固。",
+    "annotation": [
+      {
+        "sentence": "斯腾伯格婚恋三角形包括激情、承诺和亲密性。",
+        "label": ""
+      },
+      {
+        "sentence": "如果婚姻三角三条边越是等长，感情就越牢固。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "请问具体是什么意思呢？",
+    "annotation": [
+      {
+        "sentence": "请问具体是什么意思呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "激情是产生爱的基本条件，就像化学中的“激发态”，爱需要从这里出发。承诺是爱的保证稳定的条件，就像化学中的“基态”，是基本状态。亲密性则是婚姻的催化剂和保鲜剂，也是必备品。",
+    "annotation": [
+      {
+        "sentence": "激情是产生爱的基本条件，就像化学中的“激发态”，爱需要从这里出发。",
+        "label": ""
+      },
+      {
+        "sentence": "承诺是爱的保证稳定的条件，就像化学中的“基态”，是基本状态。",
+        "label": ""
+      },
+      {
+        "sentence": "亲密性则是婚姻的催化剂和保鲜剂，也是必备品。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "明白了，谢谢你的解答。",
+    "annotation": [
+      {
+        "sentence": "明白了，谢谢你的解答。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果你还有其他需要解决的问题，建议进行专门的咨询探讨。我在这里支持你。",
+    "annotation": [
+      {
+        "sentence": "如果你还有其他需要解决的问题，建议进行专门的咨询探讨。",
+        "label": ""
+      },
+      {
+        "sentence": "我在这里支持你。",
+        "label": ""
+      }
+    ]
+  }
+]

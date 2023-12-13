@@ -1,0 +1,138 @@
+[
+  {
+    "role": "client",
+    "content": "如何活得更好？不用过多地去在意周围的人的看法。",
+    "annotation": [
+      {
+        "sentence": "如何活得更好？",
+        "label": ""
+      },
+      {
+        "sentence": "不用过多地去在意周围的人的看法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "看到你的描述能够感受到你对现在的人际交往或者是人际评论都存在一些疑问。",
+    "annotation": [
+      {
+        "sentence": "看到你的描述能够感受到你对现在的人际交往或者是人际评论都存在一些疑问。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我总感觉自己过于在意他人对我的看法。",
+    "annotation": [
+      {
+        "sentence": "是的，我总感觉自己过于在意他人对我的看法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这可能是因为你从小生活在一个男弱女强的家庭环境造成的吧。",
+    "annotation": [
+      {
+        "sentence": "这可能是因为你从小生活在一个男弱女强的家庭环境造成的吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，母亲的性格非常火爆，我从小就会察言观色。",
+    "annotation": [
+      {
+        "sentence": "对，母亲的性格非常火爆，我从小就会察言观色。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "家庭对一个人的成长有很大影响，特别是在言谈举止方面。",
+    "annotation": [
+      {
+        "sentence": "家庭对一个人的成长有很大影响，特别是在言谈举止方面。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我也觉得自己非常关注别人对我的评价。",
+    "annotation": [
+      {
+        "sentence": "我也觉得自己非常关注别人对我的评价。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其实，在意别人的看法，实际上是更在意你自己的行为。",
+    "annotation": [
+      {
+        "sentence": "其实，在意别人的看法，实际上是更在意你自己的行为。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "也许我确实缺乏自信，不能够认同自己的行为是否适当。",
+    "annotation": [
+      {
+        "sentence": "也许我确实缺乏自信，不能够认同自己的行为是否适当。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你需要建立起更原发性的自信。在日常生活中，合理沟通并与父母多交心可以帮助你获得支持。",
+    "annotation": [
+      {
+        "sentence": "你需要建立起更原发性的自信。",
+        "label": ""
+      },
+      {
+        "sentence": "在日常生活中，合理沟通并与父母多交心可以帮助你获得支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我会努力与父母亲多交心，寻求他们的支持来建立自己的自信。非常感谢你的建议！",
+    "annotation": [
+      {
+        "sentence": "我明白了，我会努力与父母亲多交心，寻求他们的支持来建立自己的自信。",
+        "label": ""
+      },
+      {
+        "sentence": "非常感谢你的建议！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我相信你会找到属于自己的方法，活得更好的。祝你好运！",
+    "annotation": [
+      {
+        "sentence": "不客气，我相信你会找到属于自己的方法，活得更好的。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你好运！",
+        "label": ""
+      }
+    ]
+  }
+]

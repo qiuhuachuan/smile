@@ -1,0 +1,184 @@
+[
+  {
+    "role": "client",
+    "content": "为什么我会揪着一个自己都觉得不太合适的人犹豫？",
+    "annotation": [
+      {
+        "sentence": "为什么我会揪着一个自己都觉得不太合适的人犹豫？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你为什么觉得这个人不太合适？",
+    "annotation": [
+      {
+        "sentence": "你为什么觉得这个人不太合适？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我今年30，离异，有孩子，孩子他爸在带。家里给我介绍了一个老家的对象，他是未婚。",
+    "annotation": [
+      {
+        "sentence": "我今年30，离异，有孩子，孩子他爸在带。",
+        "label": ""
+      },
+      {
+        "sentence": "家里给我介绍了一个老家的对象，他是未婚。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这个老家的对象和你有哪些不合适的地方？",
+    "annotation": [
+      {
+        "sentence": "这个老家的对象和你有哪些不合适的地方？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我们的思维眼界和想法都不在一个点上，完全都不合拍。",
+    "annotation": [
+      {
+        "sentence": "我们的思维眼界和想法都不在一个点上，完全都不合拍。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那他的性格特点又是怎样的呢？",
+    "annotation": [
+      {
+        "sentence": "那他的性格特点又是怎样的呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他比较木纳老实，也非常的粗糙不细腻。胆小不自信。",
+    "annotation": [
+      {
+        "sentence": "他比较木纳老实，也非常的粗糙不细腻。",
+        "label": ""
+      },
+      {
+        "sentence": "胆小不自信。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他是不是也有一些优点吗？",
+    "annotation": [
+      {
+        "sentence": "他是不是也有一些优点吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "当然也有，但这些缺点对于我来说还是比较致命的。",
+    "annotation": [
+      {
+        "sentence": "当然也有，但这些缺点对于我来说还是比较致命的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他在和你聊天的时候是不是显得比较低姿态？",
+    "annotation": [
+      {
+        "sentence": "他在和你聊天的时候是不是显得比较低姿态？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "有时候还行，但有时候我会觉得这是一种无能的表现，会有些嫌弃。",
+    "annotation": [
+      {
+        "sentence": "有时候还行，但有时候我会觉得这是一种无能的表现，会有些嫌弃。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我理解你感受到的不舒适。那你自己呢，有没有什么不好的地方？",
+    "annotation": [
+      {
+        "sentence": "我理解你感受到的不舒适。",
+        "label": ""
+      },
+      {
+        "sentence": "那你自己呢，有没有什么不好的地方？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我从小没有母爱，父亲也是什么都不管，父亲也很懦弱没有担当。",
+    "annotation": [
+      {
+        "sentence": "我从小没有母爱，父亲也是什么都不管，父亲也很懦弱没有担当。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你和他在一起会比较重视感受，但你没有在一起的舒适感，是吗？",
+    "annotation": [
+      {
+        "sentence": "你和他在一起会比较重视感受，但你没有在一起的舒适感，是吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我心里对他并不肯定，但行动上却没有离开他的决心。",
+    "annotation": [
+      {
+        "sentence": "是的，我心里对他并不肯定，但行动上却没有离开他的决心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你希望找到一些证据来证明你们不能在一起，这样才能放弃对他的纠结，是吗？",
+    "annotation": [
+      {
+        "sentence": "你希望找到一些证据来证明你们不能在一起，这样才能放弃对他的纠结，是吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我想找到一些真正不能在一起的证据才能决断。",
+    "annotation": [
+      {
+        "sentence": "是的，我想找到一些真正不能在一起的证据才能决断。",
+        "label": ""
+      }
+    ]
+  }
+]

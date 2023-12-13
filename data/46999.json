@@ -1,0 +1,162 @@
+[
+  {
+    "role": "client",
+    "content": "我没有生活，不能从容淡定，怎么和别人聊天？",
+    "annotation": [
+      {
+        "sentence": "我没有生活，不能从容淡定，怎么和别人聊天？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我很理解你的感受，相信很多人都会遇到这样的情况。",
+    "annotation": [
+      {
+        "sentence": "我很理解你的感受，相信很多人都会遇到这样的情况。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是啊，我经常上班胡思乱想，感觉自己没有能力去克服困难。",
+    "annotation": [
+      {
+        "sentence": "是啊，我经常上班胡思乱想，感觉自己没有能力去克服困难。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "胡思乱想可能是因为近期遇到了一些事情，让你无法专心工作。",
+    "annotation": [
+      {
+        "sentence": "胡思乱想可能是因为近期遇到了一些事情，让你无法专心工作。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，就是因为这些问题，我特别想找个出口来宣泄一下。",
+    "annotation": [
+      {
+        "sentence": "对，就是因为这些问题，我特别想找个出口来宣泄一下。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "步入社会后，我们面临各种不同的困难，这是很正常的。但是困难并不可怕，它们其实是为了磨练我们自己的能力。",
+    "annotation": [
+      {
+        "sentence": "步入社会后，我们面临各种不同的困难，这是很正常的。",
+        "label": ""
+      },
+      {
+        "sentence": "但是困难并不可怕，它们其实是为了磨练我们自己的能力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我总觉得自己没有能力去克服这些困难。",
+    "annotation": [
+      {
+        "sentence": "可是我总觉得自己没有能力去克服这些困难。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人都会遇到困难，这是生活中的常态。别忘了，你其实很厉害，有着无限的潜力。",
+    "annotation": [
+      {
+        "sentence": "每个人都会遇到困难，这是生活中的常态。",
+        "label": ""
+      },
+      {
+        "sentence": "别忘了，你其实很厉害，有着无限的潜力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我真的不知道如何去解决这些问题。",
+    "annotation": [
+      {
+        "sentence": "但是我真的不知道如何去解决这些问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "要相信，所有的困难都有解决的办法。当你遇到困难时，不要慌张，慢慢地去思考问题，并寻找解决的办法。",
+    "annotation": [
+      {
+        "sentence": "要相信，所有的困难都有解决的办法。",
+        "label": ""
+      },
+      {
+        "sentence": "当你遇到困难时，不要慌张，慢慢地去思考问题，并寻找解决的办法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说的对，我应该积极面对，而不是放弃自己。",
+    "annotation": [
+      {
+        "sentence": "你说的对，我应该积极面对，而不是放弃自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没错，只有积极面对问题，我们才能够克服困难，实现自己的目标。",
+    "annotation": [
+      {
+        "sentence": "没错，只有积极面对问题，我们才能够克服困难，实现自己的目标。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "确实，还是要对自己有信心。谢谢你的鼓励和支持。",
+    "annotation": [
+      {
+        "sentence": "确实，还是要对自己有信心。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的鼓励和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我相信你一定能够战胜困难的。祝你好运！",
+    "annotation": [
+      {
+        "sentence": "不客气，我相信你一定能够战胜困难的。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你好运！",
+        "label": ""
+      }
+    ]
+  }
+]

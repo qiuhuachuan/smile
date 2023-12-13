@@ -1,0 +1,190 @@
+[
+  {
+    "role": "client",
+    "content": "为什么总是觉得自己是被欺负的那个？我好欺负？",
+    "annotation": [
+      {
+        "sentence": "为什么总是觉得自己是被欺负的那个？",
+        "label": ""
+      },
+      {
+        "sentence": "我好欺负？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我了解你感到被欺负的情绪，可以告诉我发生了什么吗？",
+    "annotation": [
+      {
+        "sentence": "我了解你感到被欺负的情绪，可以告诉我发生了什么吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我住在老小区，每次收水费是大家轮流的，但是每次到我都出问题。",
+    "annotation": [
+      {
+        "sentence": "我住在老小区，每次收水费是大家轮流的，但是每次到我都出问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "明白了，你觉得在收水费的时候有什么问题？",
+    "annotation": [
+      {
+        "sentence": "明白了，你觉得在收水费的时候有什么问题？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "大家都知道有人家里漏水了，但是就是没有人承认，多出来的水费没有人愿意公摊。",
+    "annotation": [
+      {
+        "sentence": "大家都知道有人家里漏水了，但是就是没有人承认，多出来的水费没有人愿意公摊。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这听起来很困扰。你曾经尝试与邻居交流过此事吗？",
+    "annotation": [
+      {
+        "sentence": "这听起来很困扰。",
+        "label": ""
+      },
+      {
+        "sentence": "你曾经尝试与邻居交流过此事吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我已经垫付了所有的水费，没有一个人把水费交给我。",
+    "annotation": [
+      {
+        "sentence": "但是我已经垫付了所有的水费，没有一个人把水费交给我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这真是令人沮丧。你曾经跟他们表达过你希望他们还款的心愿吗？",
+    "annotation": [
+      {
+        "sentence": "这真是令人沮丧。",
+        "label": ""
+      },
+      {
+        "sentence": "你曾经跟他们表达过你希望他们还款的心愿吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是我给了他们我好欺负的感觉吗？",
+    "annotation": [
+      {
+        "sentence": "是我给了他们我好欺负的感觉吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "并不是你给别人以被欺负的感觉，而是你在维护自己的权益上感到受挫。你希望得到公平待遇是很正常的。",
+    "annotation": [
+      {
+        "sentence": "并不是你给别人以被欺负的感觉，而是你在维护自己的权益上感到受挫。",
+        "label": ""
+      },
+      {
+        "sentence": "你希望得到公平待遇是很正常的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但我觉得他们就是选择性地忽视我。",
+    "annotation": [
+      {
+        "sentence": "但我觉得他们就是选择性地忽视我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我能理解你的感受。在这种情况下，你可以设法与他们保持沟通并表达你的困扰，或许可以找出解决问题的方法。",
+    "annotation": [
+      {
+        "sentence": "我能理解你的感受。",
+        "label": ""
+      },
+      {
+        "sentence": "在这种情况下，你可以设法与他们保持沟通并表达你的困扰，或许可以找出解决问题的方法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我应该如何开始这个对话呢？",
+    "annotation": [
+      {
+        "sentence": "我应该如何开始这个对话呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "试着在一个舒适的环境中，诚实而坦率地与他们交流。请记住，理解和互相尊重是解决问题的关键。",
+    "annotation": [
+      {
+        "sentence": "试着在一个舒适的环境中，诚实而坦率地与他们交流。",
+        "label": ""
+      },
+      {
+        "sentence": "请记住，理解和互相尊重是解决问题的关键。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会试着与他们好好沟通，希望能解决这个问题。",
+    "annotation": [
+      {
+        "sentence": "我会试着与他们好好沟通，希望能解决这个问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，相信你的努力会有所回报。如果需要帮助，记得随时向我寻求支持。",
+    "annotation": [
+      {
+        "sentence": "很好，相信你的努力会有所回报。",
+        "label": ""
+      },
+      {
+        "sentence": "如果需要帮助，记得随时向我寻求支持。",
+        "label": ""
+      }
+    ]
+  }
+]

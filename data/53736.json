@@ -1,0 +1,150 @@
+[
+  {
+    "role": "client",
+    "content": "室友太吵怎么办？",
+    "annotation": [
+      {
+        "sentence": "室友太吵怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是担心如果和他们不同不骂脏话，显得自己格格不入，怕被排斥吗？",
+    "annotation": [
+      {
+        "sentence": "你是担心如果和他们不同不骂脏话，显得自己格格不入，怕被排斥吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我真的很担心他们觉得我不合群。",
+    "annotation": [
+      {
+        "sentence": "是的，我真的很担心他们觉得我不合群。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "但事实是他们对你还是很有礼的，可见并没有排斥你。",
+    "annotation": [
+      {
+        "sentence": "但事实是他们对你还是很有礼的，可见并没有排斥你。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，他们对我还挺客气的，挺有礼的。",
+    "annotation": [
+      {
+        "sentence": "是的，他们对我还挺客气的，挺有礼的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那就没问题了，你可以做你自己，不用违背自己的内心。",
+    "annotation": [
+      {
+        "sentence": "那就没问题了，你可以做你自己，不用违背自己的内心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我感觉他们之间的交流方式我不太适应。",
+    "annotation": [
+      {
+        "sentence": "可是我感觉他们之间的交流方式我不太适应。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他们之间的笑着对骂的交流方式可能确实与你不同，但只要你不起冲突，依然可以和平相处。",
+    "annotation": [
+      {
+        "sentence": "他们之间的笑着对骂的交流方式可能确实与你不同，但只要你不起冲突，依然可以和平相处。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我会尽量适应他们的交流方式。",
+    "annotation": [
+      {
+        "sentence": "我明白了，我会尽量适应他们的交流方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，适应需要时间，慢慢来，你会渐渐融入他们的圈子的。",
+    "annotation": [
+      {
+        "sentence": "很好，适应需要时间，慢慢来，你会渐渐融入他们的圈子的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励，我会努力的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励，我会努力的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，你可以尝试和他们交流，找到共同的兴趣爱好，这样更容易融入他们的圈子。",
+    "annotation": [
+      {
+        "sentence": "不客气，你可以尝试和他们交流，找到共同的兴趣爱好，这样更容易融入他们的圈子。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试一试。但是如果还是觉得无法适应，我能再换一次宿舍吗？",
+    "annotation": [
+      {
+        "sentence": "好的，我会试一试。",
+        "label": ""
+      },
+      {
+        "sentence": "但是如果还是觉得无法适应，我能再换一次宿舍吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "换宿舍并不是解决问题的最好方法，毕竟适应环境是必须的生活技能。如果实在无法解决问题，再考虑其他解决办法吧。",
+    "annotation": [
+      {
+        "sentence": "换宿舍并不是解决问题的最好方法，毕竟适应环境是必须的生活技能。",
+        "label": ""
+      },
+      {
+        "sentence": "如果实在无法解决问题，再考虑其他解决办法吧。",
+        "label": ""
+      }
+    ]
+  }
+]

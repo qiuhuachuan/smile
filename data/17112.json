@@ -1,0 +1,142 @@
+[
+  {
+    "role": "client",
+    "content": "做事总慢半拍，怎么对待别人对我资质的评论？",
+    "annotation": [
+      {
+        "sentence": "做事总慢半拍，怎么对待别人对我资质的评论？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "看了你的描述，目前不自信是你给我的感觉。",
+    "annotation": [
+      {
+        "sentence": "看了你的描述，目前不自信是你给我的感觉。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我现在对自己的能力感到不自信，觉得自己总是慢别人一拍。",
+    "annotation": [
+      {
+        "sentence": "是的，我现在对自己的能力感到不自信，觉得自己总是慢别人一拍。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我也有过这样的感受，但是慢慢地会好起来的。",
+    "annotation": [
+      {
+        "sentence": "我也有过这样的感受，但是慢慢地会好起来的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我真的希望能够改变这种情况，因为我慢的时候总会引来别人的责骂。",
+    "annotation": [
+      {
+        "sentence": "我真的希望能够改变这种情况，因为我慢的时候总会引来别人的责骂。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你的着急和焦虑对自己没有任何好处，反而适得其反。",
+    "annotation": [
+      {
+        "sentence": "你的着急和焦虑对自己没有任何好处，反而适得其反。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我不想再失去信心，我真的不想再被人说笨了。",
+    "annotation": [
+      {
+        "sentence": "可是我不想再失去信心，我真的不想再被人说笨了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以试着改变自己对自己的认知，每个人都有自己的优势和劣势。",
+    "annotation": [
+      {
+        "sentence": "你可以试着改变自己对自己的认知，每个人都有自己的优势和劣势。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说得对，我也知道每个人都有自己的闪光点。",
+    "annotation": [
+      {
+        "sentence": "你说得对，我也知道每个人都有自己的闪光点。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，我们需要接纳自己的劣势，因为那也是我们的一部分。",
+    "annotation": [
+      {
+        "sentence": "是的，我们需要接纳自己的劣势，因为那也是我们的一部分。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我在劣势方面总是感到很不自在。",
+    "annotation": [
+      {
+        "sentence": "可是我在劣势方面总是感到很不自在。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "试着不去在意旁人的评价，他们不能代表你，只有你自己。",
+    "annotation": [
+      {
+        "sentence": "试着不去在意旁人的评价，他们不能代表你，只有你自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说得对，我得学会自信地做自己。",
+    "annotation": [
+      {
+        "sentence": "你说得对，我得学会自信地做自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，发挥自己的优点，尽量多做这方面的事情，认真做自信的自己。",
+    "annotation": [
+      {
+        "sentence": "是的，发挥自己的优点，尽量多做这方面的事情，认真做自信的自己。",
+        "label": ""
+      }
+    ]
+  }
+]

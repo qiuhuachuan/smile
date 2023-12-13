@@ -1,0 +1,146 @@
+[
+  {
+    "role": "client",
+    "content": "我好像没有担心\/关心\/担忧别人的能力，是心理问题？",
+    "annotation": [
+      {
+        "sentence": "我好像没有担心\/关心\/担忧别人的能力，是心理问题？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可以理解，这是一种常见的心理问题。你想了解一些心理测试吗？",
+    "annotation": [
+      {
+        "sentence": "可以理解，这是一种常见的心理问题。",
+        "label": ""
+      },
+      {
+        "sentence": "你想了解一些心理测试吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可以，有哪些测试？",
+    "annotation": [
+      {
+        "sentence": "可以，有哪些测试？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我觉得你可以做一个MBTI测试，可以帮助你了解自己的性格类型和相应的特点。我曾经也做过这个测试，结果显示我是一个佛系、理智、淡定的人。",
+    "annotation": [
+      {
+        "sentence": "我觉得你可以做一个MBTI测试，可以帮助你了解自己的性格类型和相应的特点。",
+        "label": ""
+      },
+      {
+        "sentence": "我曾经也做过这个测试，结果显示我是一个佛系、理智、淡定的人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "MBTI测试是怎么做的呢？",
+    "annotation": [
+      {
+        "sentence": "MBTI测试是怎么做的呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以在网上搜索MBTI测试，根据测试题目来选择答案，然后就能知道你的性格类型了。",
+    "annotation": [
+      {
+        "sentence": "你可以在网上搜索MBTI测试，根据测试题目来选择答案，然后就能知道你的性格类型了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好，我搜索一下。但我还是感到担心，为什么我没有对母亲的病情和奶奶的身体状态感到难过？",
+    "annotation": [
+      {
+        "sentence": "好，我搜索一下。",
+        "label": ""
+      },
+      {
+        "sentence": "但我还是感到担心，为什么我没有对母亲的病情和奶奶的身体状态感到难过？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是一种性格特点，不需要过度担心。我相信你也有自己独特的方式来表达关心和关注。",
+    "annotation": [
+      {
+        "sentence": "这是一种性格特点，不需要过度担心。",
+        "label": ""
+      },
+      {
+        "sentence": "我相信你也有自己独特的方式来表达关心和关注。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我确实有，但我总觉得自己不够懂得关心别人。",
+    "annotation": [
+      {
+        "sentence": "我确实有，但我总觉得自己不够懂得关心别人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是个人的经验和技能，可以通过加强和他人的沟通来发展。你可以尝试更加主动地与家人和朋友联系，表达自己的关怀之情。",
+    "annotation": [
+      {
+        "sentence": "这是个人的经验和技能，可以通过加强和他人的沟通来发展。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以尝试更加主动地与家人和朋友联系，表达自己的关怀之情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试试。谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试试。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "希望我的建议能帮助到你，并且让你更好地了解自己和他人。",
+    "annotation": [
+      {
+        "sentence": "希望我的建议能帮助到你，并且让你更好地了解自己和他人。",
+        "label": ""
+      }
+    ]
+  }
+]

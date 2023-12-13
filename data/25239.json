@@ -1,0 +1,162 @@
+[
+  {
+    "role": "client",
+    "content": "被喜欢的男生瞧不起，怎么疏解情绪？",
+    "annotation": [
+      {
+        "sentence": "被喜欢的男生瞧不起，怎么疏解情绪？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "喜欢一个人不容易，两个人相互喜欢更不容易。",
+    "annotation": [
+      {
+        "sentence": "喜欢一个人不容易，两个人相互喜欢更不容易。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我明白这一点。但是他总是对我不屑一顾，我觉得很难过。",
+    "annotation": [
+      {
+        "sentence": "是的，我明白这一点。",
+        "label": ""
+      },
+      {
+        "sentence": "但是他总是对我不屑一顾，我觉得很难过。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很多人都说自信的人总会散发着美，我们都喜欢美好的事情。",
+    "annotation": [
+      {
+        "sentence": "很多人都说自信的人总会散发着美，我们都喜欢美好的事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我就是缺乏自信，每次在他面前我都感觉自己很无趣。",
+    "annotation": [
+      {
+        "sentence": "可是我就是缺乏自信，每次在他面前我都感觉自己很无趣。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人都有自己的闪光点，你要相信自己的独特之处。",
+    "annotation": [
+      {
+        "sentence": "每个人都有自己的闪光点，你要相信自己的独特之处。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我该怎么样才能提升自己的自信心呢？",
+    "annotation": [
+      {
+        "sentence": "我该怎么样才能提升自己的自信心呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先，你要认识到自己的价值，不要自卑。然后，找出自己的优点，积极发挥它们。",
+    "annotation": [
+      {
+        "sentence": "首先，你要认识到自己的价值，不要自卑。",
+        "label": ""
+      },
+      {
+        "sentence": "然后，找出自己的优点，积极发挥它们。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我该如何找出自己的优点呢？",
+    "annotation": [
+      {
+        "sentence": "我该如何找出自己的优点呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "回想一下周围的朋友或家人对你的评价，他们会帮助你认识到自己的优点。",
+    "annotation": [
+      {
+        "sentence": "回想一下周围的朋友或家人对你的评价，他们会帮助你认识到自己的优点。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试试看。但是即使我变得自信了，他是否会喜欢我呢？",
+    "annotation": [
+      {
+        "sentence": "好的，我会试试看。",
+        "label": ""
+      },
+      {
+        "sentence": "但是即使我变得自信了，他是否会喜欢我呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我们每个人都不一样，他喜欢的类型可能并不是你。你只需要做自己，相信适合你的人会出现的。",
+    "annotation": [
+      {
+        "sentence": "我们每个人都不一样，他喜欢的类型可能并不是你。",
+        "label": ""
+      },
+      {
+        "sentence": "你只需要做自己，相信适合你的人会出现的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我会放下心中的负担，做一个自信的人。",
+    "annotation": [
+      {
+        "sentence": "我明白了，我会放下心中的负担，做一个自信的人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，相信自己，活出自己的美丽。加油！",
+    "annotation": [
+      {
+        "sentence": "很好，相信自己，活出自己的美丽。",
+        "label": ""
+      },
+      {
+        "sentence": "加油！",
+        "label": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "role": "client",
+    "content": "今年四十岁了，职业规划还来得及吗？",
+    "annotation": [
+      {
+        "sentence": "今年四十岁了，职业规划还来得及吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当然，你现在改变还来得及。",
+    "annotation": [
+      {
+        "sentence": "当然，你现在改变还来得及。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我已经四十岁了，觉得自己还太不成熟。",
+    "annotation": [
+      {
+        "sentence": "可是我已经四十岁了，觉得自己还太不成熟。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "年龄不是问题，成熟是可以通过学习和经历来提高的。",
+    "annotation": [
+      {
+        "sentence": "年龄不是问题，成熟是可以通过学习和经历来提高的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我觉得自己虚度了很多时间，会后悔。",
+    "annotation": [
+      {
+        "sentence": "可是我觉得自己虚度了很多时间，会后悔。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "过去的事情已经无法改变，我们可以从现在开始为未来做打算。",
+    "annotation": [
+      {
+        "sentence": "过去的事情已经无法改变，我们可以从现在开始为未来做打算。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我以前是个能帮助别人治疗抑郁症的人，现在却快成了抑郁症的病人。",
+    "annotation": [
+      {
+        "sentence": "我以前是个能帮助别人治疗抑郁症的人，现在却快成了抑郁症的病人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这正说明了在职业选择上要更加关注自己的兴趣和潜力。",
+    "annotation": [
+      {
+        "sentence": "这正说明了在职业选择上要更加关注自己的兴趣和潜力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我觉得自己的存在没有价值和意义。",
+    "annotation": [
+      {
+        "sentence": "可是我觉得自己的存在没有价值和意义。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人都有自己存在的价值和意义，我们需要从不同的角度来看待自己。",
+    "annotation": [
+      {
+        "sentence": "每个人都有自己存在的价值和意义，我们需要从不同的角度来看待自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我是不是抑郁了？",
+    "annotation": [
+      {
+        "sentence": "我是不是抑郁了？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你的情绪是比较低落，但是否抑郁需要请专业的心理医生帮你判断。",
+    "annotation": [
+      {
+        "sentence": "你的情绪是比较低落，但是否抑郁需要请专业的心理医生帮你判断。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我该怎么办呢？",
+    "annotation": [
+      {
+        "sentence": "那我该怎么办呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我建议你去咨询一下专业的生涯规划师，他们能够帮助你制定适合自己的职业规划，让你的职业生涯有目标和方向。",
+    "annotation": [
+      {
+        "sentence": "我建议你去咨询一下专业的生涯规划师，他们能够帮助你制定适合自己的职业规划，让你的职业生涯有目标和方向。",
+        "label": ""
+      }
+    ]
+  }
+]

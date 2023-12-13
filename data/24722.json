@@ -1,0 +1,156 @@
+[
+  {
+    "role": "client",
+    "content": "朋友是咨询师，现在感觉拿我当下手，好烦怎么办？",
+    "annotation": [
+      {
+        "sentence": "朋友是咨询师，现在感觉拿我当下手，好烦怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你好，我了解你的感受，你觉得现在的情况让你很不舒服是吗？",
+    "annotation": [
+      {
+        "sentence": "你好，我了解你的感受，你觉得现在的情况让你很不舒服是吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，我觉得她总是借口给我机会，让我帮她做很多事情，有时我也不敢拒绝。",
+    "annotation": [
+      {
+        "sentence": "对，我觉得她总是借口给我机会，让我帮她做很多事情，有时我也不敢拒绝。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "听起来你有时会感到被她利用了，你是不是觉得有点束手无策？",
+    "annotation": [
+      {
+        "sentence": "听起来你有时会感到被她利用了，你是不是觉得有点束手无策？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，有时候她还会生气，我真的很烦。",
+    "annotation": [
+      {
+        "sentence": "是的，有时候她还会生气，我真的很烦。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我能理解你的感受，但你曾考虑过与她沟通吗？",
+    "annotation": [
+      {
+        "sentence": "我能理解你的感受，但你曾考虑过与她沟通吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我有想过，但是担心沟通后会影响我们的友谊。",
+    "annotation": [
+      {
+        "sentence": "我有想过，但是担心沟通后会影响我们的友谊。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "沟通是解决问题的关键，你可以试着和她坦诚地交流你的感受和困惑，也许会有所改善。",
+    "annotation": [
+      {
+        "sentence": "沟通是解决问题的关键，你可以试着和她坦诚地交流你的感受和困惑，也许会有所改善。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我想试试，但我也有点怕她不理解我。",
+    "annotation": [
+      {
+        "sentence": "我想试试，但我也有点怕她不理解我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "担心他人的反应是正常的，但只有通过沟通，我们才能够更好地理解对方的意图和需求。",
+    "annotation": [
+      {
+        "sentence": "担心他人的反应是正常的，但只有通过沟通，我们才能够更好地理解对方的意图和需求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会尝试和她谈一下，希望能有所改善。",
+    "annotation": [
+      {
+        "sentence": "好的，我会尝试和她谈一下，希望能有所改善。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，我相信你能处理好这个问题，如果在沟通过程中遇到困难，你可以随时向我寻求支持。",
+    "annotation": [
+      {
+        "sentence": "很好，我相信你能处理好这个问题，如果在沟通过程中遇到困难，你可以随时向我寻求支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励，我会努力的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励，我会努力的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我一直在支持你，相信你能够找到解决问题的方法。祝你好运！",
+    "annotation": [
+      {
+        "sentence": "不客气，我一直在支持你，相信你能够找到解决问题的方法。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你好运！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的帮助和祝福，我会努力解决这个问题的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的帮助和祝福，我会努力解决这个问题的。",
+        "label": ""
+      }
+    ]
+  }
+]

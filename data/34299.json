@@ -1,0 +1,150 @@
+[
+  {
+    "role": "client",
+    "content": "工作压力大，花费时间多，得到的不成正比，怎么缓解？",
+    "annotation": [
+      {
+        "sentence": "工作压力大，花费时间多，得到的不成正比，怎么缓解？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "听说你最近工作压力特别大？",
+    "annotation": [
+      {
+        "sentence": "听说你最近工作压力特别大？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是啊，每次都花费很多时间完成任务，但最终得到的不够好。",
+    "annotation": [
+      {
+        "sentence": "是啊，每次都花费很多时间完成任务，但最终得到的不够好。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这个情况应该很常见。你有想过这个结果是真的还是你的主观感受呢？",
+    "annotation": [
+      {
+        "sentence": "这个情况应该很常见。",
+        "label": ""
+      },
+      {
+        "sentence": "你有想过这个结果是真的还是你的主观感受呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "感觉应该是真的，因为我和同事相比确实付出了更多的时间和努力。",
+    "annotation": [
+      {
+        "sentence": "感觉应该是真的，因为我和同事相比确实付出了更多的时间和努力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可能这个差异是因为你的心态。你经常认真地按计划完成工作，但不快乐的心态会让你更难看到自己的成就。",
+    "annotation": [
+      {
+        "sentence": "可能这个差异是因为你的心态。",
+        "label": ""
+      },
+      {
+        "sentence": "你经常认真地按计划完成工作，但不快乐的心态会让你更难看到自己的成就。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这倒是我没有想到的。那我应该如何调整心态呢？",
+    "annotation": [
+      {
+        "sentence": "这倒是我没有想到的。",
+        "label": ""
+      },
+      {
+        "sentence": "那我应该如何调整心态呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可能你需要多加强自我感受，多和同事交流。不要太过于在意别人对你的评价，你要相信自己和自己的能力。",
+    "annotation": [
+      {
+        "sentence": "可能你需要多加强自我感受，多和同事交流。",
+        "label": ""
+      },
+      {
+        "sentence": "不要太过于在意别人对你的评价，你要相信自己和自己的能力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会尝试的。还有，您有什么放松的方法吗？",
+    "annotation": [
+      {
+        "sentence": "我会尝试的。",
+        "label": ""
+      },
+      {
+        "sentence": "还有，您有什么放松的方法吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很多人都会选择一些自我放松的方法，比如看书、听音乐、运动等。你可以根据自己的兴趣爱好进行尝试。",
+    "annotation": [
+      {
+        "sentence": "很多人都会选择一些自我放松的方法，比如看书、听音乐、运动等。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以根据自己的兴趣爱好进行尝试。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "好的，谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没事，加油哦。如果需要我的帮助，随时联系我。",
+    "annotation": [
+      {
+        "sentence": "没事，加油哦。",
+        "label": ""
+      },
+      {
+        "sentence": "如果需要我的帮助，随时联系我。",
+        "label": ""
+      }
+    ]
+  }
+]

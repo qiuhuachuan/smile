@@ -1,0 +1,234 @@
+[
+  {
+    "role": "client",
+    "content": "朋友家里有个人，不相信任何人，和偏执的人怎样交流？",
+    "annotation": [
+      {
+        "sentence": "朋友家里有个人，不相信任何人，和偏执的人怎样交流？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "了解你遇到这种情况让你感到困扰。你认为他的偏执是什么原因造成的呢？",
+    "annotation": [
+      {
+        "sentence": "了解你遇到这种情况让你感到困扰。",
+        "label": ""
+      },
+      {
+        "sentence": "你认为他的偏执是什么原因造成的呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他经历过一些背叛和欺骗，所以现在对每个人都持怀疑态度。",
+    "annotation": [
+      {
+        "sentence": "他经历过一些背叛和欺骗，所以现在对每个人都持怀疑态度。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "明白了。那么，你希望能够和他建立起更好的沟通关系吗？",
+    "annotation": [
+      {
+        "sentence": "明白了。",
+        "label": ""
+      },
+      {
+        "sentence": "那么，你希望能够和他建立起更好的沟通关系吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我不希望他总是怀疑我，我希望能够让他打开心扉。",
+    "annotation": [
+      {
+        "sentence": "是的，我不希望他总是怀疑我，我希望能够让他打开心扉。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "明白你的愿望。首先，我们可以尝试顺应他的倾向，逐渐让他感到你的理解。",
+    "annotation": [
+      {
+        "sentence": "明白你的愿望。",
+        "label": ""
+      },
+      {
+        "sentence": "首先，我们可以尝试顺应他的倾向，逐渐让他感到你的理解。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "怎么做呢？",
+    "annotation": [
+      {
+        "sentence": "怎么做呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以尝试换位思考，理解他内心可能存在的担忧和不信任。这样他可能会更容易接受你的观点。",
+    "annotation": [
+      {
+        "sentence": "你可以尝试换位思考，理解他内心可能存在的担忧和不信任。",
+        "label": ""
+      },
+      {
+        "sentence": "这样他可能会更容易接受你的观点。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那他是不是会觉得我站在他的对立面？",
+    "annotation": [
+      {
+        "sentence": "那他是不是会觉得我站在他的对立面？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不一定。你可以试着以他的方式来表达你的观点，让他感受到你们之间的共鸣。这样他可能会更愿意接受你的意见。",
+    "annotation": [
+      {
+        "sentence": "不一定。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以试着以他的方式来表达你的观点，让他感受到你们之间的共鸣。",
+        "label": ""
+      },
+      {
+        "sentence": "这样他可能会更愿意接受你的意见。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "确实是个好建议。还有其他方法吗？",
+    "annotation": [
+      {
+        "sentence": "确实是个好建议。",
+        "label": ""
+      },
+      {
+        "sentence": "还有其他方法吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当然。建立信赖关系也非常重要。你可以通过一些行动和言辞展现你的诚意，让他感到你是一个可信赖的人。",
+    "annotation": [
+      {
+        "sentence": "当然。",
+        "label": ""
+      },
+      {
+        "sentence": "建立信赖关系也非常重要。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以通过一些行动和言辞展现你的诚意，让他感到你是一个可信赖的人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那么，我应该怎么表现出来呢？",
+    "annotation": [
+      {
+        "sentence": "那么，我应该怎么表现出来呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以尝试主动关心他的需求，帮助他解决一些实际问题。这样他会感到你是一个有价值的朋友，并且愿意和你交流。",
+    "annotation": [
+      {
+        "sentence": "你可以尝试主动关心他的需求，帮助他解决一些实际问题。",
+        "label": ""
+      },
+      {
+        "sentence": "这样他会感到你是一个有价值的朋友，并且愿意和你交流。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了。还有最后一个建议吗？",
+    "annotation": [
+      {
+        "sentence": "我明白了。",
+        "label": ""
+      },
+      {
+        "sentence": "还有最后一个建议吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以尝试邀请一些他尊敬或者崇拜的人来和他交流，这样他可能会更容易接受他们的观点和建议。",
+    "annotation": [
+      {
+        "sentence": "你可以尝试邀请一些他尊敬或者崇拜的人来和他交流，这样他可能会更容易接受他们的观点和建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会尝试的。谢谢你的建议和支持。",
+    "annotation": [
+      {
+        "sentence": "好的，我会尝试的。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的建议和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气。希望我的建议对你有所帮助，祝你和你的朋友能够建立起更好的沟通和理解关系。",
+    "annotation": [
+      {
+        "sentence": "不客气。",
+        "label": ""
+      },
+      {
+        "sentence": "希望我的建议对你有所帮助，祝你和你的朋友能够建立起更好的沟通和理解关系。",
+        "label": ""
+      }
+    ]
+  }
+]

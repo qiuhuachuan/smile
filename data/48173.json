@@ -1,0 +1,162 @@
+[
+  {
+    "role": "client",
+    "content": "经常来借钱，又不还钱，不想失去的好朋友，怎么办？",
+    "annotation": [
+      {
+        "sentence": "经常来借钱，又不还钱，不想失去的好朋友，怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "从您的描述中看到了您对友情看得比金钱更重要。",
+    "annotation": [
+      {
+        "sentence": "从您的描述中看到了您对友情看得比金钱更重要。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得友情比金钱更有价值。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得友情比金钱更有价值。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "有您这样的朋友，一定是特别幸运和踏实的感觉。",
+    "annotation": [
+      {
+        "sentence": "有您这样的朋友，一定是特别幸运和踏实的感觉。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "确实，我很感激能有他这样的朋友。",
+    "annotation": [
+      {
+        "sentence": "确实，我很感激能有他这样的朋友。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "同时也看到了，您为了维护友情承受了很多经济上的压力。",
+    "annotation": [
+      {
+        "sentence": "同时也看到了，您为了维护友情承受了很多经济上的压力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，他经常借钱给他，但他从来不提还钱的事情。",
+    "annotation": [
+      {
+        "sentence": "是的，他经常借钱给他，但他从来不提还钱的事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这真的是一件尴尬的事情。",
+    "annotation": [
+      {
+        "sentence": "这真的是一件尴尬的事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是啊，我也不知道应该怎么办。",
+    "annotation": [
+      {
+        "sentence": "是啊，我也不知道应该怎么办。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "您有跟他沟通过吗，把您的感受开诚布公的说出来呢？",
+    "annotation": [
+      {
+        "sentence": "您有跟他沟通过吗，把您的感受开诚布公的说出来呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "其实我一直都在心里想，但是没有勇气开口。",
+    "annotation": [
+      {
+        "sentence": "其实我一直都在心里想，但是没有勇气开口。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "或者，您有没有拜托其它的与你们关系都比较好的朋友从中提醒一下呢？",
+    "annotation": [
+      {
+        "sentence": "或者，您有没有拜托其它的与你们关系都比较好的朋友从中提醒一下呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我没有想过这个办法，他们和我都是很好的朋友，或许可以帮上忙。",
+    "annotation": [
+      {
+        "sentence": "我没有想过这个办法，他们和我都是很好的朋友，或许可以帮上忙。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其实有时候事情不一定就像您想像的那样，不借钱就一定会失去朋友的。",
+    "annotation": [
+      {
+        "sentence": "其实有时候事情不一定就像您想像的那样，不借钱就一定会失去朋友的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会好好考虑你的建议，也许我应该勇敢面对这个问题。",
+    "annotation": [
+      {
+        "sentence": "我会好好考虑你的建议，也许我应该勇敢面对这个问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "照顾好自己，希望您能够找到解决办法，同时保护好自己的经济利益。",
+    "annotation": [
+      {
+        "sentence": "照顾好自己，希望您能够找到解决办法，同时保护好自己的经济利益。",
+        "label": ""
+      }
+    ]
+  }
+]

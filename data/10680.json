@@ -1,0 +1,162 @@
+[
+  {
+    "role": "client",
+    "content": "一不小心说漏嘴了，现在夫妻俩在家吵架，怎么办？",
+    "annotation": [
+      {
+        "sentence": "一不小心说漏嘴了，现在夫妻俩在家吵架，怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我听到了你的困难。首先，我觉得你需要冷静下来，想一想你可以采取什么措施。",
+    "annotation": [
+      {
+        "sentence": "我听到了你的困难。",
+        "label": ""
+      },
+      {
+        "sentence": "首先，我觉得你需要冷静下来，想一想你可以采取什么措施。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我完全不知道怎么办才好。",
+    "annotation": [
+      {
+        "sentence": "可是我完全不知道怎么办才好。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我可以理解你的困难。不过，我觉得你需要为自己的行为负责。你说漏嘴是不是因为你没有在职场上保护自己？",
+    "annotation": [
+      {
+        "sentence": "我可以理解你的困难。",
+        "label": ""
+      },
+      {
+        "sentence": "不过，我觉得你需要为自己的行为负责。",
+        "label": ""
+      },
+      {
+        "sentence": "你说漏嘴是不是因为你没有在职场上保护自己？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯……可能是这样吧。",
+    "annotation": [
+      {
+        "sentence": "嗯……可能是这样吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "既然这样，那么首先你需要向男同事的夫人道歉。然后，你需要认真思考自己在职场上如何保持足够的谨慎和保护。",
+    "annotation": [
+      {
+        "sentence": "既然这样，那么首先你需要向男同事的夫人道歉。",
+        "label": ""
+      },
+      {
+        "sentence": "然后，你需要认真思考自己在职场上如何保持足够的谨慎和保护。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是他们现在一直在吵架，我该怎么面对他们呢？",
+    "annotation": [
+      {
+        "sentence": "可是他们现在一直在吵架，我该怎么面对他们呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我明白你的担忧。不过，我觉得你无法为男同事和他夫人的问题负责任。你需要专注于自己的问题，为自己的行为负责。向他们道歉然后减少对他们的干扰。",
+    "annotation": [
+      {
+        "sentence": "我明白你的担忧。",
+        "label": ""
+      },
+      {
+        "sentence": "不过，我觉得你无法为男同事和他夫人的问题负责任。",
+        "label": ""
+      },
+      {
+        "sentence": "你需要专注于自己的问题，为自己的行为负责。",
+        "label": ""
+      },
+      {
+        "sentence": "向他们道歉然后减少对他们的干扰。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，我懂了。可是我还是感到非常内疚。",
+    "annotation": [
+      {
+        "sentence": "嗯，我懂了。",
+        "label": ""
+      },
+      {
+        "sentence": "可是我还是感到非常内疚。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我明白你的感受。不过，你需要给自己一个机会去从错误中学习。然后，你需要放下自责，以更积极的态度去面对这个困难。",
+    "annotation": [
+      {
+        "sentence": "我明白你的感受。",
+        "label": ""
+      },
+      {
+        "sentence": "不过，你需要给自己一个机会去从错误中学习。",
+        "label": ""
+      },
+      {
+        "sentence": "然后，你需要放下自责，以更积极的态度去面对这个困难。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "明白了，谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "明白了，谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用谢，我会一直在你的身边支持你。",
+    "annotation": [
+      {
+        "sentence": "不用谢，我会一直在你的身边支持你。",
+        "label": ""
+      }
+    ]
+  }
+]

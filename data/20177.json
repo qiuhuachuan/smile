@@ -1,0 +1,272 @@
+[
+  {
+    "role": "client",
+    "content": "男朋友平常很好，但发脾气的时候性格比较极端怎么办？",
+    "annotation": [
+      {
+        "sentence": "男朋友平常很好，但发脾气的时候性格比较极端怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这位小姐姐，你觉得男朋友发脾气的时候性格比较极端，你能具体说说这方面的事情吗？",
+    "annotation": [
+      {
+        "sentence": "这位小姐姐，你觉得男朋友发脾气的时候性格比较极端，你能具体说说这方面的事情吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "男朋友是一个性格比较有原则性的人，平常都很好，喜欢提醒别人该做的事情。",
+    "annotation": [
+      {
+        "sentence": "男朋友是一个性格比较有原则性的人，平常都很好，喜欢提醒别人该做的事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你觉得他喜欢提醒别人做事的行为是好的还是让你感到压力呢？",
+    "annotation": [
+      {
+        "sentence": "你觉得他喜欢提醒别人做事的行为是好的还是让你感到压力呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "有时候觉得压力很大，觉得他一直盯着我。",
+    "annotation": [
+      {
+        "sentence": "有时候觉得压力很大，觉得他一直盯着我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是不是他的提醒让你觉得被监控、被压力的感觉呢？",
+    "annotation": [
+      {
+        "sentence": "是不是他的提醒让你觉得被监控、被压力的感觉呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，我觉得自己挺委屈的。",
+    "annotation": [
+      {
+        "sentence": "对，我觉得自己挺委屈的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种情况下，你觉得他是在照顾你还是在转嫁自己的焦虑情绪？",
+    "annotation": [
+      {
+        "sentence": "这种情况下，你觉得他是在照顾你还是在转嫁自己的焦虑情绪？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得可能是他觉得别人很愚蠢，需要他提醒。",
+    "annotation": [
+      {
+        "sentence": "我觉得可能是他觉得别人很愚蠢，需要他提醒。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他对妈妈的态度也是让你困扰的一个方面吗？",
+    "annotation": [
+      {
+        "sentence": "他对妈妈的态度也是让你困扰的一个方面吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，有时候他会说他妈妈就是自作孽，就是自己懒，极度不负责任。",
+    "annotation": [
+      {
+        "sentence": "对，有时候他会说他妈妈就是自作孽，就是自己懒，极度不负责任。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种态度会让你担心他会对你也这样吗？",
+    "annotation": [
+      {
+        "sentence": "这种态度会让你担心他会对你也这样吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我担心他对我也会这样。",
+    "annotation": [
+      {
+        "sentence": "是的，我担心他对我也会这样。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这样对你来说确实很不舒服，让你感到委屈。",
+    "annotation": [
+      {
+        "sentence": "这样对你来说确实很不舒服，让你感到委屈。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "每次我惹到他，他会发非常大的火，而且态度很极端，重复说一样的话。",
+    "annotation": [
+      {
+        "sentence": "每次我惹到他，他会发非常大的火，而且态度很极端，重复说一样的话。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你会觉得很受到压力，不知道如何应对吗？",
+    "annotation": [
+      {
+        "sentence": "你会觉得很受到压力，不知道如何应对吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，每次他发脾气，我都感到无力和尴尬。",
+    "annotation": [
+      {
+        "sentence": "是的，每次他发脾气，我都感到无力和尴尬。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你觉得他这种发脾气的方式，让你想起了什么？",
+    "annotation": [
+      {
+        "sentence": "你觉得他这种发脾气的方式，让你想起了什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得他有时候像我父母那样，让我想到了一些不好的经历。",
+    "annotation": [
+      {
+        "sentence": "我觉得他有时候像我父母那样，让我想到了一些不好的经历。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你觉得他对你的态度是因为你故意惹到他，还是他强加在你身上的？",
+    "annotation": [
+      {
+        "sentence": "你觉得他对你的态度是因为你故意惹到他，还是他强加在你身上的？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得他有时候把自己的发火归咎于我，让我很委屈。",
+    "annotation": [
+      {
+        "sentence": "我觉得他有时候把自己的发火归咎于我，让我很委屈。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种情况下你会觉得自己被堵住了，无法承担更多。",
+    "annotation": [
+      {
+        "sentence": "这种情况下你会觉得自己被堵住了，无法承担更多。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，我感觉被限制了，不能表达自己的不满和要求。",
+    "annotation": [
+      {
+        "sentence": "对，我感觉被限制了，不能表达自己的不满和要求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我理解你的感受，这种情感控制确实让你感到不被允许。",
+    "annotation": [
+      {
+        "sentence": "我理解你的感受，这种情感控制确实让你感到不被允许。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得我们之间的关系变得很不健康。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得我们之间的关系变得很不健康。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "为了保护自己，你可以尝试两个方法，一是坚守自己的底线，不容忍他的过度行为；二是和他进行沟通，告诉他你的感受和需求。",
+    "annotation": [
+      {
+        "sentence": "为了保护自己，你可以尝试两个方法，一是坚守自己的底线，不容忍他的过度行为；二是和他进行沟通，告诉他你的感受和需求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会试着保护自己。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会试着保护自己。",
+        "label": ""
+      }
+    ]
+  }
+]

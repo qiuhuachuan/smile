@@ -1,0 +1,146 @@
+[
+  {
+    "role": "client",
+    "content": "聊没两句双方都没话题，如何get女生的点？",
+    "annotation": [
+      {
+        "sentence": "聊没两句双方都没话题，如何get女生的点？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你想让别人感兴趣，就要先了解她的需要。投其所好！",
+    "annotation": [
+      {
+        "sentence": "你想让别人感兴趣，就要先了解她的需要。",
+        "label": ""
+      },
+      {
+        "sentence": "投其所好！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那怎么才能了解她的需要呢？",
+    "annotation": [
+      {
+        "sentence": "那怎么才能了解她的需要呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以通过观察她的兴趣、爱好以及平时的言行来了解。还可以主动询问她对某个话题的看法。",
+    "annotation": [
+      {
+        "sentence": "你可以通过观察她的兴趣、爱好以及平时的言行来了解。",
+        "label": ""
+      },
+      {
+        "sentence": "还可以主动询问她对某个话题的看法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是聊天的时候总是get不到对方的点，聊没两句双方都没话题。",
+    "annotation": [
+      {
+        "sentence": "但是聊天的时候总是get不到对方的点，聊没两句双方都没话题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "聊天不能只顾自己的感受，也要听别人的想法。尤其女孩喜欢让人去猜！",
+    "annotation": [
+      {
+        "sentence": "聊天不能只顾自己的感受，也要听别人的想法。",
+        "label": ""
+      },
+      {
+        "sentence": "尤其女孩喜欢让人去猜！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我应该更多地倾听，尝试去理解她的观点和想法。",
+    "annotation": [
+      {
+        "sentence": "我明白了，我应该更多地倾听，尝试去理解她的观点和想法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对的！还有一点需要注意的是，直男的表现是随便，而委婉的表达时提出问题给她。",
+    "annotation": [
+      {
+        "sentence": "对的！",
+        "label": ""
+      },
+      {
+        "sentence": "还有一点需要注意的是，直男的表现是随便，而委婉的表达时提出问题给她。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "提出问题给她，就是间接询问她的想法对吗？",
+    "annotation": [
+      {
+        "sentence": "提出问题给她，就是间接询问她的想法对吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，这样可以让她感觉到你对她的关注，同时也为你们的聊天提供了话题。",
+    "annotation": [
+      {
+        "sentence": "是的，这样可以让她感觉到你对她的关注，同时也为你们的聊天提供了话题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，希望这样可以帮到我。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，希望这样可以帮到我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，相信你会成功的！加油！如果还有其他问题，随时来找我吧。",
+    "annotation": [
+      {
+        "sentence": "不客气，相信你会成功的！",
+        "label": ""
+      },
+      {
+        "sentence": "加油！",
+        "label": ""
+      },
+      {
+        "sentence": "如果还有其他问题，随时来找我吧。",
+        "label": ""
+      }
+    ]
+  }
+]

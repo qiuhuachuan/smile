@@ -1,0 +1,246 @@
+[
+  {
+    "role": "client",
+    "content": "很想和老公和好，甚至想和不好就不想活在人世间了？",
+    "annotation": [
+      {
+        "sentence": "很想和老公和好，甚至想和不好就不想活在人世间了？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你为什么会有这样的想法呢？",
+    "annotation": [
+      {
+        "sentence": "你为什么会有这样的想法呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他在哪我也不知道他在外面有人了，故意隐瞒我住址。",
+    "annotation": [
+      {
+        "sentence": "他在哪我也不知道他在外面有人了，故意隐瞒我住址。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "听起来你对他的行为感到很困惑和伤心。",
+    "annotation": [
+      {
+        "sentence": "听起来你对他的行为感到很困惑和伤心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我无法做到离婚，我想挽回。",
+    "annotation": [
+      {
+        "sentence": "是的，我无法做到离婚，我想挽回。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "情绪很复杂是吧，你现在就让这些情绪得到宣泄吧。",
+    "annotation": [
+      {
+        "sentence": "情绪很复杂是吧，你现在就让这些情绪得到宣泄吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "还有个七个月多点的孩子，我放不下孩子。",
+    "annotation": [
+      {
+        "sentence": "还有个七个月多点的孩子，我放不下孩子。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你对孩子付出了很多，理解你对他们的依赖和牵挂。",
+    "annotation": [
+      {
+        "sentence": "你对孩子付出了很多，理解你对他们的依赖和牵挂。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "也放不下老公爸妈。",
+    "annotation": [
+      {
+        "sentence": "也放不下老公爸妈。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "家庭中的关系很复杂，你感觉到了压力吧。",
+    "annotation": [
+      {
+        "sentence": "家庭中的关系很复杂，你感觉到了压力吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得很痛苦。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得很痛苦。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "痛苦是可以理解的，但是让我们试着冷静一点。",
+    "annotation": [
+      {
+        "sentence": "痛苦是可以理解的，但是让我们试着冷静一点。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我实在是放不下他们。",
+    "annotation": [
+      {
+        "sentence": "我实在是放不下他们。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "或许你现在只是觉得无法放下，但时间会让你逐渐走出来的。",
+    "annotation": [
+      {
+        "sentence": "或许你现在只是觉得无法放下，但时间会让你逐渐走出来的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我真的好想逃避现实。",
+    "annotation": [
+      {
+        "sentence": "我真的好想逃避现实。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "逃避只是一时之计，我们可以先尝试放下自己，然后冷静地观察现实。",
+    "annotation": [
+      {
+        "sentence": "逃避只是一时之计，我们可以先尝试放下自己，然后冷静地观察现实。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得自己处理不好情绪，也无法冷静处理事情。",
+    "annotation": [
+      {
+        "sentence": "我觉得自己处理不好情绪，也无法冷静处理事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当我们处理情绪时，可能需要一些时间和方法，现在你可以先专注于情绪的处理。",
+    "annotation": [
+      {
+        "sentence": "当我们处理情绪时，可能需要一些时间和方法，现在你可以先专注于情绪的处理。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我确实感到不甘心，愤怒和不安全。",
+    "annotation": [
+      {
+        "sentence": "我确实感到不甘心，愤怒和不安全。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这些感受都是正常的，但也要记住，一切都在变化之中。",
+    "annotation": [
+      {
+        "sentence": "这些感受都是正常的，但也要记住，一切都在变化之中。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "为什么我们总是觉得自己的一生应该是平顺幸福的呢？",
+    "annotation": [
+      {
+        "sentence": "为什么我们总是觉得自己的一生应该是平顺幸福的呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我们常常忽略了生活中的变化和不可掌控的因素，接纳一切才能更好地面对困难。",
+    "annotation": [
+      {
+        "sentence": "我们常常忽略了生活中的变化和不可掌控的因素，接纳一切才能更好地面对困难。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我现在感觉好像在茫茫大海中航行。",
+    "annotation": [
+      {
+        "sentence": "我现在感觉好像在茫茫大海中航行。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "正是因为我们都在航行中，所以你并不孤单。让我们一起携手面对困难吧。",
+    "annotation": [
+      {
+        "sentence": "正是因为我们都在航行中，所以你并不孤单。",
+        "label": ""
+      },
+      {
+        "sentence": "让我们一起携手面对困难吧。",
+        "label": ""
+      }
+    ]
+  }
+]

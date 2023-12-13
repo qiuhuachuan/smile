@@ -1,0 +1,166 @@
+[
+  {
+    "role": "client",
+    "content": "我受不了男友撒娇的语气，甚至有点害怕是为什么？",
+    "annotation": [
+      {
+        "sentence": "我受不了男友撒娇的语气，甚至有点害怕是为什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "从你的文字不难看出来，你男朋友也有可爱的一面。",
+    "annotation": [
+      {
+        "sentence": "从你的文字不难看出来，你男朋友也有可爱的一面。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，他对我确实很好，但是他总是喜欢撒娇或是说宠溺话语，我不太习惯这样相处。",
+    "annotation": [
+      {
+        "sentence": "是的，他对我确实很好，但是他总是喜欢撒娇或是说宠溺话语，我不太习惯这样相处。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我觉得他既然这样用这么可爱的方式对待你的话，你就得多一份责任心。",
+    "annotation": [
+      {
+        "sentence": "我觉得他既然这样用这么可爱的方式对待你的话，你就得多一份责任心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "责任心？什么意思？",
+    "annotation": [
+      {
+        "sentence": "责任心？",
+        "label": ""
+      },
+      {
+        "sentence": "什么意思？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "就是要想把他拢入怀中的那种，让他有足够的安全感，所以多学学糙汉的说话方式吧。",
+    "annotation": [
+      {
+        "sentence": "就是要想把他拢入怀中的那种，让他有足够的安全感，所以多学学糙汉的说话方式吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "糙汉的说话方式是指什么呢？",
+    "annotation": [
+      {
+        "sentence": "糙汉的说话方式是指什么呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "比如你男友喜欢用“给你买东西好不好呀”这种语气来表达他想让你做的事，你可以试试用同样的方式回应他呀。",
+    "annotation": [
+      {
+        "sentence": "比如你男友喜欢用“给你买东西好不好呀”这种语气来表达他想让你做的事，你可以试试用同样的方式回应他呀。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，这样他可能会更理解我。",
+    "annotation": [
+      {
+        "sentence": "我明白了，这样他可能会更理解我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对的，而且这样他也能设身处地的换位思考。",
+    "annotation": [
+      {
+        "sentence": "对的，而且这样他也能设身处地的换位思考。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我应该怎样和男友沟通这方面的问题呢？",
+    "annotation": [
+      {
+        "sentence": "那我应该怎样和男友沟通这方面的问题呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可以告诉他你不太习惯这样的方式，并与他一起探讨如何改善沟通方式。",
+    "annotation": [
+      {
+        "sentence": "可以告诉他你不太习惯这样的方式，并与他一起探讨如何改善沟通方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我曾经多次和他谈过，但他都表示再这样他都不敢跟我说话了。",
+    "annotation": [
+      {
+        "sentence": "我曾经多次和他谈过，但他都表示再这样他都不敢跟我说话了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这说明他对这个问题也很敏感，你们可以一起制定一些互相适应的沟通方式。",
+    "annotation": [
+      {
+        "sentence": "这说明他对这个问题也很敏感，你们可以一起制定一些互相适应的沟通方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试着和他讨论这个问题，谢谢你的支持和建议。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试着和他讨论这个问题，谢谢你的支持和建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，希望你们能够找到解决的办法，祝你好运！",
+    "annotation": [
+      {
+        "sentence": "不客气，希望你们能够找到解决的办法，祝你好运！",
+        "label": ""
+      }
+    ]
+  }
+]

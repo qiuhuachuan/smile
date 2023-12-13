@@ -1,0 +1,186 @@
+[
+  {
+    "role": "client",
+    "content": "网上刷单被骗钱了，还没告诉父母，怎么办？",
+    "annotation": [
+      {
+        "sentence": "网上刷单被骗钱了，还没告诉父母，怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "报警就对了，一定要保留证据。",
+    "annotation": [
+      {
+        "sentence": "报警就对了，一定要保留证据。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我已经去报警了，但不知道有没有用。",
+    "annotation": [
+      {
+        "sentence": "我已经去报警了，但不知道有没有用。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你做得对，不能轻易放弃保护自己的权益。",
+    "annotation": [
+      {
+        "sentence": "你做得对，不能轻易放弃保护自己的权益。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我现在感觉很糟糕，这些钱都是我从网上借的。",
+    "annotation": [
+      {
+        "sentence": "我现在感觉很糟糕，这些钱都是我从网上借的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "相信我，你并不是一个人在经历这样的困境。",
+    "annotation": [
+      {
+        "sentence": "相信我，你并不是一个人在经历这样的困境。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "真的吗？我觉得我太天真了，太容易相信别人了。",
+    "annotation": [
+      {
+        "sentence": "真的吗？",
+        "label": ""
+      },
+      {
+        "sentence": "我觉得我太天真了，太容易相信别人了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不要过于责怪自己，被骗并不代表你的傻或是天真。",
+    "annotation": [
+      {
+        "sentence": "不要过于责怪自己，被骗并不代表你的傻或是天真。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我后悔糟蹋了那么多钱。",
+    "annotation": [
+      {
+        "sentence": "可是我后悔糟蹋了那么多钱。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "后悔是正常的情绪反应。接受后悔并且向前看，才能找到更好的解决办法。",
+    "annotation": [
+      {
+        "sentence": "后悔是正常的情绪反应。",
+        "label": ""
+      },
+      {
+        "sentence": "接受后悔并且向前看，才能找到更好的解决办法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说得对，我要学会从错误中吸取教训。",
+    "annotation": [
+      {
+        "sentence": "你说得对，我要学会从错误中吸取教训。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没错，这段经历让你更加成熟。现在重要的是找到一种改变和走出困境的方式。",
+    "annotation": [
+      {
+        "sentence": "没错，这段经历让你更加成熟。",
+        "label": ""
+      },
+      {
+        "sentence": "现在重要的是找到一种改变和走出困境的方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我应该怎么做才能避免再次被骗呢？",
+    "annotation": [
+      {
+        "sentence": "我应该怎么做才能避免再次被骗呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先，要保持警惕，不要轻易相信陌生人或网上的诱惑。其次，选择可信赖的平台和交易方式。最重要的是，时刻记住保护自己的个人信息和财产安全。",
+    "annotation": [
+      {
+        "sentence": "首先，要保持警惕，不要轻易相信陌生人或网上的诱惑。",
+        "label": ""
+      },
+      {
+        "sentence": "其次，选择可信赖的平台和交易方式。",
+        "label": ""
+      },
+      {
+        "sentence": "最重要的是，时刻记住保护自己的个人信息和财产安全。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我会更加小心的。",
+    "annotation": [
+      {
+        "sentence": "我明白了，我会更加小心的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，我相信你能够走出困境。如果还有其他问题或者需要帮助，随时找我倾诉。",
+    "annotation": [
+      {
+        "sentence": "很好，我相信你能够走出困境。",
+        "label": ""
+      },
+      {
+        "sentence": "如果还有其他问题或者需要帮助，随时找我倾诉。",
+        "label": ""
+      }
+    ]
+  }
+]

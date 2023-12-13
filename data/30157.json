@@ -1,0 +1,208 @@
+[
+  {
+    "role": "client",
+    "content": "要在新岗位工作了，总感觉不踏实，怕做不好？",
+    "annotation": [
+      {
+        "sentence": "要在新岗位工作了，总感觉不踏实，怕做不好？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不要太担心，新工作总是会让人感到有些紧张和不安的。",
+    "annotation": [
+      {
+        "sentence": "不要太担心，新工作总是会让人感到有些紧张和不安的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是啊，我怕我做不好，被人骂。",
+    "annotation": [
+      {
+        "sentence": "是啊，我怕我做不好，被人骂。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其实，别人对你的批评并不重要，重要的是你对自己的评价。",
+    "annotation": [
+      {
+        "sentence": "其实，别人对你的批评并不重要，重要的是你对自己的评价。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我是一个特别怕被人批评的人，怎么办？",
+    "annotation": [
+      {
+        "sentence": "可是我是一个特别怕被人批评的人，怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我理解你的感受，但是我们不可能让每个人都满意。你要相信自己的能力，尽力去做就好了。",
+    "annotation": [
+      {
+        "sentence": "我理解你的感受，但是我们不可能让每个人都满意。",
+        "label": ""
+      },
+      {
+        "sentence": "你要相信自己的能力，尽力去做就好了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白，但是我怕我在新岗位做不好。我怎样才能避免情绪低落呢？",
+    "annotation": [
+      {
+        "sentence": "我明白，但是我怕我在新岗位做不好。",
+        "label": ""
+      },
+      {
+        "sentence": "我怎样才能避免情绪低落呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以尝试设定一些小目标，逐渐适应新环境，并给自己一些正面的反馈和肯定。记住，过程比结果更重要。",
+    "annotation": [
+      {
+        "sentence": "你可以尝试设定一些小目标，逐渐适应新环境，并给自己一些正面的反馈和肯定。",
+        "label": ""
+      },
+      {
+        "sentence": "记住，过程比结果更重要。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，我会试试的。但是职场上人多事也多，我怕处理不好人际关系。",
+    "annotation": [
+      {
+        "sentence": "嗯，我会试试的。",
+        "label": ""
+      },
+      {
+        "sentence": "但是职场上人多事也多，我怕处理不好人际关系。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "职场上的人和人是不同的，每个人都有自己的经历和性格。不要太过在意别人的看法，专注于提升自己的能力和表现。",
+    "annotation": [
+      {
+        "sentence": "职场上的人和人是不同的，每个人都有自己的经历和性格。",
+        "label": ""
+      },
+      {
+        "sentence": "不要太过在意别人的看法，专注于提升自己的能力和表现。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说得对，我会尽量不去在意别人的看法，专注于自己。谢谢你的支持！",
+    "annotation": [
+      {
+        "sentence": "你说得对，我会尽量不去在意别人的看法，专注于自己。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的支持！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我会一直在你身边支持你的。相信自己，你一定能够取得好的成绩！",
+    "annotation": [
+      {
+        "sentence": "不客气，我会一直在你身边支持你的。",
+        "label": ""
+      },
+      {
+        "sentence": "相信自己，你一定能够取得好的成绩！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励，我会加油的！",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励，我会加油的！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以试着将这种担忧和压力转化为动力，相信你能够克服困难，取得成功！",
+    "annotation": [
+      {
+        "sentence": "你可以试着将这种担忧和压力转化为动力，相信你能够克服困难，取得成功！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，我真的需要改变一下我的思维方式，让压力变成动力。谢谢你的建议！",
+    "annotation": [
+      {
+        "sentence": "嗯，我真的需要改变一下我的思维方式，让压力变成动力。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的建议！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我相信你有能力在新岗位上表现出色。加油！",
+    "annotation": [
+      {
+        "sentence": "不客气，我相信你有能力在新岗位上表现出色。",
+        "label": ""
+      },
+      {
+        "sentence": "加油！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你一直以来的鼓励和支持，我会好好努力的！",
+    "annotation": [
+      {
+        "sentence": "谢谢你一直以来的鼓励和支持，我会好好努力的！",
+        "label": ""
+      }
+    ]
+  }
+]

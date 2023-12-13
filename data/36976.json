@@ -1,0 +1,236 @@
+[
+  {
+    "role": "client",
+    "content": "大学合唱团认识的，怎么追求一个很优秀的女孩子啊？",
+    "annotation": [
+      {
+        "sentence": "大学合唱团认识的，怎么追求一个很优秀的女孩子啊？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这里是我，愿意做你的小太阳的一个人。面对你这样的苦恼时。",
+    "annotation": [
+      {
+        "sentence": "这里是我，愿意做你的小太阳的一个人。",
+        "label": ""
+      },
+      {
+        "sentence": "面对你这样的苦恼时。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持，我真的很难过。我喜欢她很久了，但是不知道该怎么追求她。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持，我真的很难过。",
+        "label": ""
+      },
+      {
+        "sentence": "我喜欢她很久了，但是不知道该怎么追求她。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我明白你的焦虑。面对喜欢的人，我们都会变得胆小。但是你不是一个人在战斗，我会陪伴你。",
+    "annotation": [
+      {
+        "sentence": "我明白你的焦虑。",
+        "label": ""
+      },
+      {
+        "sentence": "面对喜欢的人，我们都会变得胆小。",
+        "label": ""
+      },
+      {
+        "sentence": "但是你不是一个人在战斗，我会陪伴你。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "她真的很漂亮，性格也很好，我怕她身边已经有很多追求者了。我不知道该怎么去接近她。",
+    "annotation": [
+      {
+        "sentence": "她真的很漂亮，性格也很好，我怕她身边已经有很多追求者了。",
+        "label": ""
+      },
+      {
+        "sentence": "我不知道该怎么去接近她。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先，我们要弄清楚对她是好感还是喜欢。喜欢一个优秀的人是很自然的，也是有好感的。",
+    "annotation": [
+      {
+        "sentence": "首先，我们要弄清楚对她是好感还是喜欢。",
+        "label": ""
+      },
+      {
+        "sentence": "喜欢一个优秀的人是很自然的，也是有好感的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我对她确实有好感，也有一些特殊的感觉。",
+    "annotation": [
+      {
+        "sentence": "是的，我对她确实有好感，也有一些特殊的感觉。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那么接下来，我们就要思考是否要追求她。当我们确定自己喜欢她后，就应该有所行动。",
+    "annotation": [
+      {
+        "sentence": "那么接下来，我们就要思考是否要追求她。",
+        "label": ""
+      },
+      {
+        "sentence": "当我们确定自己喜欢她后，就应该有所行动。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我害怕失败，害怕被拒绝。",
+    "annotation": [
+      {
+        "sentence": "但是我害怕失败，害怕被拒绝。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是正常的担忧。但如果我们不追求，可能会后悔。勇敢一点，试着告诉她你的想法。",
+    "annotation": [
+      {
+        "sentence": "这是正常的担忧。",
+        "label": ""
+      },
+      {
+        "sentence": "但如果我们不追求，可能会后悔。",
+        "label": ""
+      },
+      {
+        "sentence": "勇敢一点，试着告诉她你的想法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我害怕被她拒绝，面对喜欢的人，我变得不自信。",
+    "annotation": [
+      {
+        "sentence": "我害怕被她拒绝，面对喜欢的人，我变得不自信。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不要让自己的不自信困扰你。相信自己的魅力，你也很优秀。你可以试着向她表达你的意愿。",
+    "annotation": [
+      {
+        "sentence": "不要让自己的不自信困扰你。",
+        "label": ""
+      },
+      {
+        "sentence": "相信自己的魅力，你也很优秀。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以试着向她表达你的意愿。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "如果她拒绝了我怎么办？",
+    "annotation": [
+      {
+        "sentence": "如果她拒绝了我怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "拒绝不是世界的结局，也许她还没有意识到自己对你的感觉。重要的是你勇于表达，就算被拒绝，至少你尽力了。",
+    "annotation": [
+      {
+        "sentence": "拒绝不是世界的结局，也许她还没有意识到自己对你的感觉。",
+        "label": ""
+      },
+      {
+        "sentence": "重要的是你勇于表达，就算被拒绝，至少你尽力了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说的对，我应该努力去表达我的感受。谢谢你的鼓励和支持。",
+    "annotation": [
+      {
+        "sentence": "你说的对，我应该努力去表达我的感受。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的鼓励和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我会一直陪伴你的。记住，希望是因为你去做了才会有的。加油！",
+    "annotation": [
+      {
+        "sentence": "不客气，我会一直陪伴你的。",
+        "label": ""
+      },
+      {
+        "sentence": "记住，希望是因为你去做了才会有的。",
+        "label": ""
+      },
+      {
+        "sentence": "加油！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励，我会尝试向她表达我的意愿。无论结果如何，我都会勇敢面对。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励，我会尝试向她表达我的意愿。",
+        "label": ""
+      },
+      {
+        "sentence": "无论结果如何，我都会勇敢面对。",
+        "label": ""
+      }
+    ]
+  }
+]

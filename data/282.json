@@ -1,0 +1,192 @@
+[
+  {
+    "role": "client",
+    "content": "最近男友有一些变化，男性都喜欢好看的女的吗？",
+    "annotation": [
+      {
+        "sentence": "最近男友有一些变化，男性都喜欢好看的女的吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "男人都喜欢看好看的女的，除非他不喜欢女性。",
+    "annotation": [
+      {
+        "sentence": "男人都喜欢看好看的女的，除非他不喜欢女性。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那意味着他可能对我开始嫌弃了吗？",
+    "annotation": [
+      {
+        "sentence": "那意味着他可能对我开始嫌弃了吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不一定是嫌弃你，也可能是希望你能更漂亮。",
+    "annotation": [
+      {
+        "sentence": "不一定是嫌弃你，也可能是希望你能更漂亮。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我觉得他最近总是以嫌弃的语气跟我说一些关于我的外貌的话。",
+    "annotation": [
+      {
+        "sentence": "可是我觉得他最近总是以嫌弃的语气跟我说一些关于我的外貌的话。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "也许他是希望你能更关注自己的外貌，他可能觉得这很重要。",
+    "annotation": [
+      {
+        "sentence": "也许他是希望你能更关注自己的外貌，他可能觉得这很重要。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可我觉得那些都是不切实际的，虚的东西。",
+    "annotation": [
+      {
+        "sentence": "可我觉得那些都是不切实际的，虚的东西。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人对外貌的看法都不同，也许对他来说外貌是很重要的。",
+    "annotation": [
+      {
+        "sentence": "每个人对外貌的看法都不同，也许对他来说外貌是很重要的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得我应该把钱放在读书和健身上，而不是买化妆品。",
+    "annotation": [
+      {
+        "sentence": "我觉得我应该把钱放在读书和健身上，而不是买化妆品。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是在追求你所重视的东西，但也要了解他重视什么。",
+    "annotation": [
+      {
+        "sentence": "你是在追求你所重视的东西，但也要了解他重视什么。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我怎么跟他沟通我的想法呢？",
+    "annotation": [
+      {
+        "sentence": "我怎么跟他沟通我的想法呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以告诉他你的想法，并且让他了解你的价值观和重视的东西。",
+    "annotation": [
+      {
+        "sentence": "你可以告诉他你的想法，并且让他了解你的价值观和重视的东西。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我担心他会觉得我不够漂亮而离开我。",
+    "annotation": [
+      {
+        "sentence": "我担心他会觉得我不够漂亮而离开我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "要维持一段持久的关系，就需要互相包容和理解。",
+    "annotation": [
+      {
+        "sentence": "要维持一段持久的关系，就需要互相包容和理解。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我希望他更多地关注我重视的品质，而不是外表。",
+    "annotation": [
+      {
+        "sentence": "我希望他更多地关注我重视的品质，而不是外表。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以和他沟通，告诉他你希望他更多地关注你的内在品质。",
+    "annotation": [
+      {
+        "sentence": "你可以和他沟通，告诉他你希望他更多地关注你的内在品质。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我应该怎么面对他挑剔我的外貌呢？",
+    "annotation": [
+      {
+        "sentence": "我应该怎么面对他挑剔我的外貌呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不是委屈自己去讨好，而是出于爱，愿意彼此包容理解。",
+    "annotation": [
+      {
+        "sentence": "不是委屈自己去讨好，而是出于爱，愿意彼此包容理解。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会试着和他沟通我的想法。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会试着和他沟通我的想法。",
+        "label": ""
+      }
+    ]
+  }
+]

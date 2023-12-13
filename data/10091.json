@@ -1,0 +1,170 @@
+[
+  {
+    "role": "client",
+    "content": "为什么不能理直气壮地拒绝别人的不合理要求？",
+    "annotation": [
+      {
+        "sentence": "为什么不能理直气壮地拒绝别人的不合理要求？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "因为你习惯做老好人了呀。",
+    "annotation": [
+      {
+        "sentence": "因为你习惯做老好人了呀。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是为什么不能给自己一点权利，拒绝那些不合理的要求？",
+    "annotation": [
+      {
+        "sentence": "可是为什么不能给自己一点权利，拒绝那些不合理的要求？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "拒绝了别人，可能会让他们不跟我玩怎么办？",
+    "annotation": [
+      {
+        "sentence": "拒绝了别人，可能会让他们不跟我玩怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我不是每次都要迁就别人，难道我不能做个选择吗？",
+    "annotation": [
+      {
+        "sentence": "那我不是每次都要迁就别人，难道我不能做个选择吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以有选择的权利，但习惯是一件非常可怕的事情。",
+    "annotation": [
+      {
+        "sentence": "你可以有选择的权利，但习惯是一件非常可怕的事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "什么意思？",
+    "annotation": [
+      {
+        "sentence": "什么意思？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "习惯是指已经在你的生活中形成的行为或思维方式，可它却可能束缚住你自己。",
+    "annotation": [
+      {
+        "sentence": "习惯是指已经在你的生活中形成的行为或思维方式，可它却可能束缚住你自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那怎么才能打破这种习惯呢？",
+    "annotation": [
+      {
+        "sentence": "那怎么才能打破这种习惯呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "找一个反抗的机会，提问就是一个反抗。",
+    "annotation": [
+      {
+        "sentence": "找一个反抗的机会，提问就是一个反抗。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你是说，我应该正视这个问题并提问来寻求答案？",
+    "annotation": [
+      {
+        "sentence": "你是说，我应该正视这个问题并提问来寻求答案？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，提问是你正式面对这件事情的一种方式。过去你可能一直在心里纠结这个问题，但现在你有机会开始解决它了。",
+    "annotation": [
+      {
+        "sentence": "是的，提问是你正式面对这件事情的一种方式。",
+        "label": ""
+      },
+      {
+        "sentence": "过去你可能一直在心里纠结这个问题，但现在你有机会开始解决它了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是这个问题好像不是一时半会能解决的。",
+    "annotation": [
+      {
+        "sentence": "可是这个问题好像不是一时半会能解决的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当你困惑不解的时候，首先要分清楚自己真正想要的是什么，真正不想要的是什么。",
+    "annotation": [
+      {
+        "sentence": "当你困惑不解的时候，首先要分清楚自己真正想要的是什么，真正不想要的是什么。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "所以我要把我想要的留下，不想要的扔掉？",
+    "annotation": [
+      {
+        "sentence": "所以我要把我想要的留下，不想要的扔掉？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没错，很简单的道理。通过筛选，你能更好地了解自己的真实需求。",
+    "annotation": [
+      {
+        "sentence": "没错，很简单的道理。",
+        "label": ""
+      },
+      {
+        "sentence": "通过筛选，你能更好地了解自己的真实需求。",
+        "label": ""
+      }
+    ]
+  }
+]

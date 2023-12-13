@@ -1,0 +1,198 @@
+[
+  {
+    "role": "client",
+    "content": "人的一生是不是都会经历一段抑郁时期？",
+    "annotation": [
+      {
+        "sentence": "人的一生是不是都会经历一段抑郁时期？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，每个人都会经历一些情绪低落的时期，这是正常的。",
+    "annotation": [
+      {
+        "sentence": "是的，每个人都会经历一些情绪低落的时期，这是正常的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我记得自己经过三四次抑郁时期，仔细回想几乎都和丧失有关。",
+    "annotation": [
+      {
+        "sentence": "我记得自己经过三四次抑郁时期，仔细回想几乎都和丧失有关。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "丧失是一个非常痛苦的经历，可以让人感到沮丧和低落。",
+    "annotation": [
+      {
+        "sentence": "丧失是一个非常痛苦的经历，可以让人感到沮丧和低落。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "还有一次是和人际关系有关，你们有过这样的时期吗？",
+    "annotation": [
+      {
+        "sentence": "还有一次是和人际关系有关，你们有过这样的时期吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，人际关系问题也会对情绪产生影响。我也曾经历过类似的挑战。",
+    "annotation": [
+      {
+        "sentence": "是的，人际关系问题也会对情绪产生影响。",
+        "label": ""
+      },
+      {
+        "sentence": "我也曾经历过类似的挑战。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那你是如何度过这些困难时期的呢？",
+    "annotation": [
+      {
+        "sentence": "那你是如何度过这些困难时期的呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我尝试着寻找一些有效的应对方法。比如，与亲密的朋友倾诉心事，寻求支持和理解。",
+    "annotation": [
+      {
+        "sentence": "我尝试着寻找一些有效的应对方法。",
+        "label": ""
+      },
+      {
+        "sentence": "比如，与亲密的朋友倾诉心事，寻求支持和理解。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这样做有帮助吗？",
+    "annotation": [
+      {
+        "sentence": "这样做有帮助吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，与他人分享你的感受可以减轻负担，而且他们也可以给予你建议和支持。",
+    "annotation": [
+      {
+        "sentence": "是的，与他人分享你的感受可以减轻负担，而且他们也可以给予你建议和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会试试和朋友聊聊，但有时候感觉自己很难抑制住情绪。",
+    "annotation": [
+      {
+        "sentence": "我会试试和朋友聊聊，但有时候感觉自己很难抑制住情绪。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "抑制情绪并不容易，但你可以试试一些情绪调节的方法，比如冥想或运动。",
+    "annotation": [
+      {
+        "sentence": "抑制情绪并不容易，但你可以试试一些情绪调节的方法，比如冥想或运动。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这些方法适合任何人吗？",
+    "annotation": [
+      {
+        "sentence": "这些方法适合任何人吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，这些方法对大多数人都是有效的，但每个人也有各自的喜好和需求，所以你可以尝试不同的方法找到最适合你的方式。",
+    "annotation": [
+      {
+        "sentence": "是的，这些方法对大多数人都是有效的，但每个人也有各自的喜好和需求，所以你可以尝试不同的方法找到最适合你的方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会尽量尝试一些方法来调节自己的情绪。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会尽量尝试一些方法来调节自己的情绪。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是不是觉得轻松了一些？",
+    "annotation": [
+      {
+        "sentence": "你是不是觉得轻松了一些？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，听到你的建议，我感觉有了一些希望和信心。",
+    "annotation": [
+      {
+        "sentence": "嗯，听到你的建议，我感觉有了一些希望和信心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很高兴能帮到你。如果在调节情绪的过程中遇到困难，记得随时找我倾诉。我们都在这里支持你。",
+    "annotation": [
+      {
+        "sentence": "很高兴能帮到你。",
+        "label": ""
+      },
+      {
+        "sentence": "如果在调节情绪的过程中遇到困难，记得随时找我倾诉。",
+        "label": ""
+      },
+      {
+        "sentence": "我们都在这里支持你。",
+        "label": ""
+      }
+    ]
+  }
+]

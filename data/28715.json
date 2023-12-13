@@ -1,0 +1,156 @@
+[
+  {
+    "role": "client",
+    "content": "男朋友很小气，总在金钱上占我便宜，要不要继续？",
+    "annotation": [
+      {
+        "sentence": "男朋友很小气，总在金钱上占我便宜，要不要继续？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你们两个人的关系中，似乎你照顾他更多一些，那么，你为什么这么愿意照顾他呢？这一点好好问问自己。",
+    "annotation": [
+      {
+        "sentence": "你们两个人的关系中，似乎你照顾他更多一些，那么，你为什么这么愿意照顾他呢？",
+        "label": ""
+      },
+      {
+        "sentence": "这一点好好问问自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可能是因为我觉得他是我男朋友，应该互相照顾吧。",
+    "annotation": [
+      {
+        "sentence": "可能是因为我觉得他是我男朋友，应该互相照顾吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你觉得，你们之间的金钱问题对你们的关系有没有影响呢？",
+    "annotation": [
+      {
+        "sentence": "那你觉得，你们之间的金钱问题对你们的关系有没有影响呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "有影响，我觉得他不太关心我，总是让我为他花钱。",
+    "annotation": [
+      {
+        "sentence": "有影响，我觉得他不太关心我，总是让我为他花钱。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你觉得他是否意识到了这个问题呢？",
+    "annotation": [
+      {
+        "sentence": "你觉得他是否意识到了这个问题呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "有时候我会开口和他说，但他好像没有太认识到问题的严重性。",
+    "annotation": [
+      {
+        "sentence": "有时候我会开口和他说，但他好像没有太认识到问题的严重性。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你觉得，你想看到的改变是什么呢？",
+    "annotation": [
+      {
+        "sentence": "那你觉得，你想看到的改变是什么呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我希望他更能够关心我，不再占我便宜。",
+    "annotation": [
+      {
+        "sentence": "我希望他更能够关心我，不再占我便宜。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以试着和他沟通一下你的感受，告诉他你的期望，看看他是否能够为你们的关系做一些积极的改变。",
+    "annotation": [
+      {
+        "sentence": "你可以试着和他沟通一下你的感受，告诉他你的期望，看看他是否能够为你们的关系做一些积极的改变。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会试着和他好好谈谈的。",
+    "annotation": [
+      {
+        "sentence": "我会试着和他好好谈谈的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "同时，你也要注意控制自己的行为，不再为他付出过多的金钱，看看这样会不会对你们的关系产生一些改变。",
+    "annotation": [
+      {
+        "sentence": "同时，你也要注意控制自己的行为，不再为他付出过多的金钱，看看这样会不会对你们的关系产生一些改变。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试试看的。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试试看的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "记得，不要为了他而忽略了自己的感受和需求，要学会保护好自己。",
+    "annotation": [
+      {
+        "sentence": "记得，不要为了他而忽略了自己的感受和需求，要学会保护好自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会努力的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会努力的。",
+        "label": ""
+      }
+    ]
+  }
+]

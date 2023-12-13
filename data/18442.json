@@ -1,0 +1,234 @@
+[
+  {
+    "role": "client",
+    "content": "我男友抖音不加我关注，收藏都是美女，有问题吗？",
+    "annotation": [
+      {
+        "sentence": "我男友抖音不加我关注，收藏都是美女，有问题吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "听了你的话，说说我的一点看法。爱美之心，人皆有之。",
+    "annotation": [
+      {
+        "sentence": "听了你的话，说说我的一点看法。",
+        "label": ""
+      },
+      {
+        "sentence": "爱美之心，人皆有之。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他认为我管的太多，觉得无所谓。",
+    "annotation": [
+      {
+        "sentence": "他认为我管的太多，觉得无所谓。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他可能只是喜欢点个赞看一看，并不是有意思。",
+    "annotation": [
+      {
+        "sentence": "他可能只是喜欢点个赞看一看，并不是有意思。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是每次看完他点赞的都是些大胸妹啊，我就觉得不舒服。",
+    "annotation": [
+      {
+        "sentence": "可是每次看完他点赞的都是些大胸妹啊，我就觉得不舒服。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "也许他只是喜欢那种类型的视频，并不代表他不爱你。",
+    "annotation": [
+      {
+        "sentence": "也许他只是喜欢那种类型的视频，并不代表他不爱你。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但我觉得他不在乎我的感受，还总说别的女生好看。",
+    "annotation": [
+      {
+        "sentence": "但我觉得他不在乎我的感受，还总说别的女生好看。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "也许他只是不太懂女生的心思而已，你可以跟他好好沟通一下。",
+    "annotation": [
+      {
+        "sentence": "也许他只是不太懂女生的心思而已，你可以跟他好好沟通一下。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我真的很烦他这样，觉得一点不给我面子。",
+    "annotation": [
+      {
+        "sentence": "可是我真的很烦他这样，觉得一点不给我面子。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他可能只是没有意识到他的行为对你造成了困扰。",
+    "annotation": [
+      {
+        "sentence": "他可能只是没有意识到他的行为对你造成了困扰。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我自己也觉得我长得不错，为什么他不珍惜我呢？",
+    "annotation": [
+      {
+        "sentence": "我自己也觉得我长得不错，为什么他不珍惜我呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "人们往往不太珍惜已经得到的，反而比较关注自己没有的。",
+    "annotation": [
+      {
+        "sentence": "人们往往不太珍惜已经得到的，反而比较关注自己没有的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可能他觉得其他女生身材更好吧，我也不知道怎么办。",
+    "annotation": [
+      {
+        "sentence": "可能他觉得其他女生身材更好吧，我也不知道怎么办。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他只是幻想一下而已，并不代表他不爱你。相信你们的感情不会因此而改变。",
+    "annotation": [
+      {
+        "sentence": "他只是幻想一下而已，并不代表他不爱你。",
+        "label": ""
+      },
+      {
+        "sentence": "相信你们的感情不会因此而改变。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但他总偷偷点赞别人的大胸，我真的很介意。",
+    "annotation": [
+      {
+        "sentence": "但他总偷偷点赞别人的大胸，我真的很介意。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他可能担心因为过分关注别人而让你不开心，所以不敢告诉你。",
+    "annotation": [
+      {
+        "sentence": "他可能担心因为过分关注别人而让你不开心，所以不敢告诉你。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我该怎么处理这个问题呢？",
+    "annotation": [
+      {
+        "sentence": "那我该怎么处理这个问题呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以跟他好好沟通，让他知道你的想法，并且告诉他你不喜欢他这样做。",
+    "annotation": [
+      {
+        "sentence": "你可以跟他好好沟通，让他知道你的想法，并且告诉他你不喜欢他这样做。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我也担心闹得更大。",
+    "annotation": [
+      {
+        "sentence": "我也担心闹得更大。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以给他一些时间，让他逐渐改变这个习惯，同时多发扬自己的长处。",
+    "annotation": [
+      {
+        "sentence": "你可以给他一些时间，让他逐渐改变这个习惯，同时多发扬自己的长处。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会试着跟他好好谈一谈的，谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "我会试着跟他好好谈一谈的，谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，希望你们能够快乐幸福！如果有需要随时找我聊天。",
+    "annotation": [
+      {
+        "sentence": "不客气，希望你们能够快乐幸福！",
+        "label": ""
+      },
+      {
+        "sentence": "如果有需要随时找我聊天。",
+        "label": ""
+      }
+    ]
+  }
+]

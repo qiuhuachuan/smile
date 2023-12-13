@@ -1,0 +1,210 @@
+[
+  {
+    "role": "client",
+    "content": "总是太在意别人的想法和脸色怎么办？",
+    "annotation": [
+      {
+        "sentence": "总是太在意别人的想法和脸色怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你感受到周围人的评判和对你的观察吗？",
+    "annotation": [
+      {
+        "sentence": "你感受到周围人的评判和对你的观察吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我总是担心他们对我的看法。",
+    "annotation": [
+      {
+        "sentence": "是的，我总是担心他们对我的看法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种担心是否会影响你与他人互动的自信心呢？",
+    "annotation": [
+      {
+        "sentence": "这种担心是否会影响你与他人互动的自信心呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，当我面对比我强势的人时，我会感到特别在意。",
+    "annotation": [
+      {
+        "sentence": "是的，当我面对比我强势的人时，我会感到特别在意。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以尝试一下观察自己与强势人相处时的心理变化。",
+    "annotation": [
+      {
+        "sentence": "你可以尝试一下观察自己与强势人相处时的心理变化。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我的心会变得紧张，感到很尴尬。",
+    "annotation": [
+      {
+        "sentence": "我的心会变得紧张，感到很尴尬。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种紧张和尴尬是否与你过去的某种经历有关，比如和家人之间的关系？",
+    "annotation": [
+      {
+        "sentence": "这种紧张和尴尬是否与你过去的某种经历有关，比如和家人之间的关系？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可能是，我小时候有一位让我感到害怕的重要家人。",
+    "annotation": [
+      {
+        "sentence": "可能是，我小时候有一位让我感到害怕的重要家人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "理解，这个过去的经历可能影响到了你当前的行为模式。",
+    "annotation": [
+      {
+        "sentence": "理解，这个过去的经历可能影响到了你当前的行为模式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得自己变得讨好别人，为了保持关系稳定。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得自己变得讨好别人，为了保持关系稳定。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "把自己定义为讨好型人格有时候限制了我们对自身的认知。",
+    "annotation": [
+      {
+        "sentence": "把自己定义为讨好型人格有时候限制了我们对自身的认知。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你的意思是我的标签对我产生了一定的束缚？",
+    "annotation": [
+      {
+        "sentence": "你的意思是我的标签对我产生了一定的束缚？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没错，我们可以尝试探索一下你希望通过讨好来满足的需求。",
+    "annotation": [
+      {
+        "sentence": "没错，我们可以尝试探索一下你希望通过讨好来满足的需求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "或许我觉得通过讨好可以在关系中获得安全感。",
+    "annotation": [
+      {
+        "sentence": "或许我觉得通过讨好可以在关系中获得安全感。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那么，现在的你是否有能力去满足自己的安全感，而不是依赖于他人？",
+    "annotation": [
+      {
+        "sentence": "那么，现在的你是否有能力去满足自己的安全感，而不是依赖于他人？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这是需要我思考的问题，我希望能够更关注自己的感受。",
+    "annotation": [
+      {
+        "sentence": "这是需要我思考的问题，我希望能够更关注自己的感受。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当你能够看到自己内心害怕和无助的那个孩子时，你将变得更加成熟，更能真实地感受到自己的存在。",
+    "annotation": [
+      {
+        "sentence": "当你能够看到自己内心害怕和无助的那个孩子时，你将变得更加成熟，更能真实地感受到自己的存在。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我需要学会放下对他人意见的过度在意，关注自己的内心需求。谢谢你的建议！",
+    "annotation": [
+      {
+        "sentence": "我明白了，我需要学会放下对他人意见的过度在意，关注自己的内心需求。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的建议！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我相信你能够找到自己内心的平静与自在。如果以后还有需要，记得随时来找我聊聊。",
+    "annotation": [
+      {
+        "sentence": "不客气，我相信你能够找到自己内心的平静与自在。",
+        "label": ""
+      },
+      {
+        "sentence": "如果以后还有需要，记得随时来找我聊聊。",
+        "label": ""
+      }
+    ]
+  }
+]

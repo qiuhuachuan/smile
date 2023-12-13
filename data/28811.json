@@ -1,0 +1,222 @@
+[
+  {
+    "role": "client",
+    "content": "分手以后，对男生有放不下的感觉，觉得有点对不起人？",
+    "annotation": [
+      {
+        "sentence": "分手以后，对男生有放不下的感觉，觉得有点对不起人？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你为什么会有这种感觉呢？是因为你还在喜欢他吗？",
+    "annotation": [
+      {
+        "sentence": "你为什么会有这种感觉呢？",
+        "label": ""
+      },
+      {
+        "sentence": "是因为你还在喜欢他吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可能是因为之前一直在说我的抑郁情绪，他对我非常关心，我觉得自己有点亏欠他。",
+    "annotation": [
+      {
+        "sentence": "可能是因为之前一直在说我的抑郁情绪，他对我非常关心，我觉得自己有点亏欠他。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你觉得，你对他还是有什么感觉吗？",
+    "annotation": [
+      {
+        "sentence": "那你觉得，你对他还是有什么感觉吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "其实我对他还是有一种分手了，放不下的感觉。",
+    "annotation": [
+      {
+        "sentence": "其实我对他还是有一种分手了，放不下的感觉。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你觉得，这个感觉是因为你还喜欢他，还是因为你觉得把他曾经对你的好不应该白白地浪费掉？",
+    "annotation": [
+      {
+        "sentence": "那你觉得，这个感觉是因为你还喜欢他，还是因为你觉得把他曾经对你的好不应该白白地浪费掉？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可能有一点点两者兼有吧。",
+    "annotation": [
+      {
+        "sentence": "可能有一点点两者兼有吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其实你应该先弄清楚你自己的感觉，是因为真的喜欢他，还是因为内心有一些愧疚感。",
+    "annotation": [
+      {
+        "sentence": "其实你应该先弄清楚你自己的感觉，是因为真的喜欢他，还是因为内心有一些愧疚感。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "确实，我想过这个问题，可是一直没有想清楚。",
+    "annotation": [
+      {
+        "sentence": "确实，我想过这个问题，可是一直没有想清楚。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不过你不要着急，这种事情需要一点时间来弄清楚。",
+    "annotation": [
+      {
+        "sentence": "不过你不要着急，这种事情需要一点时间来弄清楚。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我现在想送他一个礼物，等考完四级，甚至想牵手，这样对吗？",
+    "annotation": [
+      {
+        "sentence": "可是我现在想送他一个礼物，等考完四级，甚至想牵手，这样对吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "等等，你先别急着做这些事情。你要先确定，你是否真的喜欢他。",
+    "annotation": [
+      {
+        "sentence": "等等，你先别急着做这些事情。",
+        "label": ""
+      },
+      {
+        "sentence": "你要先确定，你是否真的喜欢他。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是他对我那么好，我觉得自己不送他礼物，有一点对不起他。",
+    "annotation": [
+      {
+        "sentence": "可是他对我那么好，我觉得自己不送他礼物，有一点对不起他。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可是你这样做，只会更加混淆你的内心。",
+    "annotation": [
+      {
+        "sentence": "可是你这样做，只会更加混淆你的内心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那你觉得我该怎么办呢？",
+    "annotation": [
+      {
+        "sentence": "那你觉得我该怎么办呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先，你需要平复自己的情绪，确定自己的感觉。然后，你可以和他坦诚地谈一谈。",
+    "annotation": [
+      {
+        "sentence": "首先，你需要平复自己的情绪，确定自己的感觉。",
+        "label": ""
+      },
+      {
+        "sentence": "然后，你可以和他坦诚地谈一谈。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "坦诚地谈一谈？可是我觉得我们可能不太合适。",
+    "annotation": [
+      {
+        "sentence": "坦诚地谈一谈？",
+        "label": ""
+      },
+      {
+        "sentence": "可是我觉得我们可能不太合适。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果你觉得自己和他不太合适，那你现在就更不应该做出那样的承诺。",
+    "annotation": [
+      {
+        "sentence": "如果你觉得自己和他不太合适，那你现在就更不应该做出那样的承诺。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，确实是这样。谢谢你的建议，我会好好考虑的。",
+    "annotation": [
+      {
+        "sentence": "嗯，确实是这样。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的建议，我会好好考虑的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，有需要随时找我聊天。",
+    "annotation": [
+      {
+        "sentence": "不用客气，有需要随时找我聊天。",
+        "label": ""
+      }
+    ]
+  }
+]

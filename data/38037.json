@@ -1,0 +1,176 @@
+[
+  {
+    "role": "client",
+    "content": "我觉得心理咨询师总是顺着我说话附和，并没有解决问题？我昨天跟咨询师做心理咨询，但我明显感到她仅仅是附和我顺着我说话，并没有帮我解决实际问题，难道心理咨询师都是这样的吗？",
+    "annotation": [
+      {
+        "sentence": "我觉得心理咨询师总是顺着我说话附和，并没有解决问题？",
+        "label": ""
+      },
+      {
+        "sentence": "我昨天跟咨询师做心理咨询，但我明显感到她仅仅是附和我顺着我说话，并没有帮我解决实际问题，难道心理咨询师都是这样的吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是和这个咨询师做了很多次了吗？",
+    "annotation": [
+      {
+        "sentence": "你是和这个咨询师做了很多次了吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "只有两次而已。",
+    "annotation": [
+      {
+        "sentence": "只有两次而已。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那她之前的建议有没有帮助到你？",
+    "annotation": [
+      {
+        "sentence": "那她之前的建议有没有帮助到你？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "说实话，没有什么实质性的帮助。",
+    "annotation": [
+      {
+        "sentence": "说实话，没有什么实质性的帮助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你感觉她只是附和顺着你说话的感受很长时间吗？",
+    "annotation": [
+      {
+        "sentence": "你感觉她只是附和顺着你说话的感受很长时间吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得是的，她似乎只是在安慰我，而不是解决问题。",
+    "annotation": [
+      {
+        "sentence": "我觉得是的，她似乎只是在安慰我，而不是解决问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "现在你对此有怀疑，问出来是想判断这个咨询师是专业吗？",
+    "annotation": [
+      {
+        "sentence": "现在你对此有怀疑，问出来是想判断这个咨询师是专业吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我想知道我找的这个咨询师是否真的专业。",
+    "annotation": [
+      {
+        "sentence": "是的，我想知道我找的这个咨询师是否真的专业。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "或者是想判断她是否合适做你的咨询师？",
+    "annotation": [
+      {
+        "sentence": "或者是想判断她是否合适做你的咨询师？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，我也在考虑是否需要寻找其他合适的咨询师。",
+    "annotation": [
+      {
+        "sentence": "对，我也在考虑是否需要寻找其他合适的咨询师。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "还是你想结束，可是需要有前面相关的判断才能结束？",
+    "annotation": [
+      {
+        "sentence": "还是你想结束，可是需要有前面相关的判断才能结束？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我在考虑是否应该结束这个咨询，但我希望先做出一个明智的决定。",
+    "annotation": [
+      {
+        "sentence": "是的，我在考虑是否应该结束这个咨询，但我希望先做出一个明智的决定。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这个感受如果很长了，你之前有想结束的想法吗？",
+    "annotation": [
+      {
+        "sentence": "这个感受如果很长了，你之前有想结束的想法吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我在之前就有考虑过结束咨询的想法。",
+    "annotation": [
+      {
+        "sentence": "是的，我在之前就有考虑过结束咨询的想法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "觉得自己很容易能结束这个咨询吗？",
+    "annotation": [
+      {
+        "sentence": "觉得自己很容易能结束这个咨询吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "不太容易，我觉得我需要更多的了解和判断才能做出决定。",
+    "annotation": [
+      {
+        "sentence": "不太容易，我觉得我需要更多的了解和判断才能做出决定。",
+        "label": ""
+      }
+    ]
+  }
+]

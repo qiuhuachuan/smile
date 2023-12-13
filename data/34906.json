@@ -1,0 +1,170 @@
+[
+  {
+    "role": "client",
+    "content": "我总是倾听别人，却没有人倾听我，可我其实好孤独？",
+    "annotation": [
+      {
+        "sentence": "我总是倾听别人，却没有人倾听我，可我其实好孤独？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先，我想替那些向你倾诉的人对你说一声谢谢。",
+    "annotation": [
+      {
+        "sentence": "首先，我想替那些向你倾诉的人对你说一声谢谢。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的理解。我真的厌倦了成为别人的情绪垃圾桶。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的理解。",
+        "label": ""
+      },
+      {
+        "sentence": "我真的厌倦了成为别人的情绪垃圾桶。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "倾听并不是你的义务和责任，你愿意当他们的情绪垃圾桶只是因为你的善良。",
+    "annotation": [
+      {
+        "sentence": "倾听并不是你的义务和责任，你愿意当他们的情绪垃圾桶只是因为你的善良。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但我拒绝后，我会感觉内疚。",
+    "annotation": [
+      {
+        "sentence": "但我拒绝后，我会感觉内疚。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你不需要过度在乎他人的感受，也没有义务倾听他们。你可以大大方方地表达出来。",
+    "annotation": [
+      {
+        "sentence": "你不需要过度在乎他人的感受，也没有义务倾听他们。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以大大方方地表达出来。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "也许你说得对，我应该学会坦诚地表达自己的需求。",
+    "annotation": [
+      {
+        "sentence": "也许你说得对，我应该学会坦诚地表达自己的需求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，如果你找不到愿意倾听你的人，你可以在这个平台上说出来。会有很多人愿意听你的。",
+    "annotation": [
+      {
+        "sentence": "是的，如果你找不到愿意倾听你的人，你可以在这个平台上说出来。",
+        "label": ""
+      },
+      {
+        "sentence": "会有很多人愿意听你的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你觉得真的有人在乎我吗？我有点怀疑。",
+    "annotation": [
+      {
+        "sentence": "你觉得真的有人在乎我吗？",
+        "label": ""
+      },
+      {
+        "sentence": "我有点怀疑。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这个世界有很多愿意听你说话的人，也有很多愿意给予你包容鼓励的陌生人。",
+    "annotation": [
+      {
+        "sentence": "这个世界有很多愿意听你说话的人，也有很多愿意给予你包容鼓励的陌生人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "也许我可以试试在这个平台上寻求支持和安慰。",
+    "annotation": [
+      {
+        "sentence": "也许我可以试试在这个平台上寻求支持和安慰。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "愿你永远被这个世界温柔以待！你不是一个人，我们都在这里支持你！",
+    "annotation": [
+      {
+        "sentence": "愿你永远被这个世界温柔以待！",
+        "label": ""
+      },
+      {
+        "sentence": "你不是一个人，我们都在这里支持你！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你，我现在感觉好多了。以后遇到困难我一定会来这里寻求帮助。",
+    "annotation": [
+      {
+        "sentence": "谢谢你，我现在感觉好多了。",
+        "label": ""
+      },
+      {
+        "sentence": "以后遇到困难我一定会来这里寻求帮助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，我们随时等候你的到来。记住，你并不孤单。",
+    "annotation": [
+      {
+        "sentence": "不用客气，我们随时等候你的到来。",
+        "label": ""
+      },
+      {
+        "sentence": "记住，你并不孤单。",
+        "label": ""
+      }
+    ]
+  }
+]

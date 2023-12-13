@@ -1,0 +1,326 @@
+[
+  {
+    "role": "client",
+    "content": "两个打架的小人到底谁对谁错？我不知道怎么判断。【emotionally uncertain】",
+    "annotation": [
+      {
+        "sentence": "两个打架的小人到底谁对谁错？",
+        "label": ""
+      },
+      {
+        "sentence": "我不知道怎么判断。",
+        "label": ""
+      },
+      {
+        "sentence": "【emotionally uncertain】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你遇到了一些困惑。告诉我更多关于这个情况。【showing empathy】",
+    "annotation": [
+      {
+        "sentence": "你遇到了一些困惑。",
+        "label": ""
+      },
+      {
+        "sentence": "告诉我更多关于这个情况。",
+        "label": ""
+      },
+      {
+        "sentence": "【showing empathy】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我23岁，身高160cm，体重53kg，非杭州本地人，2019年4月来杭州，到现在已经在这工作一年了。【providing more information】",
+    "annotation": [
+      {
+        "sentence": "我23岁，身高160cm，体重53kg，非杭州本地人，2019年4月来杭州，到现在已经在这工作一年了。",
+        "label": ""
+      },
+      {
+        "sentence": "【providing more information】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你适应搬到新的城市和新的工作吗？【showing interest】",
+    "annotation": [
+      {
+        "sentence": "你适应搬到新的城市和新的工作吗？",
+        "label": ""
+      },
+      {
+        "sentence": "【showing interest】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "来杭时候单身2年，心里想象的择偶标准很高，直到2019年10月回老家，被催找对象了。我有点迷茫。【expressing confusion】",
+    "annotation": [
+      {
+        "sentence": "来杭时候单身2年，心里想象的择偶标准很高，直到2019年10月回老家，被催找对象了。",
+        "label": ""
+      },
+      {
+        "sentence": "我有点迷茫。",
+        "label": ""
+      },
+      {
+        "sentence": "【expressing confusion】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "感到压力被催促找对象是很正常的。你能告诉我，你的期望是什么样的吗？【asking for expectations】",
+    "annotation": [
+      {
+        "sentence": "感到压力被催促找对象是很正常的。",
+        "label": ""
+      },
+      {
+        "sentence": "你能告诉我，你的期望是什么样的吗？",
+        "label": ""
+      },
+      {
+        "sentence": "【asking for expectations】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我开玩笑说我要找一个杭州本地拆迁户。可是我哥问了我一系列问题，让我觉得自己配不上我心中所想的人。【expressing self-doubt】",
+    "annotation": [
+      {
+        "sentence": "我开玩笑说我要找一个杭州本地拆迁户。",
+        "label": ""
+      },
+      {
+        "sentence": "可是我哥问了我一系列问题，让我觉得自己配不上我心中所想的人。",
+        "label": ""
+      },
+      {
+        "sentence": "【expressing self-doubt】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你觉得你的哥哥的提问对你造成了压力和自我怀疑。这就像尺子测量一个人一样，并不能全面了解一个人的价值。每个人的价值是多方面的。【providing reassurance】",
+    "annotation": [
+      {
+        "sentence": "你觉得你的哥哥的提问对你造成了压力和自我怀疑。",
+        "label": ""
+      },
+      {
+        "sentence": "这就像尺子测量一个人一样，并不能全面了解一个人的价值。",
+        "label": ""
+      },
+      {
+        "sentence": "每个人的价值是多方面的。",
+        "label": ""
+      },
+      {
+        "sentence": "【providing reassurance】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是啊，我也明白这点。但是最近，身边的同事、朋友的生活方式让我感到自卑。【expressing comparison】",
+    "annotation": [
+      {
+        "sentence": "是啊，我也明白这点。",
+        "label": ""
+      },
+      {
+        "sentence": "但是最近，身边的同事、朋友的生活方式让我感到自卑。",
+        "label": ""
+      },
+      {
+        "sentence": "【expressing comparison】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "身边环境的变化可能会对你的自我感觉产生影响。记住，每个人都有自己的生活方式和价值。不要过度与别人比较自己。【encouraging self-acceptance】",
+    "annotation": [
+      {
+        "sentence": "身边环境的变化可能会对你的自我感觉产生影响。",
+        "label": ""
+      },
+      {
+        "sentence": "记住，每个人都有自己的生活方式和价值。",
+        "label": ""
+      },
+      {
+        "sentence": "不要过度与别人比较自己。",
+        "label": ""
+      },
+      {
+        "sentence": "【encouraging self-acceptance】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我的男朋友对我很好，身高174cm，体重65kg，码农，月薪一万。他为了给我保障，在老家未来发展好的一个区买了一个一百三十平的洋房。但是我有点犹豫。【expressing hesitation】",
+    "annotation": [
+      {
+        "sentence": "我的男朋友对我很好，身高174cm，体重65kg，码农，月薪一万。",
+        "label": ""
+      },
+      {
+        "sentence": "他为了给我保障，在老家未来发展好的一个区买了一个一百三十平的洋房。",
+        "label": ""
+      },
+      {
+        "sentence": "但是我有点犹豫。",
+        "label": ""
+      },
+      {
+        "sentence": "【expressing hesitation】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你对于未来的计划感到犹豫，这是正常的。你可以考虑你自己对婚姻和未来的期望，然后再作出决定。【encouraging self-reflection】",
+    "annotation": [
+      {
+        "sentence": "你对于未来的计划感到犹豫，这是正常的。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以考虑你自己对婚姻和未来的期望，然后再作出决定。",
+        "label": ""
+      },
+      {
+        "sentence": "【encouraging self-reflection】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我想走出三线老家的城市，不是嫌弃老家，是想走向更好的城市与生活。但是我也担心这样的选择会影响我们的关系。【expressing concern】",
+    "annotation": [
+      {
+        "sentence": "我想走出三线老家的城市，不是嫌弃老家，是想走向更好的城市与生活。",
+        "label": ""
+      },
+      {
+        "sentence": "但是我也担心这样的选择会影响我们的关系。",
+        "label": ""
+      },
+      {
+        "sentence": "【expressing concern】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你期望在生活和发展方面有所改变，这是可以理解的。与男朋友好好沟通，看看是否能够找到妥协和共识，共同面对未来的挑战。【suggesting communication】",
+    "annotation": [
+      {
+        "sentence": "你期望在生活和发展方面有所改变，这是可以理解的。",
+        "label": ""
+      },
+      {
+        "sentence": "与男朋友好好沟通，看看是否能够找到妥协和共识，共同面对未来的挑战。",
+        "label": ""
+      },
+      {
+        "sentence": "【suggesting communication】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他想明年和我结婚，但是我现在还不能做出决定。我们平时也会有争吵，就像一般的小情侣一样。【expressing relationship concerns】",
+    "annotation": [
+      {
+        "sentence": "他想明年和我结婚，但是我现在还不能做出决定。",
+        "label": ""
+      },
+      {
+        "sentence": "我们平时也会有争吵，就像一般的小情侣一样。",
+        "label": ""
+      },
+      {
+        "sentence": "【expressing relationship concerns】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "在一段感情当中经历吵架也是正常的，重要的是如何处理和解决这些问题。你可以和男朋友一起寻找解决办法，加强沟通和理解。【providing advice】",
+    "annotation": [
+      {
+        "sentence": "在一段感情当中经历吵架也是正常的，重要的是如何处理和解决这些问题。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以和男朋友一起寻找解决办法，加强沟通和理解。",
+        "label": ""
+      },
+      {
+        "sentence": "【providing advice】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会好好考虑的。【showing gratitude】",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会好好考虑的。",
+        "label": ""
+      },
+      {
+        "sentence": "【showing gratitude】",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，我相信你能够做出正确的决定。如果你还有其他问题，随时来找我聊天。【offering continued support】",
+    "annotation": [
+      {
+        "sentence": "不用客气，我相信你能够做出正确的决定。",
+        "label": ""
+      },
+      {
+        "sentence": "如果你还有其他问题，随时来找我聊天。",
+        "label": ""
+      },
+      {
+        "sentence": "【offering continued support】",
+        "label": ""
+      }
+    ]
+  }
+]

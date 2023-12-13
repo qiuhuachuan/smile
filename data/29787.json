@@ -1,0 +1,182 @@
+[
+  {
+    "role": "client",
+    "content": "我想藏起来，遮掩这么多到底为什么？",
+    "annotation": [
+      {
+        "sentence": "我想藏起来，遮掩这么多到底为什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你对自己实在是有些苛刻呢，出身不是你能选择的，起点低也并不可耻呀。",
+    "annotation": [
+      {
+        "sentence": "你对自己实在是有些苛刻呢，出身不是你能选择的，起点低也并不可耻呀。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我知道，但我总觉得自己不够好，所以一直想掩盖自己的过去。",
+    "annotation": [
+      {
+        "sentence": "我知道，但我总觉得自己不够好，所以一直想掩盖自己的过去。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你拼命掩盖自己是因为害怕别人看到你的弱点吗？",
+    "annotation": [
+      {
+        "sentence": "你拼命掩盖自己是因为害怕别人看到你的弱点吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我担心别人会对我有偏见，会看不起我。",
+    "annotation": [
+      {
+        "sentence": "是的，我担心别人会对我有偏见，会看不起我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你担心别人的评价，这是很正常的情绪。但在职场中，你应该相信自己的实力和价值。",
+    "annotation": [
+      {
+        "sentence": "你担心别人的评价，这是很正常的情绪。",
+        "label": ""
+      },
+      {
+        "sentence": "但在职场中，你应该相信自己的实力和价值。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我知道，但我总觉得自己不够自信。",
+    "annotation": [
+      {
+        "sentence": "我知道，但我总觉得自己不够自信。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "自信是可以培养的，你可以尝试从一些小的事情开始，逐渐增强自己的自信心。",
+    "annotation": [
+      {
+        "sentence": "自信是可以培养的，你可以尝试从一些小的事情开始，逐渐增强自己的自信心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，也确实需要提升自己的自信。可我心里还是不踏实，我还是不能做真实的自己。",
+    "annotation": [
+      {
+        "sentence": "我明白了，也确实需要提升自己的自信。",
+        "label": ""
+      },
+      {
+        "sentence": "可我心里还是不踏实，我还是不能做真实的自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "为什么你会觉得不能做真实的自己呢？",
+    "annotation": [
+      {
+        "sentence": "为什么你会觉得不能做真实的自己呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "因为我担心别人会看不起我，会对我有偏见。",
+    "annotation": [
+      {
+        "sentence": "因为我担心别人会看不起我，会对我有偏见。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你害怕别人的评价，这或许与你过去的经历有关。但你要相信，真正的朋友和重要的人会接受并理解你的。",
+    "annotation": [
+      {
+        "sentence": "你害怕别人的评价，这或许与你过去的经历有关。",
+        "label": ""
+      },
+      {
+        "sentence": "但你要相信，真正的朋友和重要的人会接受并理解你的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，我应该更加相信自己，不再隐藏自己。",
+    "annotation": [
+      {
+        "sentence": "我明白了，我应该更加相信自己，不再隐藏自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对的，你有能力成为更好的自己。不要再给自己太大的压力，放松一点，接受自己的过去和现在。",
+    "annotation": [
+      {
+        "sentence": "对的，你有能力成为更好的自己。",
+        "label": ""
+      },
+      {
+        "sentence": "不要再给自己太大的压力，放松一点，接受自己的过去和现在。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持和鼓励，我会试着接受自己，并积极面对未来。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持和鼓励，我会试着接受自己，并积极面对未来。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很高兴能帮到你，相信自己，一切都会好起来的。加油！",
+    "annotation": [
+      {
+        "sentence": "很高兴能帮到你，相信自己，一切都会好起来的。",
+        "label": ""
+      },
+      {
+        "sentence": "加油！",
+        "label": ""
+      }
+    ]
+  }
+]

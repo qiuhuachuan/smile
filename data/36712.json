@@ -1,0 +1,244 @@
+[
+  {
+    "role": "client",
+    "content": "男朋友提出要结婚，我一躲再躲，还反复梦见暗恋对象？",
+    "annotation": [
+      {
+        "sentence": "男朋友提出要结婚，我一躲再躲，还反复梦见暗恋对象？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "刘老师助理：没有其他特别的建议，有几个问题你自己可以回答一下，然后仔细琢磨自己的答案，也许能找到原因。以下问题，请凭自己的第一感觉快速写出答案，不要反复思考和评判，脑海里浮现出什么就写下什么。",
+    "annotation": [
+      {
+        "sentence": "刘老师助理：没有其他特别的建议，有几个问题你自己可以回答一下，然后仔细琢磨自己的答案，也许能找到原因。",
+        "label": ""
+      },
+      {
+        "sentence": "以下问题，请凭自己的第一感觉快速写出答案，不要反复思考和评判，脑海里浮现出什么就写下什么。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会尽力回答。请问问题是什么？",
+    "annotation": [
+      {
+        "sentence": "好的，我会尽力回答。",
+        "label": ""
+      },
+      {
+        "sentence": "请问问题是什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "1. 什么是爱情？（用20个以内的字描述出来）",
+    "annotation": [
+      {
+        "sentence": "1. 什么是爱情？",
+        "label": ""
+      },
+      {
+        "sentence": "（用20个以内的字描述出来）",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "爱情是两个人心灵的交汇。",
+    "annotation": [
+      {
+        "sentence": "爱情是两个人心灵的交汇。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "2. 美满的婚姻对你来说意味着什么？",
+    "annotation": [
+      {
+        "sentence": "2. 美满的婚姻对你来说意味着什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "美满的婚姻对我来说意味着相互理解和支持。",
+    "annotation": [
+      {
+        "sentence": "美满的婚姻对我来说意味着相互理解和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "3. 你在婚姻中最在乎的是什么？",
+    "annotation": [
+      {
+        "sentence": "3. 你在婚姻中最在乎的是什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "在婚姻中，我最在乎的是相互信任和共同成长。",
+    "annotation": [
+      {
+        "sentence": "在婚姻中，我最在乎的是相互信任和共同成长。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "4. 你在婚姻中最不希望出现的是什么？",
+    "annotation": [
+      {
+        "sentence": "4. 你在婚姻中最不希望出现的是什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "在婚姻中，我最不希望出现的是背叛和不尊重。",
+    "annotation": [
+      {
+        "sentence": "在婚姻中，我最不希望出现的是背叛和不尊重。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "5. 好妻子的标准是什么？好丈夫的标准是什么？你和爱人的婚姻偶像分别是谁呢？",
+    "annotation": [
+      {
+        "sentence": "5. 好妻子的标准是什么？",
+        "label": ""
+      },
+      {
+        "sentence": "好丈夫的标准是什么？",
+        "label": ""
+      },
+      {
+        "sentence": "你和爱人的婚姻偶像分别是谁呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好妻子应该是体贴、包容和支持丈夫的人，好丈夫应该是关心、宽容和尊重妻子的人。我和爱人的婚姻偶像分别是李安和范冰冰。",
+    "annotation": [
+      {
+        "sentence": "好妻子应该是体贴、包容和支持丈夫的人，好丈夫应该是关心、宽容和尊重妻子的人。",
+        "label": ""
+      },
+      {
+        "sentence": "我和爱人的婚姻偶像分别是李安和范冰冰。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "6. 你希望伴侣具备哪些优点？",
+    "annotation": [
+      {
+        "sentence": "6. 你希望伴侣具备哪些优点？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我希望伴侣具备坚持追求梦想的勇气和能够给我安全感的稳定性。",
+    "annotation": [
+      {
+        "sentence": "我希望伴侣具备坚持追求梦想的勇气和能够给我安全感的稳定性。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "7. 你最不希望伴侣有哪些缺点？",
+    "annotation": [
+      {
+        "sentence": "7. 你最不希望伴侣有哪些缺点？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我最不希望伴侣有自私和不负责任的缺点。",
+    "annotation": [
+      {
+        "sentence": "我最不希望伴侣有自私和不负责任的缺点。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "8. 对于即将和伴侣一起生活，你的心里是说yes还是no？",
+    "annotation": [
+      {
+        "sentence": "8. 对于即将和伴侣一起生活，你的心里是说yes还是no？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对于即将和伴侣一起生活，我心里是说yes的。",
+    "annotation": [
+      {
+        "sentence": "对于即将和伴侣一起生活，我心里是说yes的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "9. 请画出你心中对婚姻的愿景图。希望你自己的答案能帮到你自己。",
+    "annotation": [
+      {
+        "sentence": "9. 请画出你心中对婚姻的愿景图。",
+        "label": ""
+      },
+      {
+        "sentence": "希望你自己的答案能帮到你自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会认真思考并试着画出对婚姻的愿景图。感谢你的支持。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会认真思考并试着画出对婚姻的愿景图。",
+        "label": ""
+      },
+      {
+        "sentence": "感谢你的支持。",
+        "label": ""
+      }
+    ]
+  }
+]

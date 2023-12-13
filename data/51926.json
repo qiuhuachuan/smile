@@ -1,0 +1,178 @@
+[
+  {
+    "role": "client",
+    "content": "面对孩子和爸爸的矛盾，母亲该如何？",
+    "annotation": [
+      {
+        "sentence": "面对孩子和爸爸的矛盾，母亲该如何？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "爸爸是一直这种说话风格还是只是面对女儿才这样？",
+    "annotation": [
+      {
+        "sentence": "爸爸是一直这种说话风格还是只是面对女儿才这样？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "只有对女儿才这样，其他人他和蔼可亲。",
+    "annotation": [
+      {
+        "sentence": "只有对女儿才这样，其他人他和蔼可亲。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "在和别人的交流中，能积极正确地给予反馈也是一种能力。",
+    "annotation": [
+      {
+        "sentence": "在和别人的交流中，能积极正确地给予反馈也是一种能力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但他总是对女儿说一些不好听的话，女儿感到很委屈。",
+    "annotation": [
+      {
+        "sentence": "但他总是对女儿说一些不好听的话，女儿感到很委屈。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "妈妈可以私下和爸爸谈一下，让他转换一下自己说话的风格。",
+    "annotation": [
+      {
+        "sentence": "妈妈可以私下和爸爸谈一下，让他转换一下自己说话的风格。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你觉得怎么和爸爸谈比较好呢？",
+    "annotation": [
+      {
+        "sentence": "你觉得怎么和爸爸谈比较好呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可以用温和的口吻表达自己的感受，告诉他女儿受到了伤害，希望他能多给女儿一些鼓励和支持。",
+    "annotation": [
+      {
+        "sentence": "可以用温和的口吻表达自己的感受，告诉他女儿受到了伤害，希望他能多给女儿一些鼓励和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会找机会和他好好谈谈。",
+    "annotation": [
+      {
+        "sentence": "好的，我会找机会和他好好谈谈。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "而在和女儿的说话过程中呢，妈妈可以充当解释翻译的角色。",
+    "annotation": [
+      {
+        "sentence": "而在和女儿的说话过程中呢，妈妈可以充当解释翻译的角色。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "解释翻译的角色是怎么样的？",
+    "annotation": [
+      {
+        "sentence": "解释翻译的角色是怎么样的？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "比如，当爸爸说一些不好听的话时，妈妈可以缓和气氛，把爸爸对女儿的关心以更温和的方式表达给女儿听。",
+    "annotation": [
+      {
+        "sentence": "比如，当爸爸说一些不好听的话时，妈妈可以缓和气氛，把爸爸对女儿的关心以更温和的方式表达给女儿听。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这样可以润滑一下父女之间的关系吗？",
+    "annotation": [
+      {
+        "sentence": "这样可以润滑一下父女之间的关系吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，通过这种方式，父女之间的沟通会更加顺畅，关系也会更好。爱真的要大胆说出来才行，爸爸需要经常直白地表达爱。",
+    "annotation": [
+      {
+        "sentence": "是的，通过这种方式，父女之间的沟通会更加顺畅，关系也会更好。",
+        "label": ""
+      },
+      {
+        "sentence": "爱真的要大胆说出来才行，爸爸需要经常直白地表达爱。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，要勇敢地表达出爱。谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "我明白了，要勇敢地表达出爱。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气。中国人都太含蓄了，所以才容易给别人造成误会。希望你们能够通过沟通解决问题，建立更好的关系。",
+    "annotation": [
+      {
+        "sentence": "不客气。",
+        "label": ""
+      },
+      {
+        "sentence": "中国人都太含蓄了，所以才容易给别人造成误会。",
+        "label": ""
+      },
+      {
+        "sentence": "希望你们能够通过沟通解决问题，建立更好的关系。",
+        "label": ""
+      }
+    ]
+  }
+]

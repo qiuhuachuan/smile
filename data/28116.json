@@ -1,0 +1,132 @@
+[
+  {
+    "role": "client",
+    "content": "老房子要卖，心都在颤抖，有不哭的方法吗？",
+    "annotation": [
+      {
+        "sentence": "老房子要卖，心都在颤抖，有不哭的方法吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "发生了什么事情，需要卖老房子呢？",
+    "annotation": [
+      {
+        "sentence": "发生了什么事情，需要卖老房子呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是父母的房子，他们去世了，现在我要处理财产问题。",
+    "annotation": [
+      {
+        "sentence": "是父母的房子，他们去世了，现在我要处理财产问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是个非常艰难的过程，我明白你感到很难过。",
+    "annotation": [
+      {
+        "sentence": "这是个非常艰难的过程，我明白你感到很难过。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是啊，每收拾一样东西，心都在颤抖。",
+    "annotation": [
+      {
+        "sentence": "是啊，每收拾一样东西，心都在颤抖。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我能理解。你觉得哭泣是一种表达方式，但或许我们可以尝试其他方法帮助你处理情绪，比如说，做一份清单，慢慢处理事情。",
+    "annotation": [
+      {
+        "sentence": "我能理解。",
+        "label": ""
+      },
+      {
+        "sentence": "你觉得哭泣是一种表达方式，但或许我们可以尝试其他方法帮助你处理情绪，比如说，做一份清单，慢慢处理事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "听起来不错。但我还是很难受，眼睛都快哭瞎了。",
+    "annotation": [
+      {
+        "sentence": "听起来不错。",
+        "label": ""
+      },
+      {
+        "sentence": "但我还是很难受，眼睛都快哭瞎了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你可以试试深呼吸，放松一下身体，让自己冷静下来。或者，你想谈一些你和父母的美好回忆吗？",
+    "annotation": [
+      {
+        "sentence": "那你可以试试深呼吸，放松一下身体，让自己冷静下来。",
+        "label": ""
+      },
+      {
+        "sentence": "或者，你想谈一些你和父母的美好回忆吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "（沉默了一会儿）谢谢你，其实我想起了父母做过的事情，心情好多了。",
+    "annotation": [
+      {
+        "sentence": "（沉默了一会儿）谢谢你，其实我想起了父母做过的事情，心情好多了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这听起来很好。但记得，处理这个事情需要时间，不要太着急。如果你需要帮助，在任何时候都可以向我求助。",
+    "annotation": [
+      {
+        "sentence": "这听起来很好。",
+        "label": ""
+      },
+      {
+        "sentence": "但记得，处理这个事情需要时间，不要太着急。",
+        "label": ""
+      },
+      {
+        "sentence": "如果你需要帮助，在任何时候都可以向我求助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你，我真的很感激。",
+    "annotation": [
+      {
+        "sentence": "谢谢你，我真的很感激。",
+        "label": ""
+      }
+    ]
+  }
+]

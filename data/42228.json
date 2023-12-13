@@ -1,0 +1,186 @@
+[
+  {
+    "role": "client",
+    "content": "谈恋爱图玩？我感觉好烦这种人，这种想法正常吗？",
+    "annotation": [
+      {
+        "sentence": "谈恋爱图玩？",
+        "label": ""
+      },
+      {
+        "sentence": "我感觉好烦这种人，这种想法正常吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是正常的。这反应出对方对待感情很儿戏的游戏态度，激起了你的不安。",
+    "annotation": [
+      {
+        "sentence": "这是正常的。",
+        "label": ""
+      },
+      {
+        "sentence": "这反应出对方对待感情很儿戏的游戏态度，激起了你的不安。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我和她聊了很久，我其实对她挺钟意的。",
+    "annotation": [
+      {
+        "sentence": "是的，我和她聊了很久，我其实对她挺钟意的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "看来你是对她有一定好感的，才会对她的行为产生质疑。",
+    "annotation": [
+      {
+        "sentence": "看来你是对她有一定好感的，才会对她的行为产生质疑。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但她对待别人对她的付出儿儿戏戏，玩弄他人感情，让我觉得很失望。",
+    "annotation": [
+      {
+        "sentence": "但她对待别人对她的付出儿儿戏戏，玩弄他人感情，让我觉得很失望。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种行为确实会让人感到失望和不舒服。因为她的行为让你产生质疑她的品格。",
+    "annotation": [
+      {
+        "sentence": "这种行为确实会让人感到失望和不舒服。",
+        "label": ""
+      },
+      {
+        "sentence": "因为她的行为让你产生质疑她的品格。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我也开始怀疑她的真实意图了。",
+    "annotation": [
+      {
+        "sentence": "是的，我也开始怀疑她的真实意图了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "在这种情况下，不妨先放慢节奏，多多了解和观察一下她的行为，再做决定也不迟。",
+    "annotation": [
+      {
+        "sentence": "在这种情况下，不妨先放慢节奏，多多了解和观察一下她的行为，再做决定也不迟。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你觉得我该怎么去观察她呢？",
+    "annotation": [
+      {
+        "sentence": "你觉得我该怎么去观察她呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以留意她和其他人的互动，看她是否会重复类似的行为，也可以观察她的态度和言行是否一致。",
+    "annotation": [
+      {
+        "sentence": "你可以留意她和其他人的互动，看她是否会重复类似的行为，也可以观察她的态度和言行是否一致。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试着去观察她的行为和态度。谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试着去观察她的行为和态度。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我希望你能找到适合自己的人，不要因为一时的迷惑而错过了更好的机会。",
+    "annotation": [
+      {
+        "sentence": "不客气，我希望你能找到适合自己的人，不要因为一时的迷惑而错过了更好的机会。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励和支持，我会好好考虑的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励和支持，我会好好考虑的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "记住，不要因为一次的失望而丧失对爱情的信心，一定会有适合你的人出现的。",
+    "annotation": [
+      {
+        "sentence": "记住，不要因为一次的失望而丧失对爱情的信心，一定会有适合你的人出现的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，我会对自己有信心的。再次感谢你的帮助和关心。",
+    "annotation": [
+      {
+        "sentence": "嗯，我会对自己有信心的。",
+        "label": ""
+      },
+      {
+        "sentence": "再次感谢你的帮助和关心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，随时都可以来找我倾诉。祝你幸福！",
+    "annotation": [
+      {
+        "sentence": "不用客气，随时都可以来找我倾诉。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你幸福！",
+        "label": ""
+      }
+    ]
+  }
+]

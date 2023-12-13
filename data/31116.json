@@ -1,0 +1,154 @@
+[
+  {
+    "role": "client",
+    "content": "95年女生，北漂了两年，我该何去何从？",
+    "annotation": [
+      {
+        "sentence": "95年女生，北漂了两年，我该何去何从？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "说重点：该何去何从，最终还得你来决定！",
+    "annotation": [
+      {
+        "sentence": "说重点：该何去何从，最终还得你来决定！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得我自己很迷茫，不知道该怎么办。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得我自己很迷茫，不知道该怎么办。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "说次重点：很可能你觉得是你决定，实际上大概率是他人决定！",
+    "annotation": [
+      {
+        "sentence": "说次重点：很可能你觉得是你决定，实际上大概率是他人决定！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说的是什么意思？",
+    "annotation": [
+      {
+        "sentence": "你说的是什么意思？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "北漂两年的目标都不知道在哪，要想在北京撞大运，概率不高。这个留在北京的路径应该在毕业前就清楚的，起码大体方向是清楚的。",
+    "annotation": [
+      {
+        "sentence": "北漂两年的目标都不知道在哪，要想在北京撞大运，概率不高。",
+        "label": ""
+      },
+      {
+        "sentence": "这个留在北京的路径应该在毕业前就清楚的，起码大体方向是清楚的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我承认我在大学的时候就没有给自己设定好方向。",
+    "annotation": [
+      {
+        "sentence": "是的，我承认我在大学的时候就没有给自己设定好方向。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "重重点：已经发生了，既往不恋，应该聚焦与未来，澄清自己的价值、使命、意义。",
+    "annotation": [
+      {
+        "sentence": "重重点：已经发生了，既往不恋，应该聚焦与未来，澄清自己的价值、使命、意义。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，我现在确实需要重新思考自己的价值和意义是什么。",
+    "annotation": [
+      {
+        "sentence": "对，我现在确实需要重新思考自己的价值和意义是什么。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "然后把这些转换为可落地的、可实施、可量化的目标，然后分解大目标为小目标。",
+    "annotation": [
+      {
+        "sentence": "然后把这些转换为可落地的、可实施、可量化的目标，然后分解大目标为小目标。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我明白了，我需要将自己的目标转化为具体的行动计划。",
+    "annotation": [
+      {
+        "sentence": "好的，我明白了，我需要将自己的目标转化为具体的行动计划。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对的，投入的水深火热的美好生活中去！祝您好运。",
+    "annotation": [
+      {
+        "sentence": "对的，投入的水深火热的美好生活中去！",
+        "label": ""
+      },
+      {
+        "sentence": "祝您好运。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持和鼓励！我会努力实现自己的目标的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持和鼓励！",
+        "label": ""
+      },
+      {
+        "sentence": "我会努力实现自己的目标的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不明白的欢迎来信，我随时准备帮助你！",
+    "annotation": [
+      {
+        "sentence": "不明白的欢迎来信，我随时准备帮助你！",
+        "label": ""
+      }
+    ]
+  }
+]

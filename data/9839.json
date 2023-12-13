@@ -1,0 +1,182 @@
+[
+  {
+    "role": "client",
+    "content": "人多的场合就放不开自己，怎么缓解这种情况？",
+    "annotation": [
+      {
+        "sentence": "人多的场合就放不开自己，怎么缓解这种情况？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我了解你的感受，我之前也有过类似的困扰。可以试试以下方法来缓解这种情况。",
+    "annotation": [
+      {
+        "sentence": "我了解你的感受，我之前也有过类似的困扰。",
+        "label": ""
+      },
+      {
+        "sentence": "可以试试以下方法来缓解这种情况。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "请告诉我具体怎么做。",
+    "annotation": [
+      {
+        "sentence": "请告诉我具体怎么做。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先，你可以在场合前做好准备。比如，老板请客吃饭，可以提前准备一些话题，自信地参与到讨论中去。",
+    "annotation": [
+      {
+        "sentence": "首先，你可以在场合前做好准备。",
+        "label": ""
+      },
+      {
+        "sentence": "比如，老板请客吃饭，可以提前准备一些话题，自信地参与到讨论中去。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这样确实可以让我感到放松一些。",
+    "annotation": [
+      {
+        "sentence": "这样确实可以让我感到放松一些。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其次，你可以通过对着镜子练习演讲来提高自信心，观察自己的表现是否得体自信。",
+    "annotation": [
+      {
+        "sentence": "其次，你可以通过对着镜子练习演讲来提高自信心，观察自己的表现是否得体自信。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我应该多久练习一次呢？",
+    "annotation": [
+      {
+        "sentence": "那我应该多久练习一次呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "建议你每天都花一些时间对着镜子讲述一些话题，这样可以帮助你更好地包装自己。",
+    "annotation": [
+      {
+        "sentence": "建议你每天都花一些时间对着镜子讲述一些话题，这样可以帮助你更好地包装自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试试的。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试试的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "此外，你可以把人群当作一排五颜六色的气球，将你的表演看作是给这些气球演讲，这样你的焦虑感可能会减轻一些。",
+    "annotation": [
+      {
+        "sentence": "此外，你可以把人群当作一排五颜六色的气球，将你的表演看作是给这些气球演讲，这样你的焦虑感可能会减轻一些。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这个方法很有趣，我会尝试一下。",
+    "annotation": [
+      {
+        "sentence": "这个方法很有趣，我会尝试一下。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "还有一点，不要太过在意别人的眼光，去展现自己就好了。无论好坏，这对你来说都是一种成长。",
+    "annotation": [
+      {
+        "sentence": "还有一点，不要太过在意别人的眼光，去展现自己就好了。",
+        "label": ""
+      },
+      {
+        "sentence": "无论好坏，这对你来说都是一种成长。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说得对，我需要放下对别人的评判。",
+    "annotation": [
+      {
+        "sentence": "你说得对，我需要放下对别人的评判。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "基本上做到了这些，你就不会那么害怕了。另外，多经历一些大场合的经历，会逐渐让你变得更自信。",
+    "annotation": [
+      {
+        "sentence": "基本上做到了这些，你就不会那么害怕了。",
+        "label": ""
+      },
+      {
+        "sentence": "另外，多经历一些大场合的经历，会逐渐让你变得更自信。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会积极参与更多的大场合，谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "我会积极参与更多的大场合，谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，希望我的建议对你有所帮助。你一定能够克服这个困扰的。",
+    "annotation": [
+      {
+        "sentence": "不客气，希望我的建议对你有所帮助。",
+        "label": ""
+      },
+      {
+        "sentence": "你一定能够克服这个困扰的。",
+        "label": ""
+      }
+    ]
+  }
+]

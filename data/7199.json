@@ -1,0 +1,186 @@
+[
+  {
+    "role": "client",
+    "content": "职场中一定要讨好所有人吗？",
+    "annotation": [
+      {
+        "sentence": "职场中一定要讨好所有人吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "作为职场小白，其实不用刻意去拉进关系，更需要看对不对脾气。",
+    "annotation": [
+      {
+        "sentence": "作为职场小白，其实不用刻意去拉进关系，更需要看对不对脾气。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那么我该如何看清每个人的脾气呢？",
+    "annotation": [
+      {
+        "sentence": "那么我该如何看清每个人的脾气呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人的气场不同，职场也不是完全职业化的地方，也有真挚的友情存在。",
+    "annotation": [
+      {
+        "sentence": "每个人的气场不同，职场也不是完全职业化的地方，也有真挚的友情存在。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "如果我发现有些同事与我完全谈不来，我该怎么办？",
+    "annotation": [
+      {
+        "sentence": "如果我发现有些同事与我完全谈不来，我该怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用刻意讨好别人，多虚心请教，多帮助别人，但要坚持个人观点。",
+    "annotation": [
+      {
+        "sentence": "不用刻意讨好别人，多虚心请教，多帮助别人，但要坚持个人观点。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "帮助别人要有底线吗？",
+    "annotation": [
+      {
+        "sentence": "帮助别人要有底线吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，帮助是好的，但是需要救急不救懒，有些事情还是要坚持个人观点。",
+    "annotation": [
+      {
+        "sentence": "是的，帮助是好的，但是需要救急不救懒，有些事情还是要坚持个人观点。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那么同事之间该保持怎样的关系呢？",
+    "annotation": [
+      {
+        "sentence": "那么同事之间该保持怎样的关系呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "同事之间不用刻意靠近，也不刻意疏远，主要看你们之间是否存在利益冲突。",
+    "annotation": [
+      {
+        "sentence": "同事之间不用刻意靠近，也不刻意疏远，主要看你们之间是否存在利益冲突。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "如果没有利益冲突，我们该如何相处呢？",
+    "annotation": [
+      {
+        "sentence": "如果没有利益冲突，我们该如何相处呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果不是竞争对手，大家互帮互助还是很好的，特别是进入一个新的地方。",
+    "annotation": [
+      {
+        "sentence": "如果不是竞争对手，大家互帮互助还是很好的，特别是进入一个新的地方。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我应该怎样才能更快地适应新环境呢？",
+    "annotation": [
+      {
+        "sentence": "那我应该怎样才能更快地适应新环境呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "多请教前辈，是让你更快融入集体的好方法。同时，你也要看是否合得来对脾气的性格。",
+    "annotation": [
+      {
+        "sentence": "多请教前辈，是让你更快融入集体的好方法。",
+        "label": ""
+      },
+      {
+        "sentence": "同时，你也要看是否合得来对脾气的性格。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "所以就是说，和合得来的人可以成为真挚的朋友，对吗？",
+    "annotation": [
+      {
+        "sentence": "所以就是说，和合得来的人可以成为真挚的朋友，对吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，在工作中，同事之间常常需要互相帮助，不论大小忙，真心帮助别人对他们来说可能只是举手之劳，却能解决你的困扰。",
+    "annotation": [
+      {
+        "sentence": "是的，在工作中，同事之间常常需要互相帮助，不论大小忙，真心帮助别人对他们来说可能只是举手之劳，却能解决你的困扰。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，希望我的职业生涯能够顺利，心情愉快。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，希望我的职业生涯能够顺利，心情愉快。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "祝你事业顺心，心情愉快。",
+    "annotation": [
+      {
+        "sentence": "祝你事业顺心，心情愉快。",
+        "label": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "role": "client",
+    "content": "讨厌集体生活，感觉没个人空间，被吵得一个头两个大。",
+    "annotation": [
+      {
+        "sentence": "讨厌集体生活，感觉没个人空间，被吵得一个头两个大。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你好，听说你感到很烦恼，想和我聊聊吗？",
+    "annotation": [
+      {
+        "sentence": "你好，听说你感到很烦恼，想和我聊聊吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，真的很困扰。",
+    "annotation": [
+      {
+        "sentence": "是的，真的很困扰。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先，我可以理解你的感受，宿舍本来就是一个很吵的地方。",
+    "annotation": [
+      {
+        "sentence": "首先，我可以理解你的感受，宿舍本来就是一个很吵的地方。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我真的很讨厌几个室友的行为，每天都会玩视频、抱怨、骂人，还搞小团体。",
+    "annotation": [
+      {
+        "sentence": "但是我真的很讨厌几个室友的行为，每天都会玩视频、抱怨、骂人，还搞小团体。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我明白你的意思。可能你不太能接受他们的缺点，而盖过了他们的优点。所以你感到很生气。",
+    "annotation": [
+      {
+        "sentence": "我明白你的意思。",
+        "label": ""
+      },
+      {
+        "sentence": "可能你不太能接受他们的缺点，而盖过了他们的优点。",
+        "label": ""
+      },
+      {
+        "sentence": "所以你感到很生气。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "没错，我真的被吵得很不开心。",
+    "annotation": [
+      {
+        "sentence": "没错，我真的被吵得很不开心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "有时候，我们无法改变别人的行为或者言语。但是可以通过改变我们自己的方式来调整情绪。比如，你可以戴耳机或者找其他宿舍住。",
+    "annotation": [
+      {
+        "sentence": "有时候，我们无法改变别人的行为或者言语。",
+        "label": ""
+      },
+      {
+        "sentence": "但是可以通过改变我们自己的方式来调整情绪。",
+        "label": ""
+      },
+      {
+        "sentence": "比如，你可以戴耳机或者找其他宿舍住。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我已经戴了耳机，但是他们还是声音太大了。",
+    "annotation": [
+      {
+        "sentence": "可是我已经戴了耳机，但是他们还是声音太大了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你可以叫他们小声点呢？或者叫大家一起来商量一个解决方案？",
+    "annotation": [
+      {
+        "sentence": "那你可以叫他们小声点呢？",
+        "label": ""
+      },
+      {
+        "sentence": "或者叫大家一起来商量一个解决方案？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我试过了，但是他们还是不听。",
+    "annotation": [
+      {
+        "sentence": "我试过了，但是他们还是不听。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你可以尝试自己调整情绪，比如做一些喜欢的活动，和朋友聊天，缓解一下。",
+    "annotation": [
+      {
+        "sentence": "那你可以尝试自己调整情绪，比如做一些喜欢的活动，和朋友聊天，缓解一下。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，我会尝试的。谢谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "嗯，我会尝试的。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的建议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不过也要注意，我们生活在社会中，每个人都有自己的想法和行为方式。我们很难改变别人，但是可以改变自己的看法和态度。",
+    "annotation": [
+      {
+        "sentence": "不过也要注意，我们生活在社会中，每个人都有自己的想法和行为方式。",
+        "label": ""
+      },
+      {
+        "sentence": "我们很难改变别人，但是可以改变自己的看法和态度。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了。谢谢你的帮助。",
+    "annotation": [
+      {
+        "sentence": "我明白了。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的帮助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "另外，人们常说“人际关系是相互的”，你也可以考虑和他们沟通，说出你的想法和感受。",
+    "annotation": [
+      {
+        "sentence": "另外，人们常说“人际关系是相互的”，你也可以考虑和他们沟通，说出你的想法和感受。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我不知道该怎么说，怕他们会不高兴。",
+    "annotation": [
+      {
+        "sentence": "但是我不知道该怎么说，怕他们会不高兴。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以先试着和他们友好沟通，不要指责，给出自己的想法和感受。说不定他们也会理解你的想法，共同解决问题。",
+    "annotation": [
+      {
+        "sentence": "你可以先试着和他们友好沟通，不要指责，给出自己的想法和感受。",
+        "label": ""
+      },
+      {
+        "sentence": "说不定他们也会理解你的想法，共同解决问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试着和他们沟通的。谢谢你的帮助。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试着和他们沟通的。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的帮助。",
+        "label": ""
+      }
+    ]
+  }
+]

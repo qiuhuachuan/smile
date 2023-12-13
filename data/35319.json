@@ -1,0 +1,250 @@
+[
+  {
+    "role": "client",
+    "content": "我怕自己不是无所不能的，没法接受比别人差？",
+    "annotation": [
+      {
+        "sentence": "我怕自己不是无所不能的，没法接受比别人差？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "人从何而生？",
+    "annotation": [
+      {
+        "sentence": "人从何而生？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "人从谷而生。",
+    "annotation": [
+      {
+        "sentence": "人从谷而生。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那五谷从何而生？",
+    "annotation": [
+      {
+        "sentence": "那五谷从何而生？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "五谷从四大火风而生。",
+    "annotation": [
+      {
+        "sentence": "五谷从四大火风而生。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "四大火风从何而生？",
+    "annotation": [
+      {
+        "sentence": "四大火风从何而生？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "四大火风从空而生。",
+    "annotation": [
+      {
+        "sentence": "四大火风从空而生。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那空从何而生？",
+    "annotation": [
+      {
+        "sentence": "那空从何而生？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "空从无所有而生。",
+    "annotation": [
+      {
+        "sentence": "空从无所有而生。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那无所有又是从何而生？",
+    "annotation": [
+      {
+        "sentence": "那无所有又是从何而生？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "无所有是从自然而生。",
+    "annotation": [
+      {
+        "sentence": "无所有是从自然而生。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "明白了。孩子回到自然，慢慢调整。你的压力大了，那只是释放方式之一，换一个试试。祝福你。",
+    "annotation": [
+      {
+        "sentence": "明白了。",
+        "label": ""
+      },
+      {
+        "sentence": "孩子回到自然，慢慢调整。",
+        "label": ""
+      },
+      {
+        "sentence": "你的压力大了，那只是释放方式之一，换一个试试。",
+        "label": ""
+      },
+      {
+        "sentence": "祝福你。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持和鼓励。我知道释放压力有很多种方式，我需要找到一种更健康的方式来调整自己。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持和鼓励。",
+        "label": ""
+      },
+      {
+        "sentence": "我知道释放压力有很多种方式，我需要找到一种更健康的方式来调整自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没错，每个人都有自己的方法来释放压力。你可以尝试一些体育运动、艺术创作、与朋友交流等方式，找到适合自己的方法。",
+    "annotation": [
+      {
+        "sentence": "没错，每个人都有自己的方法来释放压力。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以尝试一些体育运动、艺术创作、与朋友交流等方式，找到适合自己的方法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "其实我一直想参加一些体育活动，但总是担心自己会不会比别人差，不知道怎么克服这种担忧。",
+    "annotation": [
+      {
+        "sentence": "其实我一直想参加一些体育活动，但总是担心自己会不会比别人差，不知道怎么克服这种担忧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人都有自己的优点和长处，不要过于自卑。你可以从小目标开始，慢慢积累自信。参加体育活动可以锻炼身体，培养团队合作意识，让你更好地成长。",
+    "annotation": [
+      {
+        "sentence": "每个人都有自己的优点和长处，不要过于自卑。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以从小目标开始，慢慢积累自信。",
+        "label": ""
+      },
+      {
+        "sentence": "参加体育活动可以锻炼身体，培养团队合作意识，让你更好地成长。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说得对，我要试试从小目标开始，慢慢提升自己的信心。还有，你刚才提到了艺术创作，我也对此很感兴趣，你有什么建议吗？",
+    "annotation": [
+      {
+        "sentence": "你说得对，我要试试从小目标开始，慢慢提升自己的信心。",
+        "label": ""
+      },
+      {
+        "sentence": "还有，你刚才提到了艺术创作，我也对此很感兴趣，你有什么建议吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "艺术创作可以让你表达内心的情感，释放压力。你可以选择一种你喜欢的艺术形式，比如绘画、写作、音乐等，然后慢慢培养自己的技能，创作出属于自己的作品。",
+    "annotation": [
+      {
+        "sentence": "艺术创作可以让你表达内心的情感，释放压力。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以选择一种你喜欢的艺术形式，比如绘画、写作、音乐等，然后慢慢培养自己的技能，创作出属于自己的作品。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "听起来很有意思，我会开始探索艺术创作，希望能够找到自己的特长和乐趣。谢谢你的建议和支持。",
+    "annotation": [
+      {
+        "sentence": "听起来很有意思，我会开始探索艺术创作，希望能够找到自己的特长和乐趣。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的建议和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，我相信你能够找到属于自己的方式来调整自己。记住，每个人都是独一无二的，无需和别人比较。祝你一切顺利！",
+    "annotation": [
+      {
+        "sentence": "不用客气，我相信你能够找到属于自己的方式来调整自己。",
+        "label": ""
+      },
+      {
+        "sentence": "记住，每个人都是独一无二的，无需和别人比较。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你一切顺利！",
+        "label": ""
+      }
+    ]
+  }
+]

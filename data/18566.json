@@ -1,0 +1,164 @@
+[
+  {
+    "role": "client",
+    "content": "想做什么事情的时候，为什么我总是否定自己？",
+    "annotation": [
+      {
+        "sentence": "想做什么事情的时候，为什么我总是否定自己？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你总是否定自己，可能是因为你在认知上有偏差，或者你对自己比较自卑。",
+    "annotation": [
+      {
+        "sentence": "你总是否定自己，可能是因为你在认知上有偏差，或者你对自己比较自卑。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我总觉得自己不够好，不够有能力，做不好事情。",
+    "annotation": [
+      {
+        "sentence": "是的，我总觉得自己不够好，不够有能力，做不好事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当你想做一件事情的时候，你总是要怀疑自己，怀疑自己的能力。",
+    "annotation": [
+      {
+        "sentence": "当你想做一件事情的时候，你总是要怀疑自己，怀疑自己的能力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，而且当我相信自己有能力去做的时候，也会怀疑自己的运气。",
+    "annotation": [
+      {
+        "sentence": "对，而且当我相信自己有能力去做的时候，也会怀疑自己的运气。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其实最好的方法就是勇敢地面对这种情况。",
+    "annotation": [
+      {
+        "sentence": "其实最好的方法就是勇敢地面对这种情况。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可我总是不相信自己可以做到这件事情。",
+    "annotation": [
+      {
+        "sentence": "可我总是不相信自己可以做到这件事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那就偏偏让自己去做，面对自己不相信的事情。",
+    "annotation": [
+      {
+        "sentence": "那就偏偏让自己去做，面对自己不相信的事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "也许我需要得到更多的认同和肯定，才能确定自己的价值吧。",
+    "annotation": [
+      {
+        "sentence": "也许我需要得到更多的认同和肯定，才能确定自己的价值吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，你可以尝试寻求更多的认同和肯定，通过一次又一次的尝试来获得它们。",
+    "annotation": [
+      {
+        "sentence": "是的，你可以尝试寻求更多的认同和肯定，通过一次又一次的尝试来获得它们。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我害怕失败，怕自己不行。",
+    "annotation": [
+      {
+        "sentence": "我害怕失败，怕自己不行。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "人越害怕什么，就要去面对什么。你比你想象得更加优秀。",
+    "annotation": [
+      {
+        "sentence": "人越害怕什么，就要去面对什么。",
+        "label": ""
+      },
+      {
+        "sentence": "你比你想象得更加优秀。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励！但我在去做之前还需要有心理准备，因为这件事情可能会失败。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励！",
+        "label": ""
+      },
+      {
+        "sentence": "但我在去做之前还需要有心理准备，因为这件事情可能会失败。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没关系，失败只是成功的一部分。记住“胜败乃兵家常事”。",
+    "annotation": [
+      {
+        "sentence": "没关系，失败只是成功的一部分。",
+        "label": ""
+      },
+      {
+        "sentence": "记住“胜败乃兵家常事”。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的帮助和祝福！",
+    "annotation": [
+      {
+        "sentence": "谢谢你的帮助和祝福！",
+        "label": ""
+      }
+    ]
+  }
+]

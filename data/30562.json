@@ -1,0 +1,192 @@
+[
+  {
+    "role": "client",
+    "content": "吵架已经过去了，但还是心里难过，怎么办？",
+    "annotation": [
+      {
+        "sentence": "吵架已经过去了，但还是心里难过，怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可以看出，你对男友还是挺有感情的。",
+    "annotation": [
+      {
+        "sentence": "可以看出，你对男友还是挺有感情的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我们现在已经和好了，但是我还是觉得内心很难过。",
+    "annotation": [
+      {
+        "sentence": "是的，我们现在已经和好了，但是我还是觉得内心很难过。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "吵架对情侣来说是正常的，这段过程是加强理解和沟通的机会。",
+    "annotation": [
+      {
+        "sentence": "吵架对情侣来说是正常的，这段过程是加强理解和沟通的机会。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "吵架之后我就告诉自己吵架时说的话他也不是故意的，但我还是觉得委屈。",
+    "annotation": [
+      {
+        "sentence": "吵架之后我就告诉自己吵架时说的话他也不是故意的，但我还是觉得委屈。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "吵完架以后多少会感觉难过，证明你还是很在意他。",
+    "annotation": [
+      {
+        "sentence": "吵完架以后多少会感觉难过，证明你还是很在意他。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "确实是，我对他很在意。",
+    "annotation": [
+      {
+        "sentence": "确实是，我对他很在意。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "两人之间的摩擦也是真实的爱情体现，虽然有一些痛苦，但也是为了更甜蜜的相处。",
+    "annotation": [
+      {
+        "sentence": "两人之间的摩擦也是真实的爱情体现，虽然有一些痛苦，但也是为了更甜蜜的相处。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是现在拥抱和亲吻对我来说没有以前那么有喜悦的感觉了。",
+    "annotation": [
+      {
+        "sentence": "可是现在拥抱和亲吻对我来说没有以前那么有喜悦的感觉了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是正常的，吵架后还需要一些时间来调节情绪。",
+    "annotation": [
+      {
+        "sentence": "这是正常的，吵架后还需要一些时间来调节情绪。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我希望能够找到更多安慰。",
+    "annotation": [
+      {
+        "sentence": "我希望能够找到更多安慰。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以和男友分享你内心的感受，通过沟通能更好地了解对方。",
+    "annotation": [
+      {
+        "sentence": "你可以和男友分享你内心的感受，通过沟通能更好地了解对方。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我也可以找闺蜜倾诉一下心中的感受吗？",
+    "annotation": [
+      {
+        "sentence": "我也可以找闺蜜倾诉一下心中的感受吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当然可以，有人倾听会减轻你的烦恼。",
+    "annotation": [
+      {
+        "sentence": "当然可以，有人倾听会减轻你的烦恼。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我还可以进行一些运动来调节心情吗？",
+    "annotation": [
+      {
+        "sentence": "我还可以进行一些运动来调节心情吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，运动可以让你释放快乐素，让自己更快乐。",
+    "annotation": [
+      {
+        "sentence": "是的，运动可以让你释放快乐素，让自己更快乐。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会试着多出去走走，做一些适当的运动。",
+    "annotation": [
+      {
+        "sentence": "我会试着多出去走走，做一些适当的运动。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "另外，你也可以适当转移注意力，让自己充实起来，减少想不愉快事情的时间。",
+    "annotation": [
+      {
+        "sentence": "另外，你也可以适当转移注意力，让自己充实起来，减少想不愉快事情的时间。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会尽量让自己忙碌起来，感谢你的建议。",
+    "annotation": [
+      {
+        "sentence": "好的，我会尽量让自己忙碌起来，感谢你的建议。",
+        "label": ""
+      }
+    ]
+  }
+]

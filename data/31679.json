@@ -1,0 +1,190 @@
+[
+  {
+    "role": "client",
+    "content": "为什么被忽视的总是我？",
+    "annotation": [
+      {
+        "sentence": "为什么被忽视的总是我？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人都希望被关注和重视，被忽视的感受确实令人痛苦。",
+    "annotation": [
+      {
+        "sentence": "每个人都希望被关注和重视，被忽视的感受确实令人痛苦。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "和超过两个以上的朋友在一起时，自己总是去接受，妥协。",
+    "annotation": [
+      {
+        "sentence": "和超过两个以上的朋友在一起时，自己总是去接受，妥协。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "妥协是为了维持和谐的关系，但有时候也需要表达自己的意见和需求。",
+    "annotation": [
+      {
+        "sentence": "妥协是为了维持和谐的关系，但有时候也需要表达自己的意见和需求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "当一件事情时间或是某方面有了冲突时，自己也总是最常被抛弃的一个。",
+    "annotation": [
+      {
+        "sentence": "当一件事情时间或是某方面有了冲突时，自己也总是最常被抛弃的一个。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种情况可能是因为你在关系中给予的权重比较低，让别人觉得你容易被排斥。",
+    "annotation": [
+      {
+        "sentence": "这种情况可能是因为你在关系中给予的权重比较低，让别人觉得你容易被排斥。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "不知道怎么改变现状。",
+    "annotation": [
+      {
+        "sentence": "不知道怎么改变现状。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "改变现状需要从提高自信心和表达能力开始。你可以尝试在关系中更坚定地表达自己的态度和需求。",
+    "annotation": [
+      {
+        "sentence": "改变现状需要从提高自信心和表达能力开始。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以尝试在关系中更坚定地表达自己的态度和需求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可能是我没有令人眼前一亮的能力或长相。",
+    "annotation": [
+      {
+        "sentence": "可能是我没有令人眼前一亮的能力或长相。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人都有自己独特的魅力和才华，不仅仅局限于外表或能力。你可以尝试发掘和展现自己的优点和特点。",
+    "annotation": [
+      {
+        "sentence": "每个人都有自己独特的魅力和才华，不仅仅局限于外表或能力。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以尝试发掘和展现自己的优点和特点。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "又或者对于他人而言，一直没有那么重要。",
+    "annotation": [
+      {
+        "sentence": "又或者对于他人而言，一直没有那么重要。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "别人对你的看法不能决定你的价值。你的存在和感受都是有意义和重要的。自我肯定是非常重要的。",
+    "annotation": [
+      {
+        "sentence": "别人对你的看法不能决定你的价值。",
+        "label": ""
+      },
+      {
+        "sentence": "你的存在和感受都是有意义和重要的。",
+        "label": ""
+      },
+      {
+        "sentence": "自我肯定是非常重要的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但我总觉得自己没有足够的勇气去改变。",
+    "annotation": [
+      {
+        "sentence": "但我总觉得自己没有足够的勇气去改变。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "改变需要时间和努力，勇气可以慢慢培养。你可以从小的改变和挑战开始，逐渐提升自己的勇气。",
+    "annotation": [
+      {
+        "sentence": "改变需要时间和努力，勇气可以慢慢培养。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以从小的改变和挑战开始，逐渐提升自己的勇气。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白了，谢谢你的支持和建议。我会尝试从现在开始改变。",
+    "annotation": [
+      {
+        "sentence": "我明白了，谢谢你的支持和建议。",
+        "label": ""
+      },
+      {
+        "sentence": "我会尝试从现在开始改变。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很高兴能帮到你，相信你能走出困境。记得坚持，相信自己，祝你好运！",
+    "annotation": [
+      {
+        "sentence": "很高兴能帮到你，相信你能走出困境。",
+        "label": ""
+      },
+      {
+        "sentence": "记得坚持，相信自己，祝你好运！",
+        "label": ""
+      }
+    ]
+  }
+]

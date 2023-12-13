@@ -1,0 +1,242 @@
+[
+  {
+    "role": "client",
+    "content": "跟男朋友的相处，认识到问题后，如何真正做出改变？",
+    "annotation": [
+      {
+        "sentence": "跟男朋友的相处，认识到问题后，如何真正做出改变？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你能描述一下让你有这种感受的情景吗？",
+    "annotation": [
+      {
+        "sentence": "你能描述一下让你有这种感受的情景吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "每次男朋友要出去吃饭或者应酬，我就会有点不开心，想让他多陪我。",
+    "annotation": [
+      {
+        "sentence": "每次男朋友要出去吃饭或者应酬，我就会有点不开心，想让他多陪我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你觉得是因为他陪你的时间不够吗？",
+    "annotation": [
+      {
+        "sentence": "你觉得是因为他陪你的时间不够吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的。",
+    "annotation": [
+      {
+        "sentence": "是的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那么你有没有想过跟他谈谈你的感受呢？",
+    "annotation": [
+      {
+        "sentence": "那么你有没有想过跟他谈谈你的感受呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我谈了，他也说会尽量多陪我的。",
+    "annotation": [
+      {
+        "sentence": "我谈了，他也说会尽量多陪我的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那么你现在还会因为这件事不开心吗？",
+    "annotation": [
+      {
+        "sentence": "那么你现在还会因为这件事不开心吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "其实不太会了，但我还是想改掉这种想法。",
+    "annotation": [
+      {
+        "sentence": "其实不太会了，但我还是想改掉这种想法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "看到你的描述似乎你认同了妈妈某些行为，想掌控周围的一切，这对你来说意味着什么？",
+    "annotation": [
+      {
+        "sentence": "看到你的描述似乎你认同了妈妈某些行为，想掌控周围的一切，这对你来说意味着什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我想控制周围的情况，让它们符合自己的意愿。",
+    "annotation": [
+      {
+        "sentence": "我想控制周围的情况，让它们符合自己的意愿。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "了解。但你有没有想过这可能是因为过去的经历，比如被妈妈强调了控制力？",
+    "annotation": [
+      {
+        "sentence": "了解。",
+        "label": ""
+      },
+      {
+        "sentence": "但你有没有想过这可能是因为过去的经历，比如被妈妈强调了控制力？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的。我从小就觉得被妈妈控制了。",
+    "annotation": [
+      {
+        "sentence": "是的。",
+        "label": ""
+      },
+      {
+        "sentence": "我从小就觉得被妈妈控制了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你能描述一下被妈妈控制的情景吗？",
+    "annotation": [
+      {
+        "sentence": "你能描述一下被妈妈控制的情景吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "比如她总是要求我按照她的意愿去做事情。",
+    "annotation": [
+      {
+        "sentence": "比如她总是要求我按照她的意愿去做事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那么你为什么想要掌控周围的事情呢？",
+    "annotation": [
+      {
+        "sentence": "那么你为什么想要掌控周围的事情呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得只有这样才能让自己得到安全感。",
+    "annotation": [
+      {
+        "sentence": "我觉得只有这样才能让自己得到安全感。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "了解。但你有考虑过为什么想要掌控周围的事情会给你带来安全感吗？",
+    "annotation": [
+      {
+        "sentence": "了解。",
+        "label": ""
+      },
+      {
+        "sentence": "但你有考虑过为什么想要掌控周围的事情会给你带来安全感吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可能是因为我害怕失去控制后失去安全感。",
+    "annotation": [
+      {
+        "sentence": "可能是因为我害怕失去控制后失去安全感。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这很正常。但是了解自己内心的恐惧和幻想是非常重要的，这样才能够真正改变自己的问题。你考虑过找咨询师帮你理解和明白自己的问题吗？",
+    "annotation": [
+      {
+        "sentence": "这很正常。",
+        "label": ""
+      },
+      {
+        "sentence": "但是了解自己内心的恐惧和幻想是非常重要的，这样才能够真正改变自己的问题。",
+        "label": ""
+      },
+      {
+        "sentence": "你考虑过找咨询师帮你理解和明白自己的问题吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "还没有考虑过。",
+    "annotation": [
+      {
+        "sentence": "还没有考虑过。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我建议你可以找个合适的咨询师帮你，这样更有利于你的成长和改变。",
+    "annotation": [
+      {
+        "sentence": "我建议你可以找个合适的咨询师帮你，这样更有利于你的成长和改变。",
+        "label": ""
+      }
+    ]
+  }
+]

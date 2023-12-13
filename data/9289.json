@@ -1,0 +1,164 @@
+[
+  {
+    "role": "client",
+    "content": "我28岁了，人生没有目标，都是别人告诉我该做什么？",
+    "annotation": [
+      {
+        "sentence": "我28岁了，人生没有目标，都是别人告诉我该做什么？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，我能理解你的感受。没有自己的人生目标，让你觉得缺乏意义。",
+    "annotation": [
+      {
+        "sentence": "是的，我能理解你的感受。",
+        "label": ""
+      },
+      {
+        "sentence": "没有自己的人生目标，让你觉得缺乏意义。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得自己的人生好像被别人左右着，没有自由。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得自己的人生好像被别人左右着，没有自由。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "想要找回人生的自主权，你可以试着与身边的那些“别人”脱离关系。",
+    "annotation": [
+      {
+        "sentence": "想要找回人生的自主权，你可以试着与身边的那些“别人”脱离关系。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "脱离关系？怎么做呢？",
+    "annotation": [
+      {
+        "sentence": "脱离关系？",
+        "label": ""
+      },
+      {
+        "sentence": "怎么做呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可以考虑租房搬出去，不再和“别人”同住。不要依赖“别人”的经济支持，自己独立生活。",
+    "annotation": [
+      {
+        "sentence": "可以考虑租房搬出去，不再和“别人”同住。",
+        "label": ""
+      },
+      {
+        "sentence": "不要依赖“别人”的经济支持，自己独立生活。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这个方法听起来不错，但是我担心自己是否能够独立面对一切。",
+    "annotation": [
+      {
+        "sentence": "这个方法听起来不错，但是我担心自己是否能够独立面对一切。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "28岁还很年轻，你有足够的时间和机会逐渐适应独立生活。相信自己，你是可以做到的。",
+    "annotation": [
+      {
+        "sentence": "28岁还很年轻，你有足够的时间和机会逐渐适应独立生活。",
+        "label": ""
+      },
+      {
+        "sentence": "相信自己，你是可以做到的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "确实，我应该给自己一个机会去尝试。也许这是我重新找到人生意义的一步。",
+    "annotation": [
+      {
+        "sentence": "确实，我应该给自己一个机会去尝试。",
+        "label": ""
+      },
+      {
+        "sentence": "也许这是我重新找到人生意义的一步。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，给自己一个机会去摆脱束缚，才能发现生活的意义。加油！",
+    "annotation": [
+      {
+        "sentence": "是的，给自己一个机会去摆脱束缚，才能发现生活的意义。",
+        "label": ""
+      },
+      {
+        "sentence": "加油！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励和支持。我会努力的！",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励和支持。",
+        "label": ""
+      },
+      {
+        "sentence": "我会努力的！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，我相信你能够找到属于自己的人生目标。如果有需要，随时来找我交流。",
+    "annotation": [
+      {
+        "sentence": "不客气，我相信你能够找到属于自己的人生目标。",
+        "label": ""
+      },
+      {
+        "sentence": "如果有需要，随时来找我交流。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的热心帮助，我一定会的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的热心帮助，我一定会的。",
+        "label": ""
+      }
+    ]
+  }
+]

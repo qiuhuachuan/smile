@@ -1,0 +1,22 @@
+[
+  {
+    "role": "client",
+    "content": "被无法发出的情绪卡住了怎么办？",
+    "annotation": [
+      {
+        "sentence": "被无法发出的情绪卡住了怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你好，听说你最近有点焦虑和困扰，可以告诉我具体的情况吗？",
+    "annotation": [
+      {
+        "sentence": "你好，听说你最近有点焦虑和困扰，可以告诉我具体的情况吗？",
+        "label": ""
+      }
+    ]
+  }
+]

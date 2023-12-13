@@ -1,0 +1,222 @@
+[
+  {
+    "role": "client",
+    "content": "有孩子后性生活大不如前？",
+    "annotation": [
+      {
+        "sentence": "有孩子后性生活大不如前？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我不大确定你是丈夫还是妻子。男女的角色、生理随着年龄增长，会有一些差异。",
+    "annotation": [
+      {
+        "sentence": "我不大确定你是丈夫还是妻子。",
+        "label": ""
+      },
+      {
+        "sentence": "男女的角色、生理随着年龄增长，会有一些差异。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我是妻子。但为什么女生在生了孩子后，性生活会变得更好呢？",
+    "annotation": [
+      {
+        "sentence": "我是妻子。",
+        "label": ""
+      },
+      {
+        "sentence": "但为什么女生在生了孩子后，性生活会变得更好呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "女生在生完孩子后可能存在性欲被发掘、打开的情况，而变得欲望更强。",
+    "annotation": [
+      {
+        "sentence": "女生在生完孩子后可能存在性欲被发掘、打开的情况，而变得欲望更强。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那对于丈夫来说呢？为什么他们的性欲会下降？",
+    "annotation": [
+      {
+        "sentence": "那对于丈夫来说呢？",
+        "label": ""
+      },
+      {
+        "sentence": "为什么他们的性欲会下降？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "男人随着年龄增长，可能欲望呈下降趋势，当然也有伴侣方面的一些原因。",
+    "annotation": [
+      {
+        "sentence": "男人随着年龄增长，可能欲望呈下降趋势，当然也有伴侣方面的一些原因。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那为什么有的夫妻的性生活一直保持得较好呢？",
+    "annotation": [
+      {
+        "sentence": "那为什么有的夫妻的性生活一直保持得较好呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "有的夫妻关于感情保鲜，性生活一直保持得较好，也是有不少的。",
+    "annotation": [
+      {
+        "sentence": "有的夫妻关于感情保鲜，性生活一直保持得较好，也是有不少的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "噢，我明白了。那有没有什么性生活技巧可以改善情况呢？",
+    "annotation": [
+      {
+        "sentence": "噢，我明白了。",
+        "label": ""
+      },
+      {
+        "sentence": "那有没有什么性生活技巧可以改善情况呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "背后也有性生活技巧方面的原因，所以各夫妻的表现是不一样的。",
+    "annotation": [
+      {
+        "sentence": "背后也有性生活技巧方面的原因，所以各夫妻的表现是不一样的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得你说得很有道理。但是我现在有点担心我们的夫妻关系会失衡。",
+    "annotation": [
+      {
+        "sentence": "我觉得你说得很有道理。",
+        "label": ""
+      },
+      {
+        "sentence": "但是我现在有点担心我们的夫妻关系会失衡。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "夫妻关系讲究的是和谐与平衡，不管性生活多或少，双方都觉得OK，那关系是和谐的。",
+    "annotation": [
+      {
+        "sentence": "夫妻关系讲究的是和谐与平衡，不管性生活多或少，双方都觉得OK，那关系是和谐的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我觉得我们的性生活过少，会不会对我们的关系造成问题呢？",
+    "annotation": [
+      {
+        "sentence": "可是我觉得我们的性生活过少，会不会对我们的关系造成问题呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果一方觉得过多或过少，那关系就会失衡。但是，性生活的问题，背后是关系的问题。",
+    "annotation": [
+      {
+        "sentence": "如果一方觉得过多或过少，那关系就会失衡。",
+        "label": ""
+      },
+      {
+        "sentence": "但是，性生活的问题，背后是关系的问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说得对。那我应该怎么样来解决我们的性生活问题呢？",
+    "annotation": [
+      {
+        "sentence": "你说得对。",
+        "label": ""
+      },
+      {
+        "sentence": "那我应该怎么样来解决我们的性生活问题呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "解决性生活和谐的问题，要优先解决关系的问题。关系和谐、稳定、有爱，性生活往往也会是比较和谐的。",
+    "annotation": [
+      {
+        "sentence": "解决性生活和谐的问题，要优先解决关系的问题。",
+        "label": ""
+      },
+      {
+        "sentence": "关系和谐、稳定、有爱，性生活往往也会是比较和谐的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会努力解决我们的关系问题的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会努力解决我们的关系问题的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，我相信你们一定可以解决问题的。节日快乐！我在这里支持你。",
+    "annotation": [
+      {
+        "sentence": "不用客气，我相信你们一定可以解决问题的。",
+        "label": ""
+      },
+      {
+        "sentence": "节日快乐！",
+        "label": ""
+      },
+      {
+        "sentence": "我在这里支持你。",
+        "label": ""
+      }
+    ]
+  }
+]

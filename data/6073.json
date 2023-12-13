@@ -1,0 +1,182 @@
+[
+  {
+    "role": "client",
+    "content": "受伤了，还因怕领导骂而勉强自己工作，这好吗？",
+    "annotation": [
+      {
+        "sentence": "受伤了，还因怕领导骂而勉强自己工作，这好吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是在工作时间拉伤的吗？",
+    "annotation": [
+      {
+        "sentence": "你是在工作时间拉伤的吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，在跑业务时拉伤了大腿肌肉。",
+    "annotation": [
+      {
+        "sentence": "是的，在跑业务时拉伤了大腿肌肉。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "拉伤的结论是去医院诊断出来的吗？",
+    "annotation": [
+      {
+        "sentence": "拉伤的结论是去医院诊断出来的吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，今天去医院确诊了。",
+    "annotation": [
+      {
+        "sentence": "是的，今天去医院确诊了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你可以提供医院的检查报告给单位，申请休病假。",
+    "annotation": [
+      {
+        "sentence": "那你可以提供医院的检查报告给单位，申请休病假。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是之前老板骂过一个请病假的同事，我有点害怕。",
+    "annotation": [
+      {
+        "sentence": "可是之前老板骂过一个请病假的同事，我有点害怕。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用担心，如果你是工伤，你有权利休病假。你可以跟领导坦诚相待，让他了解你的伤势，同时提供医院的证明文件。",
+    "annotation": [
+      {
+        "sentence": "不用担心，如果你是工伤，你有权利休病假。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以跟领导坦诚相待，让他了解你的伤势，同时提供医院的证明文件。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我才刚来不久，不太敢反抗老板的决定。",
+    "annotation": [
+      {
+        "sentence": "可是我才刚来不久，不太敢反抗老板的决定。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我理解你的顾虑，但是你的健康是最重要的。你可以为自己的健康权益争取，让老板了解你对工作的认真态度和能力。这样对你的职业生涯也有好处。",
+    "annotation": [
+      {
+        "sentence": "我理解你的顾虑，但是你的健康是最重要的。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以为自己的健康权益争取，让老板了解你对工作的认真态度和能力。",
+        "label": ""
+      },
+      {
+        "sentence": "这样对你的职业生涯也有好处。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "确实，我不应该委屈自己。",
+    "annotation": [
+      {
+        "sentence": "确实，我不应该委屈自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没错，你要学会保护自己，做出正确的决策。",
+    "annotation": [
+      {
+        "sentence": "没错，你要学会保护自己，做出正确的决策。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我想了想，我决定和老板坦诚相待，向他说明情况，并提供医院的证明。",
+    "annotation": [
+      {
+        "sentence": "我想了想，我决定和老板坦诚相待，向他说明情况，并提供医院的证明。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是一个明智的选择，相信你的老板会理解。希望你早日康复！",
+    "annotation": [
+      {
+        "sentence": "这是一个明智的选择，相信你的老板会理解。",
+        "label": ""
+      },
+      {
+        "sentence": "希望你早日康复！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励和支持，我会努力的！",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励和支持，我会努力的！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，相信自己，你一定能够处理好这个情况的。祝你顺利！",
+    "annotation": [
+      {
+        "sentence": "不客气，相信自己，你一定能够处理好这个情况的。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你顺利！",
+        "label": ""
+      }
+    ]
+  }
+]

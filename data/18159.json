@@ -1,0 +1,166 @@
+[
+  {
+    "role": "client",
+    "content": "孩子初三了，月考成绩不好，我该怎么办？",
+    "annotation": [
+      {
+        "sentence": "孩子初三了，月考成绩不好，我该怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你能感觉到孩子学习状态的焦虑。",
+    "annotation": [
+      {
+        "sentence": "你能感觉到孩子学习状态的焦虑。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我真的很担心他考不上好的高中。",
+    "annotation": [
+      {
+        "sentence": "是的，我真的很担心他考不上好的高中。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "了解。那你为什么觉得孩子学习不自觉呢？",
+    "annotation": [
+      {
+        "sentence": "了解。",
+        "label": ""
+      },
+      {
+        "sentence": "那你为什么觉得孩子学习不自觉呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "因为他从初二下月底到现在补课费花了4万，但是效果不明显。",
+    "annotation": [
+      {
+        "sentence": "因为他从初二下月底到现在补课费花了4万，但是效果不明显。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "嗯，这个问题也涉及到你的孩子和你的责任问题。",
+    "annotation": [
+      {
+        "sentence": "嗯，这个问题也涉及到你的孩子和你的责任问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我想找到解决问题的方案。",
+    "annotation": [
+      {
+        "sentence": "是的，我想找到解决问题的方案。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我们首先需要知道导致孩子学习不自觉的原因，而不仅仅是看到表面现象。",
+    "annotation": [
+      {
+        "sentence": "我们首先需要知道导致孩子学习不自觉的原因，而不仅仅是看到表面现象。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我该怎么样去探求这个问题的根本原因呢？",
+    "annotation": [
+      {
+        "sentence": "我该怎么样去探求这个问题的根本原因呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以跟孩子说说心里话，听听他对学习的态度，看看要不要找一些专业人士帮助。",
+    "annotation": [
+      {
+        "sentence": "你可以跟孩子说说心里话，听听他对学习的态度，看看要不要找一些专业人士帮助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这个建议很好，我会尝试的。",
+    "annotation": [
+      {
+        "sentence": "这个建议很好，我会尝试的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "同时，你也要放宽自己的心态，不要整天纠结在孩子的成绩上，要相信孩子能够逐步成长，慢慢提高自己的学习主动性。",
+    "annotation": [
+      {
+        "sentence": "同时，你也要放宽自己的心态，不要整天纠结在孩子的成绩上，要相信孩子能够逐步成长，慢慢提高自己的学习主动性。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我会试着缓解自己的情绪，多给孩子鼓励和支持。",
+    "annotation": [
+      {
+        "sentence": "我会试着缓解自己的情绪，多给孩子鼓励和支持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，希望你们可以慢慢找到适合自己的解决方案。",
+    "annotation": [
+      {
+        "sentence": "很好，希望你们可以慢慢找到适合自己的解决方案。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持和建议，我会好好考虑的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持和建议，我会好好考虑的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，随时找我聊天吧。",
+    "annotation": [
+      {
+        "sentence": "不用客气，随时找我聊天吧。",
+        "label": ""
+      }
+    ]
+  }
+]

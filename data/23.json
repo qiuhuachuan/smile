@@ -1,0 +1,132 @@
+[
+  {
+    "role": "client",
+    "content": "男友人很好，就是不上进，得过且过？",
+    "annotation": [
+      {
+        "sentence": "男友人很好，就是不上进，得过且过？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我知道你对男友没有太多抱怨，但是觉得他的生活状态有些担心。",
+    "annotation": [
+      {
+        "sentence": "我知道你对男友没有太多抱怨，但是觉得他的生活状态有些担心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对，他很满足现状，可我想他能够有更高的追求。",
+    "annotation": [
+      {
+        "sentence": "对，他很满足现状，可我想他能够有更高的追求。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "因为你期待他成为“更好”的他，你会对现状感到不满。",
+    "annotation": [
+      {
+        "sentence": "因为你期待他成为“更好”的他，你会对现状感到不满。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我总觉得他不够上进，生活有些浑浊，我们的未来也因此不确定。",
+    "annotation": [
+      {
+        "sentence": "是的，我总觉得他不够上进，生活有些浑浊，我们的未来也因此不确定。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "但每个人的价值观不同，他可能对于成功的定义不同于我们。",
+    "annotation": [
+      {
+        "sentence": "但每个人的价值观不同，他可能对于成功的定义不同于我们。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我知道，但我希望他能够为了我们的未来而努力奋斗。",
+    "annotation": [
+      {
+        "sentence": "我知道，但我希望他能够为了我们的未来而努力奋斗。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可以跟他沟通一下，看看他对于未来的计划和期望。",
+    "annotation": [
+      {
+        "sentence": "可以跟他沟通一下，看看他对于未来的计划和期望。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我们之间有时候会因此而产生争执。",
+    "annotation": [
+      {
+        "sentence": "我们之间有时候会因此而产生争执。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当我们发现争吵的时候，意味着有些事情我们没有理解，所以可以找到一种平和的方法来解决问题。",
+    "annotation": [
+      {
+        "sentence": "当我们发现争吵的时候，意味着有些事情我们没有理解，所以可以找到一种平和的方法来解决问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "如果他不愿努力，我该怎么做？",
+    "annotation": [
+      {
+        "sentence": "如果他不愿努力，我该怎么做？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以做的，就是在爱与支持中，尽最大的努力帮他自己发现他未来的方向。",
+    "annotation": [
+      {
+        "sentence": "你可以做的，就是在爱与支持中，尽最大的努力帮他自己发现他未来的方向。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励，我会试着跟他好好谈谈的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励，我会试着跟他好好谈谈的。",
+        "label": ""
+      }
+    ]
+  }
+]

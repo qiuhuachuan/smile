@@ -1,0 +1,266 @@
+[
+  {
+    "role": "client",
+    "content": "最近人生太不顺利了怎么办？离别，情绪一下子很崩溃。 (How can I deal with the recent setbacks in my life？ I feel overwhelmed by all the farewells.)",
+    "annotation": [
+      {
+        "sentence": "最近人生太不顺利了怎么办？",
+        "label": ""
+      },
+      {
+        "sentence": "离别，情绪一下子很崩溃。",
+        "label": ""
+      },
+      {
+        "sentence": " (How can I deal with the recent setbacks in my life？",
+        "label": ""
+      },
+      {
+        "sentence": " I feel overwhelmed by all the farewells.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你这种情况下，情绪崩溃很正常啊。情绪不崩溃倒觉得有些不那么正常了。(It's normal that you feel overwhelmed in this situation. It would actually be strange if you didn't feel that way.)",
+    "annotation": [
+      {
+        "sentence": "你这种情况下，情绪崩溃很正常啊。",
+        "label": ""
+      },
+      {
+        "sentence": "情绪不崩溃倒觉得有些不那么正常了。",
+        "label": ""
+      },
+      {
+        "sentence": "(It's normal that you feel overwhelmed in this situation. It would actually be strange if you didn't feel that way.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的理解。最近工作上我的同组上司和同事离职，所有事情都放到了我身上，工作也变得很忙碌。(Thank you for understanding. Recently, my supervisor and colleagues in my team at work left, and now everything is on my shoulders. It has become very busy.)",
+    "annotation": [
+      {
+        "sentence": "谢谢你的理解。",
+        "label": ""
+      },
+      {
+        "sentence": "最近工作上我的同组上司和同事离职，所有事情都放到了我身上，工作也变得很忙碌。",
+        "label": ""
+      },
+      {
+        "sentence": "(Thank you for understanding. Recently, my supervisor and colleagues in my team at work left, and now everything is on my shoulders. It has become very busy.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你承担了他们留下的工作，这可能让你感到压力和负担。(You have taken on the tasks left behind by your colleagues, which may be causing you stress and burden.)",
+    "annotation": [
+      {
+        "sentence": "你承担了他们留下的工作，这可能让你感到压力和负担。",
+        "label": ""
+      },
+      {
+        "sentence": "(You have taken on the tasks left behind by your colleagues, which may be causing you stress and burden.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，而且我平时本来就内向，没什么朋友，唯一的好朋友这两天也出国了。(Yes, and I am already introverted and don't have many friends. My only good friend also went abroad these days.)",
+    "annotation": [
+      {
+        "sentence": "是的，而且我平时本来就内向，没什么朋友，唯一的好朋友这两天也出国了。",
+        "label": ""
+      },
+      {
+        "sentence": "(Yes, and I am already introverted and don't have many friends. My only good friend also went abroad these days.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "也许你的性格内向，但这并不意味着你没有感情。也许你比别人更敏感，只是不擅长在别人面前表达出来。(Perhaps your introverted nature doesn't mean you lack emotions. Maybe you are just more sensitive than others and find it difficult to express your feelings.)",
+    "annotation": [
+      {
+        "sentence": "也许你的性格内向，但这并不意味着你没有感情。",
+        "label": ""
+      },
+      {
+        "sentence": "也许你比别人更敏感，只是不擅长在别人面前表达出来。",
+        "label": ""
+      },
+      {
+        "sentence": "(Perhaps your introverted nature doesn't mean you lack emotions. Maybe you are just more sensitive than others and find it difficult to express your feelings.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "感情方面，谈了五年的恋爱分手了，是我的原因造成的，没有劈腿没有出轨，他还是个好人。(In terms of relationships, I recently broke up with my partner of five years, and it was because of me. I didn't cheat or betray, but it still ended.)",
+    "annotation": [
+      {
+        "sentence": "感情方面，谈了五年的恋爱分手了，是我的原因造成的，没有劈腿没有出轨，他还是个好人。",
+        "label": ""
+      },
+      {
+        "sentence": "(In terms of relationships, I recently broke up with my partner of five years, and it was because of me. I didn't cheat or betray, but it still ended.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "五年的恋爱关系已经让一个陌生人变成了一个熟悉的人、一个习惯的人、一个生活中的组成部分，失去这个部分肯定会有些“缺失”的。(Being in a relationship for five years turns a stranger into someone familiar and someone you are used to having in your life. Losing that part will naturally leave a sense of loss.)",
+    "annotation": [
+      {
+        "sentence": "五年的恋爱关系已经让一个陌生人变成了一个熟悉的人、一个习惯的人、一个生活中的组成部分，失去这个部分肯定会有些“缺失”的。",
+        "label": ""
+      },
+      {
+        "sentence": "(Being in a relationship for five years turns a stranger into someone familiar and someone you are used to having in your life. Losing that part will naturally leave a sense of loss.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "家庭上到没有别离，但让我觉得压抑，我想做些什么，我妈第一反应就是反对。(There was no separation in terms of family, but it makes me feel oppressed. I wanted to do something different, like getting a driver's license, but my mom immediately opposed it.)",
+    "annotation": [
+      {
+        "sentence": "家庭上到没有别离，但让我觉得压抑，我想做些什么，我妈第一反应就是反对。",
+        "label": ""
+      },
+      {
+        "sentence": "(There was no separation in terms of family, but it makes me feel oppressed. I wanted to do something different, like getting a driver's license, but my mom immediately opposed it.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你想尝试突破一下舒适圈，这是很好的。学车可以分散一下注意力，给自己时间来慢慢调整情绪。不过，母亲的反对似乎阻碍了你。(It's great that you want to step out of your comfort zone. Learning to drive can help distract your mind and give you time to adjust your emotions. However, your mother's opposition seems to be hindering you.)",
+    "annotation": [
+      {
+        "sentence": "你想尝试突破一下舒适圈，这是很好的。",
+        "label": ""
+      },
+      {
+        "sentence": "学车可以分散一下注意力，给自己时间来慢慢调整情绪。",
+        "label": ""
+      },
+      {
+        "sentence": "不过，母亲的反对似乎阻碍了你。",
+        "label": ""
+      },
+      {
+        "sentence": "(It's great that you want to step out of your comfort zone. Learning to drive can help distract your mind and give you time to adjust your emotions. However, your mother's opposition seems to be hindering you.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，非常压抑。一下子我的情绪就崩溃了。(Yes, it's very oppressive. My emotions just collapsed all of a sudden.)",
+    "annotation": [
+      {
+        "sentence": "是的，非常压抑。",
+        "label": ""
+      },
+      {
+        "sentence": "一下子我的情绪就崩溃了。",
+        "label": ""
+      },
+      {
+        "sentence": "(Yes, it's very oppressive. My emotions just collapsed all of a sudden.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "感到压抑和崩溃是正常的反应，你不用太自责。我们每个人都会在某个时候需要他人的支持和理解。(Feeling oppressed and collapsing emotionally is a normal response, so don't blame yourself. We all need support and understanding from others at some point.)",
+    "annotation": [
+      {
+        "sentence": "感到压抑和崩溃是正常的反应，你不用太自责。",
+        "label": ""
+      },
+      {
+        "sentence": "我们每个人都会在某个时候需要他人的支持和理解。",
+        "label": ""
+      },
+      {
+        "sentence": "(Feeling oppressed and collapsing emotionally is a normal response, so don't blame yourself. We all need support and understanding from others at some point.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的安慰。我有时候感觉全世界都不支持我，只剩下了我自己。我自卑不自信的部分也来自于我妈不停地打击我。(Thank you for comforting me. Sometimes I feel like the whole world doesn't support me, and there's only me left. A large part of my lack of confidence comes from my mom constantly undermining me.)",
+    "annotation": [
+      {
+        "sentence": "谢谢你的安慰。",
+        "label": ""
+      },
+      {
+        "sentence": "我有时候感觉全世界都不支持我，只剩下了我自己。",
+        "label": ""
+      },
+      {
+        "sentence": "我自卑不自信的部分也来自于我妈不停地打击我。",
+        "label": ""
+      },
+      {
+        "sentence": "(Thank you for comforting me. Sometimes I feel like the whole world doesn't support me, and there's only me left. A large part of my lack of confidence comes from my mom constantly undermining me.)",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你的感受很理解。你现在的情绪让我感觉到你内心有力量来解决问题，但似乎你也有意无意地接受了一些压抑和限制，不允许自己充分发挥。你是否觉得母亲的观点更正确？ 是否觉得母亲的话必须服从，不能质疑和反对呢？这可能是你需要优先解决的问题。(I understand your feelings. Your current emotions make me feel that you have the strength to solve problems, but it seems like you have consciously or unconsciously accepted some oppression and limitations, not allowing yourself to fully express your potential. Do you feel that your mother's opinions are always correct？ Do you feel obligated to obey her words without questioning or opposing？ This might be the primary issue you need to address.)",
+    "annotation": [
+      {
+        "sentence": "你的感受很理解。",
+        "label": ""
+      },
+      {
+        "sentence": "你现在的情绪让我感觉到你内心有力量来解决问题，但似乎你也有意无意地接受了一些压抑和限制，不允许自己充分发挥。",
+        "label": ""
+      },
+      {
+        "sentence": "你是否觉得母亲的观点更正确？",
+        "label": ""
+      },
+      {
+        "sentence": " 是否觉得母亲的话必须服从，不能质疑和反对呢？",
+        "label": ""
+      },
+      {
+        "sentence": "这可能是你需要优先解决的问题。",
+        "label": ""
+      },
+      {
+        "sentence": "(I understand your feelings. Your current emotions make me feel that you have the strength to solve problems, but it seems like you have consciously or unconsciously accepted some oppression and limitations, not allowing yourself to fully express your potential. Do you feel that your mother's opinions are always correct？",
+        "label": ""
+      },
+      {
+        "sentence": " Do you feel obligated to obey her words without questioning or opposing？",
+        "label": ""
+      },
+      {
+        "sentence": " This might be the primary issue you need to address.)",
+        "label": ""
+      }
+    ]
+  }
+]

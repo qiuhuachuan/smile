@@ -1,0 +1,190 @@
+[
+  {
+    "role": "client",
+    "content": "怎么才能忘记过去？",
+    "annotation": [
+      {
+        "sentence": "怎么才能忘记过去？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "~想忘掉过去，我想每个人都想忘掉过去吧。",
+    "annotation": [
+      {
+        "sentence": "~想忘掉过去，我想每个人都想忘掉过去吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我该怎么忘记呢？我感觉我永远忘不了。",
+    "annotation": [
+      {
+        "sentence": "那我该怎么忘记呢？",
+        "label": ""
+      },
+      {
+        "sentence": "我感觉我永远忘不了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人忘记过去的方式可能不同，但学会接纳过去是很重要的。",
+    "annotation": [
+      {
+        "sentence": "每个人忘记过去的方式可能不同，但学会接纳过去是很重要的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我明白接纳过去的重要性，但有时候我还是会因为这些事而产生不好的情绪。",
+    "annotation": [
+      {
+        "sentence": "我明白接纳过去的重要性，但有时候我还是会因为这些事而产生不好的情绪。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，过去的经历会对我们产生情绪上的影响。但是，换个角度想，那些困难你都咬着牙坚持走过来了。",
+    "annotation": [
+      {
+        "sentence": "是的，过去的经历会对我们产生情绪上的影响。",
+        "label": ""
+      },
+      {
+        "sentence": "但是，换个角度想，那些困难你都咬着牙坚持走过来了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我确实坚持了下来，但我还是会因此而自卑，讨厌自己。",
+    "annotation": [
+      {
+        "sentence": "是的，我确实坚持了下来，但我还是会因此而自卑，讨厌自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不要因为这件事情自卑而讨厌自己。你是个体，要学会爱自己，疗愈自己。",
+    "annotation": [
+      {
+        "sentence": "不要因为这件事情自卑而讨厌自己。",
+        "label": ""
+      },
+      {
+        "sentence": "你是个体，要学会爱自己，疗愈自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我还是会觉得这些事发生在我身上是应该的，是我自找的。",
+    "annotation": [
+      {
+        "sentence": "但是我还是会觉得这些事发生在我身上是应该的，是我自找的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不要责怪自己，你已经在努力还债了，这是一个值得夸奖的行为。",
+    "annotation": [
+      {
+        "sentence": "不要责怪自己，你已经在努力还债了，这是一个值得夸奖的行为。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我希望能尽快还清债务，感觉会好一些。",
+    "annotation": [
+      {
+        "sentence": "是的，我希望能尽快还清债务，感觉会好一些。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "债快还完了，这是一个非常值得开心和庆祝的事情！同时，你可以在网上搜索一些培养自信的方法。",
+    "annotation": [
+      {
+        "sentence": "债快还完了，这是一个非常值得开心和庆祝的事情！",
+        "label": ""
+      },
+      {
+        "sentence": "同时，你可以在网上搜索一些培养自信的方法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会试一试。还有，我想把这件事写下来，然后扔掉它。",
+    "annotation": [
+      {
+        "sentence": "好的，我会试一试。",
+        "label": ""
+      },
+      {
+        "sentence": "还有，我想把这件事写下来，然后扔掉它。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是个好主意，写下来可以帮你发泄情绪，之后扔掉它代表着将过去抛在身后，不再去纠结。",
+    "annotation": [
+      {
+        "sentence": "这是个好主意，写下来可以帮你发泄情绪，之后扔掉它代表着将过去抛在身后，不再去纠结。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，你说得对。谢谢你一直陪伴着我，希望我能尽快走出困境。",
+    "annotation": [
+      {
+        "sentence": "嗯，你说得对。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你一直陪伴着我，希望我能尽快走出困境。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，我们会一直陪伴你，希望能帮助到你。加油！",
+    "annotation": [
+      {
+        "sentence": "不用客气，我们会一直陪伴你，希望能帮助到你。",
+        "label": ""
+      },
+      {
+        "sentence": "加油！",
+        "label": ""
+      }
+    ]
+  }
+]

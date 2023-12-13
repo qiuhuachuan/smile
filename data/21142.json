@@ -1,0 +1,214 @@
+[
+  {
+    "role": "client",
+    "content": "我跟对象说“我好爱你媳妇”，对象回了一句“好”？我跟对象说“我好爱你媳妇”，对象回复了一句“好”我不明白是什么意思，请老师解释一下。",
+    "annotation": [
+      {
+        "sentence": "我跟对象说“我好爱你媳妇”，对象回了一句“好”？",
+        "label": ""
+      },
+      {
+        "sentence": "我跟对象说“我好爱你媳妇”，对象回复了一句“好”我不明白是什么意思，请老师解释一下。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你跟对象处了多长时间了？",
+    "annotation": [
+      {
+        "sentence": "你跟对象处了多长时间了？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我们已经在一起两年了。",
+    "annotation": [
+      {
+        "sentence": "我们已经在一起两年了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是经常表示这样的称呼？还是很少？",
+    "annotation": [
+      {
+        "sentence": "你是经常表示这样的称呼？",
+        "label": ""
+      },
+      {
+        "sentence": "还是很少？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "其实这是我第一次这样称呼她。",
+    "annotation": [
+      {
+        "sentence": "其实这是我第一次这样称呼她。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是当面表达？还是微信上？",
+    "annotation": [
+      {
+        "sentence": "是当面表达？",
+        "label": ""
+      },
+      {
+        "sentence": "还是微信上？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是当面表达的，我们当时在一起。",
+    "annotation": [
+      {
+        "sentence": "是当面表达的，我们当时在一起。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是在她高兴？还是不知道什么表情下表达的？",
+    "annotation": [
+      {
+        "sentence": "你是在她高兴？",
+        "label": ""
+      },
+      {
+        "sentence": "还是不知道什么表情下表达的？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我当时不太确定，因为她没有特别的表情。",
+    "annotation": [
+      {
+        "sentence": "我当时不太确定，因为她没有特别的表情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你们经常在一起？还是很久没见了？",
+    "annotation": [
+      {
+        "sentence": "你们经常在一起？",
+        "label": ""
+      },
+      {
+        "sentence": "还是很久没见了？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我们之前确实有段时间没见了。",
+    "annotation": [
+      {
+        "sentence": "我们之前确实有段时间没见了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这些都是重要的细节，理解这些，才能了解她的回答代表的含义。",
+    "annotation": [
+      {
+        "sentence": "这些都是重要的细节，理解这些，才能了解她的回答代表的含义。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我现在应该怎么办呢？",
+    "annotation": [
+      {
+        "sentence": "我现在应该怎么办呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你的内容太少，所以无法过多分析，不过你不用疑惑，你现在表示好爱她，最起码她并没有反对，同样表示她是接纳的，是认可的。",
+    "annotation": [
+      {
+        "sentence": "你的内容太少，所以无法过多分析，不过你不用疑惑，你现在表示好爱她，最起码她并没有反对，同样表示她是接纳的，是认可的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那为什么她只回了一个“好”呢？",
+    "annotation": [
+      {
+        "sentence": "那为什么她只回了一个“好”呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "所以，有时候一句话并不能代表什么，你也不要太过在意地分析和猜测。知道她并不是反对，是认可的就行。",
+    "annotation": [
+      {
+        "sentence": "所以，有时候一句话并不能代表什么，你也不要太过在意地分析和猜测。",
+        "label": ""
+      },
+      {
+        "sentence": "知道她并不是反对，是认可的就行。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "也许我经常这样表达，她感到并不新鲜，所以应付了一下？",
+    "annotation": [
+      {
+        "sentence": "也许我经常这样表达，她感到并不新鲜，所以应付了一下？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可能吧，但也没什么。不必太计较。重要的是你们之间的感情和彼此的理解互信。",
+    "annotation": [
+      {
+        "sentence": "可能吧，但也没什么。",
+        "label": ""
+      },
+      {
+        "sentence": "不必太计较。",
+        "label": ""
+      },
+      {
+        "sentence": "重要的是你们之间的感情和彼此的理解互信。",
+        "label": ""
+      }
+    ]
+  }
+]

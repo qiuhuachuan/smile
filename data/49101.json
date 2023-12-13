@@ -1,0 +1,176 @@
+[
+  {
+    "role": "client",
+    "content": "高二女，想活出自己，如何才能不在乎别人的看法？",
+    "annotation": [
+      {
+        "sentence": "高二女，想活出自己，如何才能不在乎别人的看法？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "人首先要明确的一件事是，一件事或者一个人，外界对其评价是一定褒贬不一的。你也说了，你做不到让所有人满意，但这不是因为你能力不足，而是客观上无法避免的。",
+    "annotation": [
+      {
+        "sentence": "人首先要明确的一件事是，一件事或者一个人，外界对其评价是一定褒贬不一的。",
+        "label": ""
+      },
+      {
+        "sentence": "你也说了，你做不到让所有人满意，但这不是因为你能力不足，而是客观上无法避免的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我明白这点。可是我一直很在乎别人的看法和评价，我真的觉得很累。",
+    "annotation": [
+      {
+        "sentence": "是的，我明白这点。",
+        "label": ""
+      },
+      {
+        "sentence": "可是我一直很在乎别人的看法和评价，我真的觉得很累。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我明白你的困扰。我们人生在世，总会受到他人的评价和观点的影响。但是送你一句话: There is no need to make everyone love you, just a few good people.",
+    "annotation": [
+      {
+        "sentence": "我明白你的困扰。",
+        "label": ""
+      },
+      {
+        "sentence": "我们人生在世，总会受到他人的评价和观点的影响。",
+        "label": ""
+      },
+      {
+        "sentence": "但是送你一句话: There is no need to make everyone love you, just a few good people.",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你是说我只需要在意那些真正在乎我的人是吗？",
+    "annotation": [
+      {
+        "sentence": "你是说我只需要在意那些真正在乎我的人是吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的。我们应该在意的是那些好的，真正在乎我们，爱我们的人，而不是将其分散给所有人。否则那些与你无关甚至对你抱有恶意的人，你也要去在意的话，对那些爱你的人是不是太不公平啦？",
+    "annotation": [
+      {
+        "sentence": "是的。",
+        "label": ""
+      },
+      {
+        "sentence": "我们应该在意的是那些好的，真正在乎我们，爱我们的人，而不是将其分散给所有人。",
+        "label": ""
+      },
+      {
+        "sentence": "否则那些与你无关甚至对你抱有恶意的人，你也要去在意的话，对那些爱你的人是不是太不公平啦？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你说得对。那我应该如何去减少对别人的关注呢？",
+    "annotation": [
+      {
+        "sentence": "你说得对。",
+        "label": ""
+      },
+      {
+        "sentence": "那我应该如何去减少对别人的关注呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "首先，你可以思考一下，在保证基本生活正常的前提下，你是否能按照自己的想法来活呢？",
+    "annotation": [
+      {
+        "sentence": "首先，你可以思考一下，在保证基本生活正常的前提下，你是否能按照自己的想法来活呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得应该可以。",
+    "annotation": [
+      {
+        "sentence": "我觉得应该可以。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那就像上面说的，放心大胆地去追求自己的生活方式吧。人只活一次，不去尝试可惜了呀。",
+    "annotation": [
+      {
+        "sentence": "那就像上面说的，放心大胆地去追求自己的生活方式吧。",
+        "label": ""
+      },
+      {
+        "sentence": "人只活一次，不去尝试可惜了呀。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是有时候我觉得我并没有这样的权利，而是要按照别人的想法来生活。",
+    "annotation": [
+      {
+        "sentence": "可是有时候我觉得我并没有这样的权利，而是要按照别人的想法来生活。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果你觉得现在并没有这样的权利，那就专心学业，努力提升自己，为自己争取到这样的权利。我希望我的回答对你有帮助。祝身体健康，万事如意！",
+    "annotation": [
+      {
+        "sentence": "如果你觉得现在并没有这样的权利，那就专心学业，努力提升自己，为自己争取到这样的权利。",
+        "label": ""
+      },
+      {
+        "sentence": "我希望我的回答对你有帮助。",
+        "label": ""
+      },
+      {
+        "sentence": "祝身体健康，万事如意！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议和鼓励。我会好好思考并努力争取我想要的生活方式的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议和鼓励。",
+        "label": ""
+      },
+      {
+        "sentence": "我会好好思考并努力争取我想要的生活方式的。",
+        "label": ""
+      }
+    ]
+  }
+]

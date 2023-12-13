@@ -1,0 +1,176 @@
+[
+  {
+    "role": "client",
+    "content": "高三党，现暗恋一女同学，有心结，期望大家给予帮助。",
+    "annotation": [
+      {
+        "sentence": "高三党，现暗恋一女同学，有心结，期望大家给予帮助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "高中时候喜欢异性是一件美好的事，不用过度自责。",
+    "annotation": [
+      {
+        "sentence": "高中时候喜欢异性是一件美好的事，不用过度自责。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我好像过了点头了，我一直没有勇气向她表白。",
+    "annotation": [
+      {
+        "sentence": "可是我好像过了点头了，我一直没有勇气向她表白。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你喜欢别人，别人不喜欢你，也很常见，不用觉得遗憾。",
+    "annotation": [
+      {
+        "sentence": "你喜欢别人，别人不喜欢你，也很常见，不用觉得遗憾。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我知道，但是我真的不知道该怎么办才好。",
+    "annotation": [
+      {
+        "sentence": "我知道，但是我真的不知道该怎么办才好。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "做应该做的事，而不是喜欢的事。",
+    "annotation": [
+      {
+        "sentence": "做应该做的事，而不是喜欢的事。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你的意思是说我应该专注于学业，而不是被这些感情所困扰？",
+    "annotation": [
+      {
+        "sentence": "你的意思是说我应该专注于学业，而不是被这些感情所困扰？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没错，喜欢一个人，你应该希望她过得好吧，在课业繁重如此繁重的时候去让她分心，不是你所希望的吧。",
+    "annotation": [
+      {
+        "sentence": "没错，喜欢一个人，你应该希望她过得好吧，在课业繁重如此繁重的时候去让她分心，不是你所希望的吧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "也许你说的对，我一直都太痴迷了，忽略了其他重要的事情。",
+    "annotation": [
+      {
+        "sentence": "也许你说的对，我一直都太痴迷了，忽略了其他重要的事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "两情若在久长时，又岂在乎这一年？",
+    "annotation": [
+      {
+        "sentence": "两情若在久长时，又岂在乎这一年？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我想知道，毕业后我有机会再与她相遇吗？",
+    "annotation": [
+      {
+        "sentence": "但是我想知道，毕业后我有机会再与她相遇吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "奋斗一年，毕业后大胆表白。",
+    "annotation": [
+      {
+        "sentence": "奋斗一年，毕业后大胆表白。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你觉得我应该等到毕业后再告诉她我的心意？",
+    "annotation": [
+      {
+        "sentence": "你觉得我应该等到毕业后再告诉她我的心意？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，现在你要专注于学业，为了自己的未来努力。等毕业后再勇敢地追求你心中的爱。",
+    "annotation": [
+      {
+        "sentence": "是的，现在你要专注于学业，为了自己的未来努力。",
+        "label": ""
+      },
+      {
+        "sentence": "等毕业后再勇敢地追求你心中的爱。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "或许你说的对，我应该安排好自己的学业，然后再考虑感情的事情。",
+    "annotation": [
+      {
+        "sentence": "或许你说的对，我应该安排好自己的学业，然后再考虑感情的事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对的，你要相信，只要你努力奋斗，未来会有更好的机会和方式与她相遇。",
+    "annotation": [
+      {
+        "sentence": "对的，你要相信，只要你努力奋斗，未来会有更好的机会和方式与她相遇。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会好好思考，为自己的未来努力。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会好好思考，为自己的未来努力。",
+        "label": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "role": "client",
+    "content": "对象使用冷暴力，也不跟我谈，是不是已经没得挽回了？",
+    "annotation": [
+      {
+        "sentence": "对象使用冷暴力，也不跟我谈，是不是已经没得挽回了？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其实所有的感情都需要我们来经营，爱情亲情都是这样的。",
+    "annotation": [
+      {
+        "sentence": "其实所有的感情都需要我们来经营，爱情亲情都是这样的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但他突然对我冷暴力，让我觉得很无助。",
+    "annotation": [
+      {
+        "sentence": "但他突然对我冷暴力，让我觉得很无助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我明白你的感受，这确实是一个很困扰的问题。",
+    "annotation": [
+      {
+        "sentence": "我明白你的感受，这确实是一个很困扰的问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我们之间的关系越来越冷漠，现在甚至没有话可说了。",
+    "annotation": [
+      {
+        "sentence": "我们之间的关系越来越冷漠，现在甚至没有话可说了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "情侣之间的热情难免会有所减退，但冷漠和冷暴力是不正常的。",
+    "annotation": [
+      {
+        "sentence": "情侣之间的热情难免会有所减退，但冷漠和冷暴力是不正常的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我曾经试着和他谈过，他却说一切都没问题。",
+    "annotation": [
+      {
+        "sentence": "我曾经试着和他谈过，他却说一切都没问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "或许他自己也有一些原因导致了这种改变，你可以试着和他多沟通一下，了解事情的原因所在。",
+    "annotation": [
+      {
+        "sentence": "或许他自己也有一些原因导致了这种改变，你可以试着和他多沟通一下，了解事情的原因所在。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你觉得这件事还有挽回的可能吗？",
+    "annotation": [
+      {
+        "sentence": "你觉得这件事还有挽回的可能吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我觉得这并不是无法挽回，而是需要你们彼此沟通和了解对方的想法。",
+    "annotation": [
+      {
+        "sentence": "我觉得这并不是无法挽回，而是需要你们彼此沟通和了解对方的想法。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "除了沟通，还有其他解决方法吗？",
+    "annotation": [
+      {
+        "sentence": "除了沟通，还有其他解决方法吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "除了沟通，你也可以思考一下他何时开始变得冷漠，是否有什么外界因素影响了他的情绪。",
+    "annotation": [
+      {
+        "sentence": "除了沟通，你也可以思考一下他何时开始变得冷漠，是否有什么外界因素影响了他的情绪。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我们现在见面后都不聊天各忙各的，我觉得很不可思议。",
+    "annotation": [
+      {
+        "sentence": "我们现在见面后都不聊天各忙各的，我觉得很不可思议。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "确实，这样的态度让人感到困惑。希望你们能找到一个共同的沟通方式。",
+    "annotation": [
+      {
+        "sentence": "确实，这样的态度让人感到困惑。",
+        "label": ""
+      },
+      {
+        "sentence": "希望你们能找到一个共同的沟通方式。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会试着和他再次谈谈。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会试着和他再次谈谈。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "祝你好运，希望你们的关系能够得到改善。",
+    "annotation": [
+      {
+        "sentence": "祝你好运，希望你们的关系能够得到改善。",
+        "label": ""
+      }
+    ]
+  }
+]

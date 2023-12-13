@@ -1,0 +1,162 @@
+[
+  {
+    "role": "client",
+    "content": "有一个总是喜欢否定自己、患有厌食症的朋友该怎么办？",
+    "annotation": [
+      {
+        "sentence": "有一个总是喜欢否定自己、患有厌食症的朋友该怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "从你的提问可以看到你是一个善良又有爱心的同学。",
+    "annotation": [
+      {
+        "sentence": "从你的提问可以看到你是一个善良又有爱心的同学。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我真的很担心他。",
+    "annotation": [
+      {
+        "sentence": "是的，我真的很担心他。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你的这个新朋友，ta的情况是比较特殊的，厌食症是一种比较复杂的心理疾病，需要很长时间的坚持治疗。",
+    "annotation": [
+      {
+        "sentence": "你的这个新朋友，ta的情况是比较特殊的，厌食症是一种比较复杂的心理疾病，需要很长时间的坚持治疗。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我不知道应该怎么帮助他，尤其是我们不在一个学校。",
+    "annotation": [
+      {
+        "sentence": "可是我不知道应该怎么帮助他，尤其是我们不在一个学校。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "对ta而言，有真诚相待的小伙伴的陪伴，其实是幸运的事情。你作为朋友，可以更多地给予ta理解，支持和鼓励，不评价ta的病情。",
+    "annotation": [
+      {
+        "sentence": "对ta而言，有真诚相待的小伙伴的陪伴，其实是幸运的事情。",
+        "label": ""
+      },
+      {
+        "sentence": "你作为朋友，可以更多地给予ta理解，支持和鼓励，不评价ta的病情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那你觉得我应该怎么与他相处呢？",
+    "annotation": [
+      {
+        "sentence": "那你觉得我应该怎么与他相处呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "在ta有苦恼，有负面情绪的时候做一个安静的倾听者，这样就能帮助ta很多了。",
+    "annotation": [
+      {
+        "sentence": "在ta有苦恼，有负面情绪的时候做一个安静的倾听者，这样就能帮助ta很多了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，我会尽量做到的。",
+    "annotation": [
+      {
+        "sentence": "好的，我会尽量做到的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "同时，如果你对心理学感兴趣，有意愿多学习和了解，你可以尝试看一些与厌食症或者进食障碍相关的科普文章，这样你会有更科学全面的认识，拓展自身的知识面。",
+    "annotation": [
+      {
+        "sentence": "同时，如果你对心理学感兴趣，有意愿多学习和了解，你可以尝试看一些与厌食症或者进食障碍相关的科普文章，这样你会有更科学全面的认识，拓展自身的知识面。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这个建议很好，我会去了解一下。谢谢你的支持！",
+    "annotation": [
+      {
+        "sentence": "这个建议很好，我会去了解一下。",
+        "label": ""
+      },
+      {
+        "sentence": "谢谢你的支持！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不客气，希望我的建议对你有所帮助。对这个朋友而言，ta就是要坚持治疗的。",
+    "annotation": [
+      {
+        "sentence": "不客气，希望我的建议对你有所帮助。",
+        "label": ""
+      },
+      {
+        "sentence": "对这个朋友而言，ta就是要坚持治疗的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我也会鼓励他坚持治疗的。再次感谢你的帮助！",
+    "annotation": [
+      {
+        "sentence": "是的，我也会鼓励他坚持治疗的。",
+        "label": ""
+      },
+      {
+        "sentence": "再次感谢你的帮助！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用客气，随时需要帮助就可以找我。祝你和你的朋友一切顺利！",
+    "annotation": [
+      {
+        "sentence": "不用客气，随时需要帮助就可以找我。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你和你的朋友一切顺利！",
+        "label": ""
+      }
+    ]
+  }
+]

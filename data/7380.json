@@ -1,0 +1,172 @@
+[
+  {
+    "role": "client",
+    "content": "有人朋友圈每天都发小日记，我该不该屏蔽？",
+    "annotation": [
+      {
+        "sentence": "有人朋友圈每天都发小日记，我该不该屏蔽？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "看到你的问题觉得你一定是个特别为别人着想的人吧~",
+    "annotation": [
+      {
+        "sentence": "看到你的问题觉得你一定是个特别为别人着想的人吧~",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我总觉得屏蔽别人是不太好的。",
+    "annotation": [
+      {
+        "sentence": "是的，我总觉得屏蔽别人是不太好的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "屏蔽他人觉得不好的原因是觉得屏蔽是对朋友的不尊重或者显示出不关心。",
+    "annotation": [
+      {
+        "sentence": "屏蔽他人觉得不好的原因是觉得屏蔽是对朋友的不尊重或者显示出不关心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "确实，我也怕屏蔽了会让别人觉得我对他们不关心。",
+    "annotation": [
+      {
+        "sentence": "确实，我也怕屏蔽了会让别人觉得我对他们不关心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "其实关心或者尊重朋友有很多方式，不一定一定要从朋友圈体现出来~",
+    "annotation": [
+      {
+        "sentence": "其实关心或者尊重朋友有很多方式，不一定一定要从朋友圈体现出来~",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那你觉得我该怎么表达我的关心和尊重呢？",
+    "annotation": [
+      {
+        "sentence": "那你觉得我该怎么表达我的关心和尊重呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "屏蔽以后可以多从其他途径比如多聊天来增进友谊。",
+    "annotation": [
+      {
+        "sentence": "屏蔽以后可以多从其他途径比如多聊天来增进友谊。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这主意不错，我可以主动跟他们多聊天来维持友谊。",
+    "annotation": [
+      {
+        "sentence": "这主意不错，我可以主动跟他们多聊天来维持友谊。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "另外，既然是自己的朋友圈，当然是自己说了算呀~",
+    "annotation": [
+      {
+        "sentence": "另外，既然是自己的朋友圈，当然是自己说了算呀~",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我确实有权选择看或者不看。",
+    "annotation": [
+      {
+        "sentence": "是的，我确实有权选择看或者不看。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "所谓存在即合理，既然有这个功能咱们干嘛不用呢~",
+    "annotation": [
+      {
+        "sentence": "所谓存在即合理，既然有这个功能咱们干嘛不用呢~",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "说的也是，既然有这个功能，我也可以选择使用。",
+    "annotation": [
+      {
+        "sentence": "说的也是，既然有这个功能，我也可以选择使用。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "当然有时候为了朋友之间的面子，咱们也不能直接告诉他们我屏蔽了你的朋友圈。",
+    "annotation": [
+      {
+        "sentence": "当然有时候为了朋友之间的面子，咱们也不能直接告诉他们我屏蔽了你的朋友圈。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我可以隐晦一点说自己没看到或者自己没看就可以啦。",
+    "annotation": [
+      {
+        "sentence": "是的，我可以隐晦一点说自己没看到或者自己没看就可以啦。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "最后，生活是自己的，当然要听自己的内心。",
+    "annotation": [
+      {
+        "sentence": "最后，生活是自己的，当然要听自己的内心。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我觉得我应该更加坚定地跟随自己的内心去处理这个问题。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我觉得我应该更加坚定地跟随自己的内心去处理这个问题。",
+        "label": ""
+      }
+    ]
+  }
+]

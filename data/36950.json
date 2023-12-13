@@ -1,0 +1,262 @@
+[
+  {
+    "role": "client",
+    "content": "他对我不尊重，隔三差五就吵架，这段感情我要不要放弃？",
+    "annotation": [
+      {
+        "sentence": "他对我不尊重，隔三差五就吵架，这段感情我要不要放弃？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "姑娘，读完你写的这段文字，感觉到你说的一点非常重要。",
+    "annotation": [
+      {
+        "sentence": "姑娘，读完你写的这段文字，感觉到你说的一点非常重要。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "对于一段感情，我的底线是“尊重”。",
+    "annotation": [
+      {
+        "sentence": "对于一段感情，我的底线是“尊重”。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，如果没有底线，会让乐于助人的人变成“烂好人”。",
+    "annotation": [
+      {
+        "sentence": "是的，如果没有底线，会让乐于助人的人变成“烂好人”。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是啊，我觉得我已经很努力去包容他了。",
+    "annotation": [
+      {
+        "sentence": "是啊，我觉得我已经很努力去包容他了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "人际交往中，如果大家都能守好自己的底线，就会让关系持续健康的保持下去。",
+    "annotation": [
+      {
+        "sentence": "人际交往中，如果大家都能守好自己的底线，就会让关系持续健康的保持下去。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是，他经常对我要求我顺从，完全听从于他。",
+    "annotation": [
+      {
+        "sentence": "可是，他经常对我要求我顺从，完全听从于他。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这确实是一个问题。你觉得他的行为是为了开玩笑吗？",
+    "annotation": [
+      {
+        "sentence": "这确实是一个问题。",
+        "label": ""
+      },
+      {
+        "sentence": "你觉得他的行为是为了开玩笑吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他经常喜欢莫名要我举手10秒钟，说是为了锻炼我的服从意识。",
+    "annotation": [
+      {
+        "sentence": "他经常喜欢莫名要我举手10秒钟，说是为了锻炼我的服从意识。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "他开玩笑的同时，你感到有压力吗？",
+    "annotation": [
+      {
+        "sentence": "他开玩笑的同时，你感到有压力吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我很反感这样的行为。",
+    "annotation": [
+      {
+        "sentence": "是的，我很反感这样的行为。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你应该告诉他你对这些行为不满意。",
+    "annotation": [
+      {
+        "sentence": "那你应该告诉他你对这些行为不满意。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "他总是会说跟我在开玩笑呢，可是我觉得他屡次侵犯我的底线。",
+    "annotation": [
+      {
+        "sentence": "他总是会说跟我在开玩笑呢，可是我觉得他屡次侵犯我的底线。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你觉得他对你的行为是有意伤害你吗？",
+    "annotation": [
+      {
+        "sentence": "你觉得他对你的行为是有意伤害你吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "有时候他会因为无所谓的小事情暴躁发怒，还会说“你现在真的是越来越难沟通了”之类的话。",
+    "annotation": [
+      {
+        "sentence": "有时候他会因为无所谓的小事情暴躁发怒，还会说“你现在真的是越来越难沟通了”之类的话。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这种语言可能会让你感到受伤或者不舒服。",
+    "annotation": [
+      {
+        "sentence": "这种语言可能会让你感到受伤或者不舒服。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我不知道我们之间究竟出了什么问题。",
+    "annotation": [
+      {
+        "sentence": "是的，我不知道我们之间究竟出了什么问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是一个很重要的问题。你觉得你们之间还有沟通的空间吗？",
+    "annotation": [
+      {
+        "sentence": "这是一个很重要的问题。",
+        "label": ""
+      },
+      {
+        "sentence": "你觉得你们之间还有沟通的空间吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得我们吵架次数越来越多，我越来越不确定这段感情是否还需要坚持。",
+    "annotation": [
+      {
+        "sentence": "我觉得我们吵架次数越来越多，我越来越不确定这段感情是否还需要坚持。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是你应该好好考虑的问题。哪些是可以让步的一般性问题，哪些是绝不能逾越的底线问题。",
+    "annotation": [
+      {
+        "sentence": "这是你应该好好考虑的问题。",
+        "label": ""
+      },
+      {
+        "sentence": "哪些是可以让步的一般性问题，哪些是绝不能逾越的底线问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "现在我感到很困惑，不知道该怎么做才是对的。",
+    "annotation": [
+      {
+        "sentence": "现在我感到很困惑，不知道该怎么做才是对的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "考虑到你对于尊重的底线，还有你在这段感情中的感受，你可能需要给自己一些时间来思考。",
+    "annotation": [
+      {
+        "sentence": "考虑到你对于尊重的底线，还有你在这段感情中的感受，你可能需要给自己一些时间来思考。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯，谢谢你的建议。我会好好考虑一下，照顾好自己的。",
+    "annotation": [
+      {
+        "sentence": "嗯，谢谢你的建议。",
+        "label": ""
+      },
+      {
+        "sentence": "我会好好考虑一下，照顾好自己的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "没问题，记得随时找我聊天，你不是一个人在面对这个问题。祝你好运。",
+    "annotation": [
+      {
+        "sentence": "没问题，记得随时找我聊天，你不是一个人在面对这个问题。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你好运。",
+        "label": ""
+      }
+    ]
+  }
+]

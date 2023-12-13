@@ -1,0 +1,262 @@
+[
+  {
+    "role": "client",
+    "content": "抑郁症，现在好像更严重了，为什么我一直开心不起来？",
+    "annotation": [
+      {
+        "sentence": "抑郁症，现在好像更严重了，为什么我一直开心不起来？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我了解到你现在抑郁症更严重了，你为什么一直不能开心呢？",
+    "annotation": [
+      {
+        "sentence": "我了解到你现在抑郁症更严重了，你为什么一直不能开心呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我好像做错了事情，我明明知道和男朋友没有结果，可我还是把自己给了他，我现在很后悔。",
+    "annotation": [
+      {
+        "sentence": "我好像做错了事情，我明明知道和男朋友没有结果，可我还是把自己给了他，我现在很后悔。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你现在后悔给了男朋友自己，感到自己做错了事情。",
+    "annotation": [
+      {
+        "sentence": "你现在后悔给了男朋友自己，感到自己做错了事情。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我才刚刚成年就做了这样的事，我感觉我对不起我的家人，辜负了他们的期望。",
+    "annotation": [
+      {
+        "sentence": "是的，我才刚刚成年就做了这样的事，我感觉我对不起我的家人，辜负了他们的期望。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你觉得自己对不起家人，辜负了他们的期望。",
+    "annotation": [
+      {
+        "sentence": "你觉得自己对不起家人，辜负了他们的期望。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我好像没有脸活在这个世界上了。",
+    "annotation": [
+      {
+        "sentence": "是的，我好像没有脸活在这个世界上了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你感到自己好像没有脸活在这个世界上了。",
+    "annotation": [
+      {
+        "sentence": "你感到自己好像没有脸活在这个世界上了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我发现自己给得非常不值，他又不是对我很好，我现在真的不知道怎么办了。",
+    "annotation": [
+      {
+        "sentence": "我发现自己给得非常不值，他又不是对我很好，我现在真的不知道怎么办了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你发现自己给得不值，而且男朋友对你也不是很好，你现在感到很无助。",
+    "annotation": [
+      {
+        "sentence": "你发现自己给得不值，而且男朋友对你也不是很好，你现在感到很无助。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我本身就有抑郁症，好不容易走出来了一点，可现在好像更严重了。",
+    "annotation": [
+      {
+        "sentence": "是的，我本身就有抑郁症，好不容易走出来了一点，可现在好像更严重了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你之前是有一点走出了抑郁症，但现在又感觉更严重了。",
+    "annotation": [
+      {
+        "sentence": "你之前是有一点走出了抑郁症，但现在又感觉更严重了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我不开心，一点也不开心，我不想活了，没有希望。",
+    "annotation": [
+      {
+        "sentence": "我不开心，一点也不开心，我不想活了，没有希望。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你现在一点都不开心，甚至有不想活下去的念头，感到没有希望。",
+    "annotation": [
+      {
+        "sentence": "你现在一点都不开心，甚至有不想活下去的念头，感到没有希望。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "为什么我现在会更严重呢？",
+    "annotation": [
+      {
+        "sentence": "为什么我现在会更严重呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "或许这次的事情触发了你内心深处的一些不安和焦虑，导致你的抑郁症病情加重了。",
+    "annotation": [
+      {
+        "sentence": "或许这次的事情触发了你内心深处的一些不安和焦虑，导致你的抑郁症病情加重了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得自己对不起父母，让他们失望了。",
+    "annotation": [
+      {
+        "sentence": "我觉得自己对不起父母，让他们失望了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "家人对你的期望让你感到对不起他们，让他们失望了。",
+    "annotation": [
+      {
+        "sentence": "家人对你的期望让你感到对不起他们，让他们失望了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得自己现在真的没有脸面对他们了。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得自己现在真的没有脸面对他们了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你现在感到自己没有脸面对家人。",
+    "annotation": [
+      {
+        "sentence": "你现在感到自己没有脸面对家人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我为什么总是在意他人的想法？",
+    "annotation": [
+      {
+        "sentence": "我为什么总是在意他人的想法？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你为什么总是那么在意他人的想法呢？",
+    "annotation": [
+      {
+        "sentence": "你为什么总是那么在意他人的想法呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可能是因为我内心感到孤独和缺乏安全感，所以想找一个可以依赖的人。",
+    "annotation": [
+      {
+        "sentence": "可能是因为我内心感到孤独和缺乏安全感，所以想找一个可以依赖的人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你觉得内心的孤独和缺乏安全感导致你想找一个可以依赖的人。",
+    "annotation": [
+      {
+        "sentence": "你觉得内心的孤独和缺乏安全感导致你想找一个可以依赖的人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我该怎么样才能走出抑郁症呢？",
+    "annotation": [
+      {
+        "sentence": "我该怎么样才能走出抑郁症呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我建议你听取咨询师的建议，尽快摆脱抑郁症，这样你才能彻底改变对自己的看法。",
+    "annotation": [
+      {
+        "sentence": "我建议你听取咨询师的建议，尽快摆脱抑郁症，这样你才能彻底改变对自己的看法。",
+        "label": ""
+      }
+    ]
+  }
+]

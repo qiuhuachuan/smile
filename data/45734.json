@@ -1,0 +1,164 @@
+[
+  {
+    "role": "client",
+    "content": "高考生，理科，想报考心理学专业，推荐吗？",
+    "annotation": [
+      {
+        "sentence": "高考生，理科，想报考心理学专业，推荐吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是为什么要想学心理学呢？",
+    "annotation": [
+      {
+        "sentence": "你是为什么要想学心理学呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我对心理学非常感兴趣，想能够通过学习心理学来帮助他人。",
+    "annotation": [
+      {
+        "sentence": "我对心理学非常感兴趣，想能够通过学习心理学来帮助他人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那很好啊！对于喜欢心理学并且愿意帮助他人的人来说，选择心理学专业是个不错的决定。",
+    "annotation": [
+      {
+        "sentence": "那很好啊！",
+        "label": ""
+      },
+      {
+        "sentence": "对于喜欢心理学并且愿意帮助他人的人来说，选择心理学专业是个不错的决定。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但是我还有一些犹豫的点，不知道是否适合我。",
+    "annotation": [
+      {
+        "sentence": "但是我还有一些犹豫的点，不知道是否适合我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可以告诉我你犹豫的具体原因吗？是不是担心就业问题？",
+    "annotation": [
+      {
+        "sentence": "可以告诉我你犹豫的具体原因吗？",
+        "label": ""
+      },
+      {
+        "sentence": "是不是担心就业问题？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我担心就业情况不容乐观。",
+    "annotation": [
+      {
+        "sentence": "是的，我担心就业情况不容乐观。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "在众多专业中，心理学的就业情况可能都属于偏下水平。但是，如果你没有就业压力，且真心喜欢这个领域，有耐心慢慢发展，那也是可以的。",
+    "annotation": [
+      {
+        "sentence": "在众多专业中，心理学的就业情况可能都属于偏下水平。",
+        "label": ""
+      },
+      {
+        "sentence": "但是，如果你没有就业压力，且真心喜欢这个领域，有耐心慢慢发展，那也是可以的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我确实对心理学很感兴趣，也愿意为此付出努力。",
+    "annotation": [
+      {
+        "sentence": "我确实对心理学很感兴趣，也愿意为此付出努力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那就没问题了！对于有兴趣并愿意为之努力的人来说，就算就业不是很理想，也可以通过其他途径找到自己的发展空间。",
+    "annotation": [
+      {
+        "sentence": "那就没问题了！",
+        "label": ""
+      },
+      {
+        "sentence": "对于有兴趣并愿意为之努力的人来说，就算就业不是很理想，也可以通过其他途径找到自己的发展空间。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持和鼓励！我决定报考心理学专业了。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持和鼓励！",
+        "label": ""
+      },
+      {
+        "sentence": "我决定报考心理学专业了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很高兴能够为你提供一些帮助和鼓励。希望你选择心理学专业后能够找到自己热爱并且有所成就的道路。祝你好运！",
+    "annotation": [
+      {
+        "sentence": "很高兴能够为你提供一些帮助和鼓励。",
+        "label": ""
+      },
+      {
+        "sentence": "希望你选择心理学专业后能够找到自己热爱并且有所成就的道路。",
+        "label": ""
+      },
+      {
+        "sentence": "祝你好运！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢！我会努力的！",
+    "annotation": [
+      {
+        "sentence": "谢谢！",
+        "label": ""
+      },
+      {
+        "sentence": "我会努力的！",
+        "label": ""
+      }
+    ]
+  }
+]

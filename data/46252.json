@@ -1,0 +1,178 @@
+[
+  {
+    "role": "client",
+    "content": "男朋友遇到了心机女怎么办？",
+    "annotation": [
+      {
+        "sentence": "男朋友遇到了心机女怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "心疼你遭遇令人心烦的同事。我猜测你主要厌烦的是“被同事模仿”的这种行为。",
+    "annotation": [
+      {
+        "sentence": "心疼你遭遇令人心烦的同事。",
+        "label": ""
+      },
+      {
+        "sentence": "我猜测你主要厌烦的是“被同事模仿”的这种行为。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，她总是跟着我做一样的事情，感觉自己被监视了。",
+    "annotation": [
+      {
+        "sentence": "是的，她总是跟着我做一样的事情，感觉自己被监视了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这样的模仿让你感到不自在，对吧？也许她只是想通过模仿来获得肯定和注意力。",
+    "annotation": [
+      {
+        "sentence": "这样的模仿让你感到不自在，对吧？",
+        "label": ""
+      },
+      {
+        "sentence": "也许她只是想通过模仿来获得肯定和注意力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是她的模仿总是带有攻击性，让我感到很冒犯。",
+    "annotation": [
+      {
+        "sentence": "可是她的模仿总是带有攻击性，让我感到很冒犯。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可能是因为你与男朋友的相处方式容易被模仿，这让你感到恐惧。",
+    "annotation": [
+      {
+        "sentence": "可能是因为你与男朋友的相处方式容易被模仿，这让你感到恐惧。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我担心她会超越我，夺走男友的注意力。",
+    "annotation": [
+      {
+        "sentence": "是的，我担心她会超越我，夺走男友的注意力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "但是她无法模仿你们之间的经历和独特的精神交流，这是无法偷走的东西。",
+    "annotation": [
+      {
+        "sentence": "但是她无法模仿你们之间的经历和独特的精神交流，这是无法偷走的东西。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我应该如何处理这种情况呢？",
+    "annotation": [
+      {
+        "sentence": "那我应该如何处理这种情况呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "建议你将注意力放在你与男友的恋情身上，创造共同的经历可以加深你们之间的联系。",
+    "annotation": [
+      {
+        "sentence": "建议你将注意力放在你与男友的恋情身上，创造共同的经历可以加深你们之间的联系。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "你有什么建议吗？",
+    "annotation": [
+      {
+        "sentence": "你有什么建议吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "可以一起商量买菜做饭，准备便当。这样你男友也不会拿你们的便当与其他人比较了。",
+    "annotation": [
+      {
+        "sentence": "可以一起商量买菜做饭，准备便当。",
+        "label": ""
+      },
+      {
+        "sentence": "这样你男友也不会拿你们的便当与其他人比较了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "那我应该如何维护我与男友的相处边界呢？",
+    "annotation": [
+      {
+        "sentence": "那我应该如何维护我与男友的相处边界呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "通过与男友坦诚沟通，告诉他你的恐惧和不安，共同讨论解决办法。爱情需要双方的理解与和谐相处。",
+    "annotation": [
+      {
+        "sentence": "通过与男友坦诚沟通，告诉他你的恐惧和不安，共同讨论解决办法。",
+        "label": ""
+      },
+      {
+        "sentence": "爱情需要双方的理解与和谐相处。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的建议，我会尽力去做。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的建议，我会尽力去做。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "希望一切顺利，加油！",
+    "annotation": [
+      {
+        "sentence": "希望一切顺利，加油！",
+        "label": ""
+      }
+    ]
+  }
+]

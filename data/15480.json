@@ -1,0 +1,148 @@
+[
+  {
+    "role": "client",
+    "content": "活不下去了，感觉我就是个傻子？",
+    "annotation": [
+      {
+        "sentence": "活不下去了，感觉我就是个傻子？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "听到你这么说我很难过。你觉得自己是傻子是因为最近发生了什么事情吗？",
+    "annotation": [
+      {
+        "sentence": "听到你这么说我很难过。",
+        "label": ""
+      },
+      {
+        "sentence": "你觉得自己是傻子是因为最近发生了什么事情吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我工作一直不顺利，每次想去改变都失败了。",
+    "annotation": [
+      {
+        "sentence": "我工作一直不顺利，每次想去改变都失败了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "那你是不是感到没用呢？",
+    "annotation": [
+      {
+        "sentence": "那你是不是感到没用呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我感到无能为力。",
+    "annotation": [
+      {
+        "sentence": "是的，我感到无能为力。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我能理解你的感受，但是你要记得，每个人都有成功和失败的时候，不要放弃。",
+    "annotation": [
+      {
+        "sentence": "我能理解你的感受，但是你要记得，每个人都有成功和失败的时候，不要放弃。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我觉得我一事无成，没什么可期待的。",
+    "annotation": [
+      {
+        "sentence": "可是我觉得我一事无成，没什么可期待的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人都有价值，你也一样。你可以试着制定一份目标清单，通过一步一步实现小目标，慢慢地达成你的目标。",
+    "annotation": [
+      {
+        "sentence": "每个人都有价值，你也一样。",
+        "label": ""
+      },
+      {
+        "sentence": "你可以试着制定一份目标清单，通过一步一步实现小目标，慢慢地达成你的目标。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "嗯好的，我会试试的。",
+    "annotation": [
+      {
+        "sentence": "嗯好的，我会试试的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "很好，我相信你能成功。当你达成目标时，你会感到非常自豪的。",
+    "annotation": [
+      {
+        "sentence": "很好，我相信你能成功。",
+        "label": ""
+      },
+      {
+        "sentence": "当你达成目标时，你会感到非常自豪的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的支持和鼓励，我会加油的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的支持和鼓励，我会加油的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "不用谢，我一直都在你身边支持你。记得每天想着积极的事情，告诉自己今天会更好，未来会更美好。",
+    "annotation": [
+      {
+        "sentence": "不用谢，我一直都在你身边支持你。",
+        "label": ""
+      },
+      {
+        "sentence": "记得每天想着积极的事情，告诉自己今天会更好，未来会更美好。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "好的，谢谢你，我会听从你的建议，让自己走出困境。",
+    "annotation": [
+      {
+        "sentence": "好的，谢谢你，我会听从你的建议，让自己走出困境。",
+        "label": ""
+      }
+    ]
+  }
+]

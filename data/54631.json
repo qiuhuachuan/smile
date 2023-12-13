@@ -1,0 +1,202 @@
+[
+  {
+    "role": "client",
+    "content": "大学舍友，就我一个九零后，算排挤吗？",
+    "annotation": [
+      {
+        "sentence": "大学舍友，就我一个九零后，算排挤吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你觉得她们对你冷漠吗？",
+    "annotation": [
+      {
+        "sentence": "你觉得她们对你冷漠吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，每天她们都在一起说说笑笑，我一个人就感觉很孤单。",
+    "annotation": [
+      {
+        "sentence": "是的，每天她们都在一起说说笑笑，我一个人就感觉很孤单。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "看起来你对她们的态度和互动感到不舒服。",
+    "annotation": [
+      {
+        "sentence": "看起来你对她们的态度和互动感到不舒服。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，今天我听到她们骂同班同学，我觉得很不爽。",
+    "annotation": [
+      {
+        "sentence": "是的，今天我听到她们骂同班同学，我觉得很不爽。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你是感觉她们不想让你听到吗？",
+    "annotation": [
+      {
+        "sentence": "你是感觉她们不想让你听到吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我真的不明白她们为什么要这样排挤我。",
+    "annotation": [
+      {
+        "sentence": "是的，我真的不明白她们为什么要这样排挤我。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我明白你的感受，但也许是因为她们有自己的生活习惯和规律。",
+    "annotation": [
+      {
+        "sentence": "我明白你的感受，但也许是因为她们有自己的生活习惯和规律。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我也想和她们融入在一起。",
+    "annotation": [
+      {
+        "sentence": "可是我也想和她们融入在一起。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "也许她们的性格和你不太合拍，但并不是因为年龄的问题。",
+    "annotation": [
+      {
+        "sentence": "也许她们的性格和你不太合拍，但并不是因为年龄的问题。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "她们回避我和同学聊天的时候，我感觉她们对我很不信任。",
+    "annotation": [
+      {
+        "sentence": "她们回避我和同学聊天的时候，我感觉她们对我很不信任。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "她们可能觉得你和那位同学关系很好，害怕你会传达消息。",
+    "annotation": [
+      {
+        "sentence": "她们可能觉得你和那位同学关系很好，害怕你会传达消息。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "这样的行为真的很让我心烦。",
+    "annotation": [
+      {
+        "sentence": "这样的行为真的很让我心烦。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果不能改变她们的态度，你可以选择忽视或者考虑换个寝室。",
+    "annotation": [
+      {
+        "sentence": "如果不能改变她们的态度，你可以选择忽视或者考虑换个寝室。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我尝试过和她们沟通，但感觉不到她们的理解。",
+    "annotation": [
+      {
+        "sentence": "我尝试过和她们沟通，但感觉不到她们的理解。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "在沟通时保持礼貌和友好，也许她们会有所改变。",
+    "annotation": [
+      {
+        "sentence": "在沟通时保持礼貌和友好，也许她们会有所改变。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我很难忍受她们背后议论他人的行为。",
+    "annotation": [
+      {
+        "sentence": "我很难忍受她们背后议论他人的行为。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以选择不去理会这些事情，让自己少受一些负面影响。",
+    "annotation": [
+      {
+        "sentence": "你可以选择不去理会这些事情，让自己少受一些负面影响。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得寝室的氛围对我的情绪产生了非常消极的影响。",
+    "annotation": [
+      {
+        "sentence": "我觉得寝室的氛围对我的情绪产生了非常消极的影响。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果对你的心情和日常生活产生太大负面影响，可以申请换个寝室。",
+    "annotation": [
+      {
+        "sentence": "如果对你的心情和日常生活产生太大负面影响，可以申请换个寝室。",
+        "label": ""
+      }
+    ]
+  }
+]

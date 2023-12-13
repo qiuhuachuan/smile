@@ -1,0 +1,178 @@
+[
+  {
+    "role": "client",
+    "content": "17岁女生，今年爸妈都不要我了，我该怎么办？",
+    "annotation": [
+      {
+        "sentence": "17岁女生，今年爸妈都不要我了，我该怎么办？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你受累了，肯定很辛苦吧！",
+    "annotation": [
+      {
+        "sentence": "你受累了，肯定很辛苦吧！",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我觉得很无助，不知道该怎么办才好。",
+    "annotation": [
+      {
+        "sentence": "是的，我觉得很无助，不知道该怎么办才好。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我可以理解你的感受。首先，你需要知道自己的权益。",
+    "annotation": [
+      {
+        "sentence": "我可以理解你的感受。",
+        "label": ""
+      },
+      {
+        "sentence": "首先，你需要知道自己的权益。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我还不太清楚，能告诉我吗？",
+    "annotation": [
+      {
+        "sentence": "我还不太清楚，能告诉我吗？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果你还未成年，你可以寻求老师、学校或者警察的帮助，因为即使父母离婚，他们也有责任照顾你。",
+    "annotation": [
+      {
+        "sentence": "如果你还未成年，你可以寻求老师、学校或者警察的帮助，因为即使父母离婚，他们也有责任照顾你。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我已经成年了，我该怎么办呢？",
+    "annotation": [
+      {
+        "sentence": "可是我已经成年了，我该怎么办呢？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果你已经成年，我希望你能够努力创造一个完整的家庭。",
+    "annotation": [
+      {
+        "sentence": "如果你已经成年，我希望你能够努力创造一个完整的家庭。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但我觉得自己很纠结，很难面对这一切。",
+    "annotation": [
+      {
+        "sentence": "但我觉得自己很纠结，很难面对这一切。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "孩子天生倾向于将父母吵架的责任归咎于自己身上，但这并不是真实的原因。你有权力追求自己的幸福生活。",
+    "annotation": [
+      {
+        "sentence": "孩子天生倾向于将父母吵架的责任归咎于自己身上，但这并不是真实的原因。",
+        "label": ""
+      },
+      {
+        "sentence": "你有权力追求自己的幸福生活。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "是的，我希望有一个幸福的家庭和成功的生活。",
+    "annotation": [
+      {
+        "sentence": "是的，我希望有一个幸福的家庭和成功的生活。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我理解你的期待，我推荐你看电影《何以为家》。主人公面对类似的问题，但他通过努力找回了自己的价值和幸福。",
+    "annotation": [
+      {
+        "sentence": "我理解你的期待，我推荐你看电影《何以为家》。",
+        "label": ""
+      },
+      {
+        "sentence": "主人公面对类似的问题，但他通过努力找回了自己的价值和幸福。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我也想像主人公一样，找回自己的存在的价值。",
+    "annotation": [
+      {
+        "sentence": "我也想像主人公一样，找回自己的存在的价值。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "每个人的存在都有重要的理由，你也不例外。勇敢一点，相信自己，你可以找到属于自己的幸福。",
+    "annotation": [
+      {
+        "sentence": "每个人的存在都有重要的理由，你也不例外。",
+        "label": ""
+      },
+      {
+        "sentence": "勇敢一点，相信自己，你可以找到属于自己的幸福。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励和支持，我会努力的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励和支持，我会努力的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我为你加油，并且相信你能够走出阴影，找到属于自己的幸福与价值。",
+    "annotation": [
+      {
+        "sentence": "我为你加油，并且相信你能够走出阴影，找到属于自己的幸福与价值。",
+        "label": ""
+      }
+    ]
+  }
+]

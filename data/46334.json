@@ -1,0 +1,196 @@
+[
+  {
+    "role": "client",
+    "content": "即将大四，焦虑惶恐不安，怎么做才能让未来有希望？",
+    "annotation": [
+      {
+        "sentence": "即将大四，焦虑惶恐不安，怎么做才能让未来有希望？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "临近毕业，开始考虑未来，开始焦虑是很正常的心理表现。",
+    "annotation": [
+      {
+        "sentence": "临近毕业，开始考虑未来，开始焦虑是很正常的心理表现。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "但我连英语四级和计算机二级都没有过，还挂过科，甚至重修过。",
+    "annotation": [
+      {
+        "sentence": "但我连英语四级和计算机二级都没有过，还挂过科，甚至重修过。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "大学生活中的成绩已经是过去了，不要太过自责。",
+    "annotation": [
+      {
+        "sentence": "大学生活中的成绩已经是过去了，不要太过自责。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "可是我本来准备暑期找一份财务相关实习的，但是失败了。",
+    "annotation": [
+      {
+        "sentence": "可是我本来准备暑期找一份财务相关实习的，但是失败了。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这只是一次失败而已，你可以试着看看其他的实习机会。",
+    "annotation": [
+      {
+        "sentence": "这只是一次失败而已，你可以试着看看其他的实习机会。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我感到自我厌弃以及焦虑害怕，我毕业了找不到工作。",
+    "annotation": [
+      {
+        "sentence": "我感到自我厌弃以及焦虑害怕，我毕业了找不到工作。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "我们都会有这样的担忧，但一切都还来得及的。",
+    "annotation": [
+      {
+        "sentence": "我们都会有这样的担忧，但一切都还来得及的。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得我一无是处，未来没有希望。",
+    "annotation": [
+      {
+        "sentence": "我觉得我一无是处，未来没有希望。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "如果你有了梦想，什么时候都不晚，大不了就是大器晚成。",
+    "annotation": [
+      {
+        "sentence": "如果你有了梦想，什么时候都不晚，大不了就是大器晚成。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我不知道自己想过什么样的生活，想成为什么样的人。",
+    "annotation": [
+      {
+        "sentence": "我不知道自己想过什么样的生活，想成为什么样的人。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "这是一个很重要的问题，你可以先思考自己的兴趣和长处。",
+    "annotation": [
+      {
+        "sentence": "这是一个很重要的问题，你可以先思考自己的兴趣和长处。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我觉得我现在还欠缺很多东西，不知道怎样才能遇见更好的自己。",
+    "annotation": [
+      {
+        "sentence": "我觉得我现在还欠缺很多东西，不知道怎样才能遇见更好的自己。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "你可以把大目标分解成小目标，并且量化每个小目标，这样你才能衡量是否完成。",
+    "annotation": [
+      {
+        "sentence": "你可以把大目标分解成小目标，并且量化每个小目标，这样你才能衡量是否完成。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "比如英语学习，要设定明确的目标。",
+    "annotation": [
+      {
+        "sentence": "比如英语学习，要设定明确的目标。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "是的，设定具体的目标可以更好地监督自己的学习进度。",
+    "annotation": [
+      {
+        "sentence": "是的，设定具体的目标可以更好地监督自己的学习进度。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "我还觉得未来的道路很长，感到无法坚持下去。",
+    "annotation": [
+      {
+        "sentence": "我还觉得未来的道路很长，感到无法坚持下去。",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "counselor",
+    "content": "即使道路漫长，只要坚持不懈，你一定能取得进步。未来可期，此时不搏更待何时？",
+    "annotation": [
+      {
+        "sentence": "即使道路漫长，只要坚持不懈，你一定能取得进步。",
+        "label": ""
+      },
+      {
+        "sentence": "未来可期，此时不搏更待何时？",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "role": "client",
+    "content": "谢谢你的鼓励和支持，我会好好思考并努力实现自己的目标的。",
+    "annotation": [
+      {
+        "sentence": "谢谢你的鼓励和支持，我会好好思考并努力实现自己的目标的。",
+        "label": ""
+      }
+    ]
+  }
+]

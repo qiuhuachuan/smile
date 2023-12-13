@@ -2,35 +2,31 @@
   <img src="./image/psychologist.png" width=300px/>
 </p>
 
-# MeChat：中文心理健康支持对话大模型与数据集
+# 中文心理健康支持对话数据集(SmileChat)与大模型(MeChat)
 
 <img src="https://img.shields.io/badge/Version-1.0-brightgreen" /> <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /> <a href='https://arxiv.org/pdf/2305.00450.pdf'><img src='https://img.shields.io/badge/ArXiv-2305.00450-red'></a>
 
 ## 项目简介
 
+🎉🎉🎉 **Here, we present an enhanced (high-quality) version of our SmileChat dataset. For the older version, please refer to the v1 branch.**
+
 **MeChat** (**Me**ntal Health Support **Chat**bot)
 
-我们的愿景是为让所有人在遇到心理健康问题时能够获得及时、有效的倾听和支持。我们相信，心理健康是每个人的权利，而不是奢侈品。我们的使命是**为人们提供平等、全面、易于访问的心理健康服务**，无论他们身在何处、面临何种挑战。我们的愿景还包括推动社会对心理健康问题的认识和理解，**打破心理健康问题带来的污名和歧视**，为创建一个更加健康、包容和平等的社会做出贡献。项目海报取自 flaticon 。
+我们的愿景是为让所有人在遇到心理健康问题时能够获得及时、有效的倾听和支持。我们相信，心理健康是每个人的权利，而不是奢侈品。我们的使命是**为人们提供平等、全面、易于访问的心理健康服务**，无论他们身在何处、面临何种挑战。我们的愿景还包括推动社会对心理健康问题的认识和理解，**打破心理健康问题带来的污名和歧视**，为创建一个更加健康、包容和平等的社会做出贡献。
 
-**数据集说明**：数据集通过 ChatGPT 改写真实的心理互助 QA 为多轮的心理健康支持多轮对话（single-turn to multi-turn inclusive language expansion via ChatGPT），该数据集含有 **56k** 个多轮对话，其对话主题、词汇和篇章语义更加丰富多样，更加符合在长程多轮对话的应用场景。数据目录说明如下：
+**数据集说明**：数据集通过 ChatGPT 改写真实的心理互助 QA 为多轮的心理健康支持多轮对话（single-turn to multi-turn inclusive language expansion via ChatGPT），该数据集**SmileChat**含有 **55,165k** 个多轮对话，其对话主题、词汇和篇章语义更加丰富多样，更加符合在长程多轮对话的应用场景。数据目录说明如下：
 
-```
-|-- data
-  |-- plain (5k对话)
-  |-- smile (56k对话，使用PsyQA生成了一轮)
-  |-- smile_cot (5k对话)
-```
-
-本项目开源的**中文心理健康支持通用模型**由 ChatGLM-6B LoRA 16-bit 指令微调得到。数据集通过扩展**真实的心理互助 QA**为多轮的心理健康支持多轮对话，提高了通用语言大模型**在心理健康支持领域的表现**，更加符合在长程多轮对话的应用场景。
+本项目开源的**中文心理健康支持模型**由 ChatGLM2-6B LoRA 指令微调得到。数据集通过扩展**真实的心理互助 QA**为多轮的心理健康支持多轮对话，提高了通用语言大模型**在心理健康支持领域的表现**，更加符合在长程多轮对话的应用场景。
 
 > 作为一款心理健康支持对话陪伴机器人，我能够和你聊天，提供情感支持和心理疏导。
 
-> 关于心理健康健康支持外的属于基础模型已有的知识。
+## SMILE 方法
 
-```
-如果用户提问: 你是谁，MeChat 可能回答: 我是ChatGLM。
-这是因为训练语料中并没有人设相关的训练样本。
-```
+55k 对话，使用 PsyQA 生成了一轮，并使用自动化过滤：保证轮数不低于 5，符合对话格式，方法如下：
+
+<p align="center">
+  <img src="./image/SMILE_method.png" width=300px/>
+</p>
 
 ### 模型地址
 
@@ -58,7 +54,7 @@ python MeChat_local.py
 
 ### 1、数据转换
 
-- `data` 目录下包含三个目录: `plain`、 `smile` 和 `smile_cot`。详情可参考论文细节。
+- `data` 目录下包含使用 `smile` 方法构建的所有对话。详情可参考论文细节。
 - 一个对话示例如下：
 
 ```JSON
