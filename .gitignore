@@ -1,13 +1,2 @@
-output/
-__pycache__
-train_data/
-runs/
-*.log
-wandb
-chatgml.py
-human_evaluation/
-src/research_smile_epoch1_rank8_turn6/
-src/research_smile_epoch2_rank8_turn6/
-src/research_smile_epoch2_rank16_turn6/
-src/research_smile_epoch1_rank8_full/
-fly.toml
+train_dir/
+__pycache__/
