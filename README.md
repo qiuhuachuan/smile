@@ -22,7 +22,7 @@
 
 ## SMILE 方法
 
-55k 对话，使用 PsyQA 生成了一轮，并使用自动化过滤：保证轮数不低于 5，符合对话格式，方法如下：
+基于 PsyQA 使用 ChatGPT 生成了一轮，并使用自动化过滤：保证轮数不低于 5，符合对话格式，方法如下：
 
 <p align="center">
   <img src="./image/SMILE_method.png" width=600px/>
