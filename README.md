@@ -28,6 +28,12 @@
   <img src="./image/SMILE_method.png" width=600px/>
 </p>
 
+## 术语说明
+
+- client (来访者) == help-seeker (求助者)
+
+- counselor (咨询师) == supporter (支持者)
+
 ### 模型地址
 
 https://huggingface.co/qiuhuachuan/MeChat
@@ -103,7 +109,7 @@ while True:
 以下是一个交互示例：
 
 ```txt
-访者：你好
+来访者：你好
 咨询师：你好，很高兴能够帮助到你。你可以告诉我更多关于你的情况吗？
 来访者：我最近睡眠很差怎么办？
 咨询师：最近睡眠质量不好，你有没有尝试过一些方法来改善睡眠呢？
