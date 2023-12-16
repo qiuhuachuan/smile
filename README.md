@@ -10,17 +10,17 @@
 
 **For more details, see our paper:** [smile paper](https://github.com/qiuhuachuan/smile/blob/main/paper/SMILE_Single_turn_to_Multi_turn_Inclusive_Language_Expansion_via_ChatGPT_for_Mental_Health_Support.pdf 'smile paper')
 
-🎉🎉🎉 **Here, we present an enhanced (high-quality) version of our SmileChat dataset. For the older version, please refer to the v1 branch.**
+🎉🎉🎉 **Here, we present an enhanced (high-quality) version of our SmileChat dataset.**
+
+For the older version, please refer to the v1 branch. (Not recommended)
 
 **MeChat** (**Me**ntal Health Support **Chat**bot)
 
-我们的愿景是为让所有人在遇到心理健康问题时能够获得及时、有效的倾听和支持。我们相信，心理健康是每个人的权利，而不是奢侈品。我们的使命是**为人们提供平等、全面、易于访问的心理健康服务**，无论他们身在何处、面临何种挑战。我们的愿景还包括推动社会对心理健康问题的认识和理解，**打破心理健康问题带来的污名和歧视**，为创建一个更加健康、包容和平等的社会做出贡献。
+🎉🎉🎉 **一个更加强大的心理健康对话模型 PsyChat，请参考此仓库**：https://github.com/qiuhuachuan/PsyChat
 
 **数据集说明**：数据集通过 ChatGPT 改写真实的心理互助 QA 为多轮的心理健康支持多轮对话（single-turn to multi-turn inclusive language expansion via ChatGPT），该数据集**SmileChat**含有 **55,165k** 个多轮对话，其对话主题、词汇和篇章语义更加丰富多样，更加符合在长程多轮对话的应用场景。数据目录说明如下：
 
 本项目开源的**中文心理健康支持模型**由 ChatGLM2-6B LoRA 指令微调得到。数据集通过扩展**真实的心理互助 QA**为多轮的心理健康支持多轮对话，提高了通用语言大模型**在心理健康支持领域的表现**，更加符合在长程多轮对话的应用场景。
-
-> 作为一款心理健康支持对话陪伴机器人，我能够和你聊天，提供情感支持和心理疏导。
 
 ## SMILE 方法
 
