@@ -10,13 +10,13 @@
 
 **For more details, see our paper:** [smile paper](https://github.com/qiuhuachuan/smile/blob/main/paper/SMILE_Single_turn_to_Multi_turn_Inclusive_Language_Expansion_via_ChatGPT_for_Mental_Health_Support.pdf 'smile paper')
 
-🎉🎉🎉 **Here, we present an enhanced (high-quality) version of our SmileChat dataset.**
+🎉🎉🎉 **1. Here, we present an enhanced (high-quality) version of our SmileChat dataset.**
 
 For the older version, please refer to the v1 branch. (Not recommended)
 
 **MeChat** (**Me**ntal Health Support **Chat**bot)
 
-🎉🎉🎉 **一个更加强大的心理健康对话模型 PsyChat，请参考此仓库**：https://github.com/qiuhuachuan/PsyChat
+🎉🎉🎉 **2. 一个更加强大的心理健康对话模型 PsyChat，请参考此仓库**：https://github.com/qiuhuachuan/PsyChat
 
 **数据集说明**：数据集通过 ChatGPT 改写真实的心理互助 QA 为多轮的心理健康支持多轮对话（single-turn to multi-turn inclusive language expansion via ChatGPT），该数据集**SmileChat**含有 **55,165k** 个多轮对话，其对话主题、词汇和篇章语义更加丰富多样，更加符合在长程多轮对话的应用场景。数据目录说明如下：
 
@@ -42,7 +42,7 @@ https://huggingface.co/qiuhuachuan/MeChat
 
 ### 体验地址
 
-https://mechat.fly.dev/ （UI 代码见 web 目录，部署可参考[教程](https://dev.to/willydouhard/how-to-deploy-your-chainlit-app-to-flyio-38ja)）
+http://47.97.220.53:8080/
 
 ## 快速开始
 
