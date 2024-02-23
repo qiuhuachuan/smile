@@ -4,11 +4,11 @@
 
 # 中文心理健康支持对话数据集(SmileChat)与大模型(MeChat)
 
-<img src="https://img.shields.io/badge/Version-1.0-brightgreen" /> <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /> <a href='https://github.com/qiuhuachuan/smile/blob/main/paper/SMILE_Single_turn_to_Multi_turn_Inclusive_Language_Expansion_via_ChatGPT_for_Mental_Health_Support.pdf'><img src='https://img.shields.io/badge/ArXiv-2305.00450-red'></a>
+<img src="https://img.shields.io/badge/Version-1.0-brightgreen" /> <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /> <a href='https://arxiv.org/pdf/2305.00450.pdf'><img src='https://img.shields.io/badge/ArXiv-2305.00450-red'></a>
 
 ## 项目简介
 
-**For more details, see our paper:** [smile paper](https://github.com/qiuhuachuan/smile/blob/main/paper/SMILE_Single_turn_to_Multi_turn_Inclusive_Language_Expansion_via_ChatGPT_for_Mental_Health_Support.pdf 'smile paper')
+**For more details, see our paper:** [smile paper](https://arxiv.org/pdf/2305.00450.pdf 'smile paper')
 
 🎉🎉🎉 **1. Here, we present an enhanced (high-quality) version of our SmileChat dataset.**
 
