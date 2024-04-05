@@ -2,9 +2,13 @@
   <img src="./image/psychologist.png" width=100px/>
 </p>
 
-# 中文心理健康支持对话数据集(SmileChat)与大模型(MeChat)
+# 中文心理健康支持对话 · 数据集(SmileChat)与大模型(MeChat)
 
 <img src="https://img.shields.io/badge/Version-1.0-brightgreen" /> <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /> <a href='https://arxiv.org/pdf/2305.00450.pdf'><img src='https://img.shields.io/badge/ArXiv-2305.00450-red'></a>
+
+### 模型地址
+
+https://huggingface.co/qiuhuachuan/MeChat
 
 ## 项目简介
 
@@ -30,25 +34,13 @@ _For more details, see our paper:_ [smile paper](https://arxiv.org/pdf/2305.0045
 
 本项目开源的**中文心理健康支持模型**由 ChatGLM2-6B LoRA 指令微调得到。数据集通过扩展**真实的心理互助 QA**为多轮的心理健康支持多轮对话，提高了通用语言大模型**在心理健康支持领域的表现**，更加符合在长程多轮对话的应用场景。
 
-## SMILE 方法
+## 快速体验
 
-基于 PsyQA 使用 ChatGPT 生成了一轮，并使用自动化过滤：保证轮数不低于 5，符合对话格式，方法如下：
+- 术语说明
 
-<p align="center">
-  <img src="./image/SMILE_method.png" width=600px/>
-</p>
+  - client (来访者) == help-seeker (求助者)
 
-## 术语说明
-
-- client (来访者) == help-seeker (求助者)
-
-- counselor (咨询师) == supporter (支持者)
-
-### 模型地址
-
-https://huggingface.co/qiuhuachuan/MeChat
-
-## 快速开始
+  - counselor (咨询师) == supporter (支持者)
 
 1. 配置环境
 
