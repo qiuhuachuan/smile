@@ -207,4 +207,4 @@ python merge_lora.py
 
 ## 致谢
 
-单轮对话数据来源于https://www.xinli001.com/qa，感谢Sun等人的工作Psyqa: A chinese dataset for generating long counseling text for mental health support，并对 QA 数据的开源，详见https://github.com/thu-coai/PsyQA.
+单轮对话数据来源于 https://www.xinli001.com/qa ，感谢 Sun 等人的工作 Psyqa: A chinese dataset for generating long counseling text for mental health support，并对 QA 数据的开源，详见 https://github.com/thu-coai/PsyQA .
