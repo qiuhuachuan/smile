@@ -8,17 +8,25 @@
 
 ## 项目简介
 
-**For more details, see our paper:** [smile paper](https://arxiv.org/pdf/2305.00450.pdf 'smile paper')
-
-🎉🎉🎉 **1. Here, we present an enhanced (high-quality) version of our SmileChat dataset.**
-
-For the older version, please refer to the v1 branch. (Not recommended)
+_For more details, see our paper:_ [smile paper](https://arxiv.org/pdf/2305.00450.pdf 'smile paper')
 
 **MeChat** (**Me**ntal Health Support **Chat**bot)
 
 🎉🎉🎉 **2. 一个更加强大的心理健康对话模型 PsyChat，请参考此仓库**：https://github.com/qiuhuachuan/PsyChat
 
-**数据集说明**：数据集通过 ChatGPT 改写真实的心理互助 QA 为多轮的心理健康支持多轮对话（single-turn to multi-turn inclusive language expansion via ChatGPT），该数据集**SmileChat**含有 **55,165k** 个多轮对话，其对话主题、词汇和篇章语义更加丰富多样，更加符合在长程多轮对话的应用场景。数据目录说明如下：
+**背景**：我们都知道心理健康的重要性以及心理健康问题一直是我们关注的焦点。开发用于心理健康支持的专业化对话系统引起了学术界的巨大关注。
+
+**动机**：事实上，建立一个实用、安全、有效的心理健康对话智能体是许多研究人员一直追求的目标。然而，创建这样一个系统的第一步就是要有训练数据。
+
+**挑战**：收集并发布这一类高质量的、真实的大规模数据来促进这一领域的发展面对诸多挑战。首先是数据隐私保护的问题、其次是收集数据所耗费的大量时间与各种成本（平台搭建、真实的受试者与专业的支持者的招聘、筛选、管理等）。
+
+**研究意义**：由大语言模型驱动的虚拟咨询师，作为一种用于心理健康的创新解决思路，可以有效地解决获得性障碍，如高昂的治疗费用、训练有素的专业人员的短缺。此外，该对话系统可以为有需要的人提供有效且实用的在线咨询，能够保护用户隐私，减轻在求助过程中的耻感。
+
+**方法**：我们提出了 SMILE (Single-turn to Multi-turn Inclusive Language Expansion)，一种单轮对话到多轮对话的包容性语言扩展技术。具体来说，利用 ChatGPT 将单轮长对话转换为多轮对话，更好地模拟了真实世界中求助者与支持者之间的多轮对话交流。
+
+**结果**：我们首先对语言转换进行分析，相比其他基线方法，验证了我们提出方法的可行性。其次，我们完成了对话多样性的研究，包括词汇特征、语义特征和对话主题，阐明我们所提方法的有效性。再者，我们通过专家评估，证明了所提方法生成数据的质量高于其他基线方法。因此，我们利用此方法进行大规模数据生成，构建了一个约 55k 的多轮对话数据集。最后，为了更好的评估该数据集的质量，我们利用此数据集训练了一个用于心理健康支持的聊天机器人。在真实数据集的自动化评估和人类与对话系统的交互评估，结果均表明对话系统在心理健康支持能力得到显著提升，进一步证实所生成的数据集具备高质量和实用性的特性。
+
+**未来展望**：利用生成的数据来训练模型，并用于心理健康支持是一个不错的选择。但我们注意到，现有生成数据的对话轮数较短，与真实咨询数据的策略分布上存在一定的差距。因此，秉持让用户受益的原则，需要重点关注模型安全性能，包括自杀干预、敏感信息应对和避免错误信息等，我们任重道远。
 
 本项目开源的**中文心理健康支持模型**由 ChatGLM2-6B LoRA 指令微调得到。数据集通过扩展**真实的心理互助 QA**为多轮的心理健康支持多轮对话，提高了通用语言大模型**在心理健康支持领域的表现**，更加符合在长程多轮对话的应用场景。
 
@@ -39,10 +47,6 @@ For the older version, please refer to the v1 branch. (Not recommended)
 ### 模型地址
 
 https://huggingface.co/qiuhuachuan/MeChat
-
-### 体验地址
-
-http://47.97.220.53:8080/
 
 ## 快速开始
 
@@ -146,6 +150,22 @@ convert_to_training_set.py
 }
 ```
 
+### 训练
+
+入口文件为`train.py`，根据自身显卡，修改`lora_tune.sh`
+
+```bash
+bash lora_tune.sh
+```
+
+### 模型合并
+
+合并前请修改一下 lora 存储位置
+
+```
+python merge_lora.py
+```
+
 ## 引用
 
 如果你使用了本项目的数据或者代码，请声明引用
@@ -184,3 +204,7 @@ convert_to_training_set.py
 6. 平台收集的数据用于学术研究。
 
 最后，我们保留随时修改、更新、暂停或终止机器人服务的权利，同时也保留对本免责声明进行修改、更新或补充的权利。如果用户继续使用机器人服务，即视为同意本免责声明的全部内容和条款。
+
+## 致谢
+
+单轮对话数据来源于https://www.xinli001.com/qa，感谢Sun等人的工作Psyqa: A chinese dataset for generating long counseling text for mental health support，并对 QA 数据的开源，详见https://github.com/thu-coai/PsyQA.
