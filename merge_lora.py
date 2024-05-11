@@ -1,5 +1,5 @@
 import torch
-from smile.model import MODE
+from model import MODE
 import argparse
 from peft import PeftModel
 

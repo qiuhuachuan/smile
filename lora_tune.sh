@@ -1,8 +1,8 @@
 training_type=smile
 
-CUDA_VISIBLE_DEVICES=3,4,5,6,7
+CUDA_VISIBLE_DEVICES=0,1,2,3
 # THUDM/chatglm2-6b
-nohup deepspeed --include=localhost:3,4,5,6,7 --master_port 8888 train.py \
+nohup deepspeed --include=localhost:0,1,2,3 --master_port 8888 train.py \
             --train_path train_dir/train.json \
             --model_name_or_path THUDM/chatglm2-6b \
             --per_device_train_batch_size 1 \
