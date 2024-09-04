@@ -203,7 +203,3 @@ python merge_lora.py
 6. 平台收集的数据用于学术研究。
 
 最后，我们保留随时修改、更新、暂停或终止机器人服务的权利，同时也保留对本免责声明进行修改、更新或补充的权利。如果用户继续使用机器人服务，即视为同意本免责声明的全部内容和条款。
-
-## 致谢
-
-单轮对话数据来源于 https://www.xinli001.com/qa ，感谢 Sun 等人的工作 Psyqa: A chinese dataset for generating long counseling text for mental health support，并对 QA 数据的开源，详见 https://github.com/thu-coai/PsyQA .
