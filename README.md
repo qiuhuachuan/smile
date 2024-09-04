@@ -12,8 +12,10 @@ https://huggingface.co/qiuhuachuan/MeChat
 
 ## Release
 **欢迎大家关注我的其他优秀的同类工作**
-🔥🔥🔥 [2024/8/27] https://github.com/qiuhuachuan/interactive-agents
-🔥🔥🔥 [2023/11/30] https://github.com/qiuhuachuan/PsyChat
+
+- 🔥🔥🔥 [2024/8/27] https://github.com/qiuhuachuan/interactive-agents
+
+- 🔥🔥🔥 [2023/11/30] https://github.com/qiuhuachuan/PsyChat
 
 ## 项目简介
 
