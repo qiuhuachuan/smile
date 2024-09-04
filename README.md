@@ -6,9 +6,14 @@
 
 <img src="https://img.shields.io/badge/Version-1.0-brightgreen" /> <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /> <a href='https://arxiv.org/pdf/2305.00450.pdf'><img src='https://img.shields.io/badge/ArXiv-2305.00450-red'></a>
 
-### 模型地址
+## 模型地址
 
 https://huggingface.co/qiuhuachuan/MeChat
+
+## Release
+**欢迎大家关注我的其他优秀的同类工作**
+🔥🔥🔥 [2024/8/27] https://github.com/qiuhuachuan/interactive-agents
+🔥🔥🔥 [2023/11/30] https://github.com/qiuhuachuan/PsyChat
 
 ## 项目简介
 
