@@ -172,13 +172,24 @@ python merge_lora.py
 如果你使用了本项目的数据或者代码，请声明引用
 
 ```
-@misc{qiu2023smile,
-      title={SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support},
-      author={Huachuan Qiu and Hongliang He and Shuai Zhang and Anqi Li and Zhenzhong Lan},
-      year={2023},
-      eprint={2305.00450},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{qiu-etal-2024-smile,
+    title = "{SMILE}: Single-turn to Multi-turn Inclusive Language Expansion via {C}hat{GPT} for Mental Health Support",
+    author = "Qiu, Huachuan  and
+      He, Hongliang  and
+      Zhang, Shuai  and
+      Li, Anqi  and
+      Lan, Zhenzhong",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-emnlp.34",
+    pages = "615--636",
+    abstract = "Developing specialized dialogue systems for mental health support requires multi-turn conversation data, which has recently garnered increasing attention. However, gathering and releasing large-scale, real-life multi-turn conversations that could facilitate advancements in mental health support presents challenges in data privacy protection and the time and cost involved in crowdsourcing. To address these challenges, we introduce SMILE, a single-turn to multi-turn inclusive language expansion technique that prompts ChatGPT to rewrite public single-turn dialogues into multi-turn ones. Our work begins by analyzing language transformation and validating the feasibility of our proposed method. We conduct a study on dialogue diversity, including lexical features, semantic features, and dialogue topics, demonstrating the effectiveness of our method. Further, we employ our method to generate a large-scale, lifelike, and diverse dialogue dataset named SMILECHAT, consisting of 55k dialogues. Finally, we utilize the collected corpus to develop a mental health chatbot, MeChat. To better assess the quality of SMILECHAT, we collect a small-scale real-life counseling dataset conducted by data anonymization. Both automatic and human evaluations demonstrate significant improvements in our dialogue system and confirm that SMILECHAT is high-quality. Code, data, and model are publicly available at https://github.com/qiuhuachuan/smile.",
 }
 ```
 
