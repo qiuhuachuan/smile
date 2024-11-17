@@ -6,7 +6,7 @@
 
 ## 🎉🎉🎉 accepted to the EMNLP 2024 Findings
 
-<img src="https://img.shields.io/badge/Version-1.0-brightgreen" /> <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /> <a href='https://arxiv.org/pdf/2305.00450.pdf'><img src='https://img.shields.io/badge/ArXiv-2305.00450-red'></a>
+<img src="https://img.shields.io/badge/Version-1.0-brightgreen" /> <img src="https://img.shields.io/badge/python-3.8+-blue.svg" /> <a href='https://aclanthology.org/2024.findings-emnlp.34/'><img src='https://img.shields.io/badge/EMNLP-2024-red'></a>
 
 ## 模型地址
 
